@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>Clip Johnson — Approval Queue</title>
+  <link rel="icon" type="image/png" href="clipjohnson_icon.png" />
+  <style>
+    :root{
+      --bg:#0b1220; --card:#151d2e; --card2:#1b2538; --line:#27324a;
+      --text:#e8eef9; --muted:#93a1bd; --accent:#4ea1ff;
+      --ok:#2ecc71; --okd:#1f9e57; --no:#ff5b6e; --nod:#cc3b4d;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);
+      font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased}
+    header{position:sticky;top:0;z-index:5;background:rgba(11,18,32,.92);
+      backdrop-filter:blur(8px);border-bottom:1px solid var(--line);
+      padding:14px 18px;display:flex;align-items:center;gap:12px}
+    header img{width:30px;height:30px;border-radius:7px}
+    header h1{font-size:17px;margin:0;font-weight:700;letter-spacing:.2px}
+    header .count{margin-left:auto;font-size:13px;color:var(--muted)}
+    .wrap{max-width:760px;margin:0 auto;padding:18px}
+
+    /* lock screen */
+    #lock{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+    .lockbox{background:var(--card);border:1px solid var(--line);border-radius:16px;
+      padding:30px 26px;max-width:360px;width:100%;text-align:center}
+    .lockbox img{width:64px;height:64px;border-radius:14px;margin-bottom:14px}
+    .lockbox h2{margin:0 0 4px;font-size:20px}
+    .lockbox p{margin:0 0 18px;color:var(--muted);font-size:14px}
+    .lockbox input{width:100%;padding:13px 14px;border-radius:10px;border:1px solid var(--line);
+      background:var(--card2);color:var(--text);font-size:16px;text-align:center;margin-bottom:12px}
+    .lockbox button{width:100%;padding:13px;border:0;border-radius:10px;background:var(--accent);
+      color:#04122a;font-weight:700;font-size:16px;cursor:pointer}
+    .lockbox .err{color:var(--no);font-size:13px;min-height:18px;margin-top:10px}
+
+    /* cards */
+    .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+      overflow:hidden;margin-bottom:18px}
+    .card video{width:100%;display:block;background:#000;aspect-ratio:9/16;max-height:62vh;object-fit:contain}
+    .meta{padding:14px 16px}
+    .meta .title{font-weight:700;font-size:16px;margin:0 0 6px}
+    .meta .creator{color:var(--accent);font-size:13px;font-weight:600;margin-bottom:8px}
+    .meta .tags{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+    .pill{font-size:11px;color:var(--muted);background:var(--card2);border:1px solid var(--line);
+      padding:3px 9px;border-radius:999px}
+    .meta .desc{color:#cdd7ec;font-size:14px;white-space:pre-wrap;margin:0 0 4px;
+      max-height:7.5em;overflow:auto}
+    .actions{display:flex;gap:10px;padding:0 16px 16px}
+    .actions button{flex:1;padding:13px;border:0;border-radius:10px;font-weight:700;font-size:15px;cursor:pointer}
+    .approve{background:var(--ok);color:#04220f}
+    .approve:active{background:var(--okd)}
+    .reject{background:var(--no);color:#2a0509}
+    .reject:active{background:var(--nod)}
+    .actions button:disabled{opacity:.5}
+    .empty{text-align:center;color:var(--muted);padding:60px 20px}
+    .empty .big{font-size:42px;margin-bottom:10px}
+    .toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);
+      background:var(--card2);border:1px solid var(--line);color:var(--text);
+      padding:11px 18px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:20}
+    .toast.show{opacity:1}
+    .toast.bad{border-color:var(--no);color:#ffd7dc}
+    a.refresh{color:var(--muted);font-size:13px;text-decoration:none;border:1px solid var(--line);
+      padding:6px 12px;border-radius:8px;cursor:pointer}
+  </style>
+</head>
+<body>
+  <!-- LOCK SCREEN -->
+  <div id="lock">
+    <form class="lockbox" id="lockform">
+      <img src="clipjohnson_icon.png" alt="" onerror="this.style.display='none'"/>
+      <h2>Clip Johnson</h2>
+      <p>Enter the password to review today's queue.</p>
+      <input id="pw" type="password" autocomplete="current-password" placeholder="Password" autofocus />
+      <button type="submit">Unlock</button>
+      <div class="err" id="lockerr"></div>
+    </form>
+  </div>
+
+  <!-- APP (hidden until unlocked) -->
+  <div id="app" style="display:none">
+    <header>
+      <img src="clipjohnson_icon.png" alt="" onerror="this.style.display='none'"/>
+      <h1>Approval Queue</h1>
+      <span class="count" id="count"></span>
+    </header>
+    <div class="wrap" style="display:flex;justify-content:flex-end;padding-bottom:0">
+      <a class="refresh" id="refresh">↻ Refresh</a>
+    </div>
+    <div class="wrap" id="list"></div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+  // ---- config (filled by the Mac-side publisher) ------------------------
+  const REPO = "erlightbourn-source/clipjohnson-host";
+  const DECISIONS_DIR = "decisions";
+  // AES-GCM(base64 salt[16] + iv[12] + ciphertext+tag) of a fine-grained
+  // GitHub PAT, encrypted with the review password. Decrypted only in-browser.
+  const TOKEN_CIPHER = "U2a/FTCQ/0VMV8hVXhR5TlY5GthoMva8Qo2hwksVJ39rDPBex263KAowiIEDYBvRXFyoYbwm4SFz4cYNr5FbQTxbGgK8kwsnDxTVcb/tqat/W5P8HkSo87A6T5wU1QYmDx7Jai+n9w8oHOI7KQ4RWS5OZ18kqKtJmAZvRC9ZPFV8PT1b+Jhf7G4=";
+  const PBKDF2_ITERS = 200000;
+
+  // ---- crypto -----------------------------------------------------------
+  const b64dec = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+  const enc = new TextEncoder();
+
+  async function deriveKey(password, salt){
+    const base = await crypto.subtle.importKey("raw", enc.encode(password),
+      "PBKDF2", false, ["deriveKey"]);
+    return crypto.subtle.deriveKey(
+      {name:"PBKDF2", salt, iterations:PBKDF2_ITERS, hash:"SHA-256"},
+      base, {name:"AES-GCM", length:256}, false, ["decrypt"]);
+  }
+
+  async function decryptToken(password){
+    const raw = b64dec(TOKEN_CIPHER);
+    const salt = raw.slice(0,16), iv = raw.slice(16,28), ct = raw.slice(28);
+    const key = await deriveKey(password, salt);
+    const pt = await crypto.subtle.decrypt({name:"AES-GCM", iv}, key, ct);
+    return new TextDecoder().decode(pt);
+  }
+
+  // ---- state ------------------------------------------------------------
+  let TOKEN = null;
+  const decided = new Set(JSON.parse(sessionStorage.getItem("cj_decided")||"[]"));
+  const saveDecided = () => sessionStorage.setItem("cj_decided", JSON.stringify([...decided]));
+
+  // ---- ui helpers -------------------------------------------------------
+  const $ = id => document.getElementById(id);
+  let toastT;
+  function toast(msg, bad){
+    const t = $("toast"); t.textContent = msg;
+    t.className = "toast show" + (bad?" bad":"");
+    clearTimeout(toastT); toastT = setTimeout(()=>t.className="toast", 2200);
+  }
+
+  // ---- unlock -----------------------------------------------------------
+  $("lockform").addEventListener("submit", async e => {
+    e.preventDefault();
+    const pw = $("pw").value;
+    $("lockerr").textContent = "";
+    try {
+      TOKEN = await decryptToken(pw);
+      sessionStorage.setItem("cj_pw", pw);
+      showApp();
+    } catch {
+      $("lockerr").textContent = "Wrong password.";
+      $("pw").select();
+    }
+  });
+
+  function showApp(){
+    $("lock").style.display = "none";
+    $("app").style.display = "block";
+    loadQueue();
+  }
+
+  // try to auto-unlock from this session
+  (async () => {
+    const pw = sessionStorage.getItem("cj_pw");
+    if (pw){ try { TOKEN = await decryptToken(pw); showApp(); } catch {} }
+  })();
+
+  // ---- queue ------------------------------------------------------------
+  async function loadQueue(){
+    $("list").innerHTML = '<div class="empty">Loading…</div>';
+    let data;
+    try {
+      const r = await fetch("queue.json?t=" + Date.now(), {cache:"no-store"});
+      data = await r.json();
+    } catch { $("list").innerHTML = '<div class="empty">Could not load the queue.</div>'; return; }
+    const clips = (data.clips||[]).filter(c => !decided.has(c.clip_id));
+    $("count").textContent = clips.length ? clips.length + " to review" : "";
+    if (!clips.length){
+      $("list").innerHTML =
+        '<div class="empty"><div class="big">✅</div>All caught up — nothing to review right now.<br>'+
+        'New clips show up automatically through the day.</div>';
+      return;
+    }
+    $("list").innerHTML = "";
+    for (const c of clips) $("list").appendChild(renderCard(c));
+  }
+
+  function renderCard(c){
+    const el = document.createElement("div");
+    el.className = "card";
+    const tags = [];
+    if (c.duration) tags.push(c.duration + "s");
+    if (c.signal) tags.push(c.signal);
+    el.innerHTML = `
+      <video src="${c.video_url}" controls preload="metadata" playsinline></video>
+      <div class="meta">
+        <p class="title"></p>
+        <div class="creator"></div>
+        <div class="tags">${tags.map(t=>`<span class="pill"></span>`).join("")}</div>
+        <p class="desc"></p>
+      </div>
+      <div class="actions">
+        <button class="reject">✕ Reject</button>
+        <button class="approve">✓ Approve</button>
+      </div>`;
+    el.querySelector(".title").textContent = c.title || "Untitled clip";
+    el.querySelector(".creator").textContent = c.creator ? "▶ " + c.creator : "";
+    el.querySelectorAll(".pill").forEach((p,i)=>p.textContent = tags[i]);
+    el.querySelector(".desc").textContent = c.description || "";
+    const btns = el.querySelectorAll(".actions button");
+    el.querySelector(".approve").onclick = () => decide(c, "approve", el, btns);
+    el.querySelector(".reject").onclick  = () => decide(c, "reject",  el, btns);
+    return el;
+  }
+
+  async function decide(c, action, el, btns){
+    btns.forEach(b => b.disabled = true);
+    try {
+      await writeDecision(c.clip_id, action);
+      decided.add(c.clip_id); saveDecided();
+      el.style.transition = "opacity .25s"; el.style.opacity = "0";
+      setTimeout(() => { el.remove(); refreshCount(); }, 250);
+      toast(action === "approve" ? "Approved — it'll post automatically" : "Rejected");
+    } catch (err){
+      btns.forEach(b => b.disabled = false);
+      toast("Couldn't save — try again", true);
+      console.error(err);
+    }
+  }
+
+  function refreshCount(){
+    const left = document.querySelectorAll("#list .card").length;
+    $("count").textContent = left ? left + " to review" : "";
+    if (!left) loadQueue();
+  }
+
+  async function writeDecision(clipId, action){
+    const path = `${DECISIONS_DIR}/${clipId}.json`;
+    const api = `https://api.github.com/repos/${REPO}/contents/${path}`;
+    const headers = {Authorization:"Bearer "+TOKEN, Accept:"application/vnd.github+json"};
+    // include sha if the file already exists (idempotent re-decide)
+    let sha;
+    const head = await fetch(api, {headers, cache:"no-store"});
+    if (head.ok) sha = (await head.json()).sha;
+    const body = {
+      message: `${action} ${clipId}`,
+      content: btoa(JSON.stringify({clip_id:clipId, action, ts:Date.now()})),
+    };
+    if (sha) body.sha = sha;
+    const r = await fetch(api, {method:"PUT", headers, body:JSON.stringify(body)});
+    if (!r.ok) throw new Error("github " + r.status + " " + await r.text());
+  }
+
+  $("refresh").onclick = loadQueue;
+  </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>TikTok OAuth</title>
+<body style="font-family:system-ui;background:#0e0f13;color:#e7e9ee;padding:40px">
+<h2>TikTok authorization</h2>
+<p>Copy the value below:</p>
+<pre id="o" style="background:#151821;padding:14px;border-radius:8px;white-space:pre-wrap;word-break:break-all"></pre>
+<script>
+ const p=new URLSearchParams(location.search);
+ document.getElementById('o').textContent =
+   'code='+(p.get('code')||'(none)')+'\nstate='+(p.get('state')||'')+'\nscopes='+(p.get('scopes')||'');
+</script></body>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="tiktok-developers-site-verification" content="QTEL8bMcMSNbeLZ75RMGGF5ALcbqSgVO">
+<title>Clip Johnson</title>
+</head>
+<body style="font-family:system-ui;background:#0e0f13;color:#e7e9ee;padding:40px;line-height:1.5">
+<h1>🎬 Clip Johnson</h1>
+<p>Automated clip hosting endpoint.</p>
+<div id="out"></div>
+<script>
+const p = new URLSearchParams(location.search);
+const code = p.get('code'), err = p.get('error');
+const out = document.getElementById('out');
+if (code) {
+  out.innerHTML = '<h2>✅ Authorization code received</h2>'
+    + '<p>Copy this entire URL and paste it back to Claude:</p>'
+    + '<textarea style="width:100%;height:90px;font-size:14px;padding:8px" onclick="this.select()">'
+    + location.href + '</textarea>';
+} else if (err) {
+  out.innerHTML = '<h2>⚠ ' + err + '</h2><p>' + (p.get('error_description')||'') + '</p>';
+}
+</script>
+</body>
+</html>
