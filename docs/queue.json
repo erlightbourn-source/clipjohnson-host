@@ -593,6 +593,87 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_single.png",
       "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_single.png"
+    },
+    {
+      "clip_id": "pga_open_preview",
+      "title": "The Open is here \u2014 Royal Birkdale (2-card)",
+      "description": "The Open is here. \u26f3 Golf's oldest major returns to Royal Birkdale \u2014 156 players, 4 rounds, one Claret Jug. Rory, Lowry, Morikawa and Cam Smith are all in the field. Who's lifting it Sunday? \ud83d\udc47\nFollow @clip.johnson2 for daily coverage all week \u2014 Jul 16\u201319.",
+      "creator": "",
+      "blurb": "",
+      "signal": "editorial",
+      "duration": 0,
+      "grade": 0,
+      "note": "PGA/LIV Open preview \u2014 2-card carousel 1\u21922 (Marcus signoff 7/13)",
+      "source_url": null,
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "carousel",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "is_carousel": true,
+        "frame_count": 2,
+        "passed": true,
+        "frames": [
+          {
+            "order": 1,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/pga_open_preview_f1.png",
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 2,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/pga_open_preview_f2.png",
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ],
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "2/2 frames crop-safe"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png",
+      "frames": [
+        {
+          "order": 1,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png"
+        },
+        {
+          "order": 2,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f2.png"
+        }
+      ],
+      "frame_count": 2
     }
   ]
 }
