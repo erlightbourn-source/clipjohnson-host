@@ -12,6 +12,46 @@
       "note": "Dir 83 \u00b7 Funny 73 \u2014 self-reference of chip trick",
       "source_url": "https://www.youtube.com/watch?v=A6SOILwZ1DY",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_clip01.mp4"
     },
     {
@@ -26,6 +66,46 @@
       "note": "Dir 82 \u00b7 Funny 73 \u2014 Self-deprecating swing comment",
       "source_url": "https://www.youtube.com/watch?v=A6SOILwZ1DY",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_clip02.mp4"
     },
     {
@@ -40,6 +120,46 @@
       "note": "Dir 85 \u00b7 Funny 78 \u2014 Repetitive praise lacks punch",
       "source_url": "https://www.youtube.com/watch?v=HPrvp-vJvTA",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HPrvp-vJvTA_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HPrvp-vJvTA_clip01.mp4"
     },
     {
@@ -54,6 +174,46 @@
       "note": "Dir 83 \u00b7 Funny 78 \u2014 savage roast of putting struggles",
       "source_url": "https://www.youtube.com/watch?v=HPrvp-vJvTA",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HPrvp-vJvTA_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HPrvp-vJvTA_clip02.mp4"
     },
     {
@@ -68,6 +228,46 @@
       "note": "Dir 92 \u00b7 Funny 78 \u2014 self-deprecating almost-in.",
       "source_url": "https://www.youtube.com/watch?v=SLRLmpC9GHY",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip01.mp4"
     },
     {
@@ -82,6 +282,46 @@
       "note": "Dir 92 \u00b7 Funny 83 \u2014 Gut feeling advice is relatable but lacks punchline",
       "source_url": "https://www.youtube.com/watch?v=SLRLmpC9GHY",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip02.mp4"
     },
     {
@@ -96,6 +336,46 @@
       "note": "Dir 85 \u00b7 Funny 75 \u2014 Mental approach commentary lacks punchline",
       "source_url": "https://www.youtube.com/watch?v=UVhe2gJz-kY",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UVhe2gJz-kY_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UVhe2gJz-kY_clip01.mp4"
     },
     {
@@ -110,6 +390,46 @@
       "note": "Dir 92 \u00b7 Funny 83 \u2014 clever 'bad boy' burn",
       "source_url": "https://www.youtube.com/watch?v=W4oWfLj94ag",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/W4oWfLj94ag_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/W4oWfLj94ag_clip01.mp4"
     },
     {
@@ -124,6 +444,46 @@
       "note": "Dir 92 \u00b7 Funny 83 \u2014 Eyebrow jokes and stats are mildly amusing",
       "source_url": "https://www.youtube.com/watch?v=W4oWfLj94ag",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/W4oWfLj94ag_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/W4oWfLj94ag_clip02.mp4"
     },
     {
@@ -138,7 +498,182 @@
       "note": "Dir 92 \u00b7 Funny 78 \u2014 savage roast of opponent's performance",
       "source_url": "https://www.youtube.com/watch?v=lIIeDjWv7OE",
       "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lIIeDjWv7OE_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lIIeDjWv7OE_clip02.mp4"
+    },
+    {
+      "clip_id": "pga_open_preview_single",
+      "title": "The Open is here \u2014 Royal Birkdale",
+      "description": "The 154th Open Championship \u2014 Royal Birkdale, Southport, England. July 16\u201319, 2026. 156-player field; names to watch: McIlroy, Lowry, Morikawa, Cameron Smith.",
+      "creator": "",
+      "blurb": "",
+      "signal": "editorial",
+      "duration": 0,
+      "grade": 0,
+      "note": "PGA/LIV Open preview \u2014 single card (Marcus signoff 7/13)",
+      "source_url": null,
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_single.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_single.png"
+    },
+    {
+      "clip_id": "pga_open_preview",
+      "title": "The Open is here \u2014 Royal Birkdale (2-card)",
+      "description": "The 154th Open Championship \u2014 Royal Birkdale, Southport, England. July 16\u201319, 2026. 156-player field; names to watch: McIlroy, Lowry, Morikawa, Cameron Smith.",
+      "creator": "",
+      "blurb": "",
+      "signal": "editorial",
+      "duration": 0,
+      "grade": 0,
+      "note": "PGA/LIV Open preview \u2014 2-card carousel 1\u21922 (Marcus signoff 7/13)",
+      "source_url": null,
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "carousel",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "is_carousel": true,
+        "frame_count": 2,
+        "passed": true,
+        "frames": [
+          {
+            "order": 1,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/pga_open_preview_f1.png",
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 2,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/pga_open_preview_f2.png",
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ],
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "2/2 frames crop-safe"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png",
+      "frames": [
+        {
+          "order": 1,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f1.png"
+        },
+        {
+          "order": 2,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_open_preview_f2.png"
+        }
+      ],
+      "frame_count": 2
     }
   ]
 }

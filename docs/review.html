@@ -40,7 +40,8 @@
     /* cards */
     .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
       overflow:hidden;margin-bottom:18px}
-    .card video{width:100%;display:block;background:#000;aspect-ratio:9/16;max-height:62vh;object-fit:contain}
+    .card .cardmedia{width:100%;display:block;background:#000;max-height:62vh;object-fit:contain}
+    .card video.cardmedia{aspect-ratio:9/16}  /* holds height before metadata loads */
     .meta{padding:14px 16px}
     .meta .title{font-weight:700;font-size:16px;margin:0 0 6px}
     .meta .creator{color:var(--accent);font-size:13px;font-weight:600;margin-bottom:8px}
@@ -185,19 +186,56 @@
     for (const c of clips) $("list").appendChild(renderCard(c));
   }
 
+  // Short human label for the mixed-batch content type (tip / PGA-LIV / …).
+  const TYPE_LABELS = {comedy:"comedy", top5:"Top 5", tip_card:"tip",
+    pga_liv_card:"PGA/LIV", golf_story:"story", golf_stat:"stat",
+    golf_news:"news", golf_commentary:"take"};
+  const labelType = t => TYPE_LABELS[t] || t;
+
   function renderCard(c){
     const el = document.createElement("div");
     el.className = "card";
     const tags = [];
+    if (c.type) tags.push(labelType(c.type));
     if (typeof c.grade === "number" && c.grade) tags.push("★ " + c.grade + "/100");
     if (c.duration) tags.push(c.duration + "s");
     if (c.signal) tags.push(c.signal);
+    // ONE unified queue carries both video clips and still-image cards — render
+    // <img> for a card, <video> for a clip (Reid P1, 2026-07-13). URL is our own
+    // published media_url (falls back to the kind-specific field for old items).
+    const mediaUrl = c.media_url || c.video_url || c.image_url || "";
+    // Carousel (Reid/Owen 2026-07-13): a multi-frame card shown in order 1..N
+    // with a ‹/› pager, so the reviewer sees EVERY frame — not just the cover —
+    // before approving. Frame URLs are our own published media; the pager is
+    // wired via DOM after render (below).
+    const isCarousel = c.media_type === "carousel"
+      && Array.isArray(c.frames) && c.frames.length > 1;
+    let media;
+    if (isCarousel){
+      const n = c.frames.length;
+      media = `<div class="carousel" style="position:relative">
+        <img class="cardmedia carframe" src="${mediaUrl}" alt="" loading="lazy" />
+        <div class="carpager" style="position:absolute;left:0;right:0;bottom:8px;display:flex;
+             justify-content:center;gap:10px;align-items:center">
+          <button class="carprev" style="border:0;border-radius:50%;width:30px;height:30px;
+             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer">‹</button>
+          <span class="carcount" style="background:rgba(0,0,0,.55);color:#fff;font-size:12px;
+             padding:2px 8px;border-radius:10px">1/${n}</span>
+          <button class="carnext" style="border:0;border-radius:50%;width:30px;height:30px;
+             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer">›</button>
+        </div></div>`;
+    } else {
+      media = (c.media_type === "image")
+        ? `<img class="cardmedia" src="${mediaUrl}" alt="" loading="lazy" />`
+        : `<video class="cardmedia" src="${mediaUrl}" controls preload="metadata" playsinline></video>`;
+    }
     el.innerHTML = `
-      <video src="${c.video_url}" controls preload="metadata" playsinline></video>
+      ${media}
       <div class="meta">
         <p class="title"></p>
         <div class="creator"></div>
         <div class="prov" style="font-size:12px;margin:0 0 8px"></div>
+        <div class="gate" style="font-size:11px;margin:0 0 8px"></div>
         <div class="tags">${tags.map(t=>`<span class="pill"></span>`).join("")}</div>
         <div class="note" style="font-size:12px;color:var(--muted);margin:0 0 8px"></div>
         <p class="desc"></p>
@@ -225,6 +263,44 @@
         a.style.color = "var(--accent)";
         prov.appendChild(a);
       }
+    }
+    // Gate manifest (Reid 2026-07-13): which check profile cleared this item.
+    // DOM-built, so no field can inject markup. Every item on the page already
+    // passed the gate; this shows WHICH checks ran for its content_type.
+    const g = el.querySelector(".gate");
+    const man = c.check_manifest;
+    if (man && Array.isArray(man.checks)){
+      const ct = document.createElement("span");
+      ct.textContent = (c.content_type || man.content_type || "clip");
+      ct.style.cssText = "font-weight:600;color:var(--muted)";
+      g.appendChild(ct);
+      g.appendChild(document.createTextNode(" — "));
+      man.checks.forEach((ck, i) => {
+        if (i) g.appendChild(document.createTextNode(" "));
+        const s = document.createElement("span");
+        if (!ck.applicable){ s.textContent = ck.check + "·n/a"; s.style.color = "var(--muted)"; }
+        else if (ck.passed){ s.textContent = ck.check + "✓"; s.style.color = "#2e9e5b"; }
+        else { s.textContent = ck.check + "✗"; s.style.color = "#c0392b"; }
+        g.appendChild(s);
+      });
+    }
+    // Wire the carousel pager (Reid/Owen 2026-07-13): cycle frames in order.
+    if (isCarousel){
+      const frames = c.frames.slice().sort((a,b)=>(a.order||0)-(b.order||0));
+      const img = el.querySelector(".carframe");
+      const count = el.querySelector(".carcount");
+      let idx = 0;
+      const show = () => {
+        img.src = frames[idx].image_url || mediaUrl;
+        count.textContent = (idx+1) + "/" + frames.length;
+      };
+      el.querySelector(".carprev").onclick = (e)=>{
+        e.preventDefault(); idx = (idx - 1 + frames.length) % frames.length; show();
+      };
+      el.querySelector(".carnext").onclick = (e)=>{
+        e.preventDefault(); idx = (idx + 1) % frames.length; show();
+      };
+      show();
     }
     el.querySelectorAll(".pill").forEach((p,i)=>p.textContent = tags[i]);
     el.querySelector(".note").textContent = c.note || "";
