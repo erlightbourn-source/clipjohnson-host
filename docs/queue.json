@@ -20,6 +20,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -36,6 +37,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -74,6 +81,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -90,6 +98,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -128,6 +142,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -144,6 +159,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -182,6 +203,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -198,6 +220,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -236,6 +264,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -252,6 +281,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -290,6 +325,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -306,6 +342,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -344,6 +386,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -360,6 +403,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -398,6 +447,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -414,6 +464,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -452,6 +508,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -468,6 +525,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
@@ -506,6 +569,7 @@
         "order": [
           "provenance",
           "db_truth",
+          "asset_exists",
           "brand_safety",
           "pixel_format"
         ],
@@ -522,6 +586,12 @@
             "applicable": true,
             "passed": true,
             "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
           },
           {
             "check": "brand_safety",
