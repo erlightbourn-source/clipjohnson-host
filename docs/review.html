@@ -192,6 +192,30 @@
     golf_news:"news", golf_commentary:"take"};
   const labelType = t => TYPE_LABELS[t] || t;
 
+  // Real poster frame, not black (Marcus 2026-07-15): the #t media-fragment is
+  // unreliable for painting a poster (headless + some mobile browsers leave it
+  // black). Deterministic fix — once the frame decodes, seek to 0.1s, draw it to
+  // a canvas and set THAT as the <video> poster. Same-origin media, so no taint.
+  // Muted + no autoplay stay intact; this only replaces the still shown pre-play.
+  function posterizeVideo(v){
+    let done = false;
+    const capture = () => {
+      if (done || !v.videoWidth) return;
+      try {
+        const c = document.createElement("canvas");
+        c.width = v.videoWidth; c.height = v.videoHeight;
+        c.getContext("2d").drawImage(v, 0, 0, c.width, c.height);
+        v.setAttribute("poster", c.toDataURL("image/jpeg", 0.72));
+        done = true;
+      } catch(e){ /* leave the #t fallback poster if capture ever fails */ }
+    };
+    v.addEventListener("loadeddata", () => {
+      try { v.currentTime = 0.1; } catch(e){ capture(); }
+    }, {once:true});
+    v.addEventListener("seeked", capture, {once:true});
+    if (v.readyState >= 2) { try { v.currentTime = 0.1; } catch(e){ capture(); } }
+  }
+
   function renderCard(c){
     const el = document.createElement("div");
     el.className = "card";
@@ -213,21 +237,28 @@
     let media;
     if (isCarousel){
       const n = c.frames.length;
-      media = `<div class="carousel" style="position:relative">
-        <img class="cardmedia carframe" src="${mediaUrl}" alt="" loading="lazy" />
-        <div class="carpager" style="position:absolute;left:0;right:0;bottom:8px;display:flex;
-             justify-content:center;gap:10px;align-items:center">
+      // A card can mix VIDEO + PHOTO frames (Dev 2026-07-15): the slot is rebuilt
+      // as <video> or <img> per frame in show(), and the reviewer finger-swipes the
+      // whole set. touch-action:pan-y lets a horizontal swipe drive the carousel
+      // while vertical scroll still moves the page.
+      media = `<div class="carousel" style="position:relative;touch-action:pan-y">
+        <div class="carslot"></div>
+        <div class="carpager" style="position:absolute;left:0;right:0;top:8px;display:flex;
+             justify-content:center;gap:10px;align-items:center;z-index:2;pointer-events:none">
           <button class="carprev" style="border:0;border-radius:50%;width:30px;height:30px;
-             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer">‹</button>
+             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer;pointer-events:auto">‹</button>
           <span class="carcount" style="background:rgba(0,0,0,.55);color:#fff;font-size:12px;
-             padding:2px 8px;border-radius:10px">1/${n}</span>
+             padding:2px 8px;border-radius:10px;display:inline-flex;gap:5px;align-items:center;pointer-events:auto">
+             <span class="cartype" title="" style="font-size:11px;line-height:1"></span>
+             <span class="carnum">1/${n}</span></span>
           <button class="carnext" style="border:0;border-radius:50%;width:30px;height:30px;
-             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer">›</button>
+             font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer;pointer-events:auto">›</button>
         </div></div>`;
     } else {
-      media = (c.media_type === "image")
-        ? `<img class="cardmedia" src="${mediaUrl}" alt="" loading="lazy" />`
-        : `<video class="cardmedia" src="${mediaUrl}" controls preload="metadata" playsinline></video>`;
+      // Non-carousel media is built via DOM below (not interpolated into innerHTML)
+      // so a media URL can never inject markup — same invariant the carousel /
+      // provenance / gate renders already hold (Cole hardening 2026-07-15).
+      media = `<div class="mediaslot"></div>`;
     }
     el.innerHTML = `
       ${media}
@@ -244,6 +275,24 @@
         <button class="reject">✕ Reject</button>
         <button class="approve">✓ Approve</button>
       </div>`;
+    // Non-carousel media, DOM-built (Cole hardening 2026-07-15): <img> for an image
+    // card, <video> (muted + tap-to-play + real captured poster) for a clip. .src is
+    // set as a property, never interpolated into markup.
+    if (!isCarousel){
+      const mslot = el.querySelector(".mediaslot");
+      if (c.media_type === "image"){
+        const img = document.createElement("img");
+        img.className = "cardmedia"; img.src = mediaUrl; img.alt = ""; img.loading = "lazy";
+        mslot.appendChild(img);
+      } else {
+        const v = document.createElement("video");
+        v.className = "cardmedia";
+        v.src = mediaUrl && mediaUrl.indexOf("#") < 0 ? mediaUrl + "#t=0.1" : mediaUrl;
+        v.muted = true; v.controls = true; v.playsInline = true; v.preload = "metadata";
+        mslot.appendChild(v);
+        posterizeVideo(v);
+      }
+    }
     el.querySelector(".title").textContent = c.title || "Untitled clip";
     el.querySelector(".creator").textContent = c.creator ? "▶ " + c.creator : "";
     // Provenance (visibility only, Reid 2026-07-13): label + clickable source.
@@ -284,22 +333,70 @@
         g.appendChild(s);
       });
     }
-    // Wire the carousel pager (Reid/Owen 2026-07-13): cycle frames in order.
+    // Wire the carousel (Reid/Owen 2026-07-13; mixed-media + swipe: Dev 2026-07-15):
+    // cycle frames in order, rendering each as <video> or <img> by its own type, and
+    // let the reviewer finger-swipe the whole set (‹/› buttons stay for desktop).
     if (isCarousel){
       const frames = c.frames.slice().sort((a,b)=>(a.order||0)-(b.order||0));
-      const img = el.querySelector(".carframe");
-      const count = el.querySelector(".carcount");
+      const slot = el.querySelector(".carslot");
+      const carnum = el.querySelector(".carnum");
+      const cartype = el.querySelector(".cartype");
+      const car = el.querySelector(".carousel");
       let idx = 0;
       const show = () => {
-        img.src = frames[idx].image_url || mediaUrl;
-        count.textContent = (idx+1) + "/" + frames.length;
+        const f = frames[idx] || {};
+        const fUrl = f.media_url || f.image_url || f.video_url || mediaUrl;
+        // explicit media_type wins; otherwise sniff the extension.
+        const isVid = f.media_type === "video"
+          || (!f.media_type && /\.(mp4|mov|webm|m4v)(\?|$)/i.test(fUrl));
+        // DOM-built (not innerHTML) so a frame URL can never inject markup —
+        // matches the provenance/gate render pattern above (Dev 2026-07-15,
+        // Cole hardening ask). replaceChildren clears the prior frame first.
+        slot.replaceChildren();
+        if (isVid){
+          // Review-surface video (Marcus 2026-07-15): muted + tap-to-play (controls,
+          // NO autoplay → never fires sound in the gate). A #t media-fragment forces
+          // the browser to paint a REAL first frame as the poster instead of black.
+          const poster = f.poster_url ||
+            (fUrl.indexOf("#") >= 0 ? fUrl : fUrl + "#t=0.1");
+          const v = document.createElement("video");
+          v.className = "cardmedia carframe";
+          v.src = poster;
+          if (f.poster_url) v.poster = f.poster_url;
+          v.muted = true; v.controls = true; v.playsInline = true;
+          v.preload = "metadata";
+          slot.appendChild(v);
+          posterizeVideo(v);
+        } else {
+          const img = document.createElement("img");
+          img.className = "cardmedia carframe";
+          img.src = fUrl;
+          img.alt = "";
+          img.loading = "lazy";
+          slot.appendChild(img);
+        }
+        // Type dot per frame (Marcus 2026-07-15): the reviewer always knows whether
+        // the frame in front of them is video or photo, plus how many remain.
+        cartype.textContent = isVid ? "▶" : "▣";
+        cartype.title = isVid ? "video frame" : "photo frame";
+        cartype.style.color = isVid ? "#4ea1ff" : "#93a1bd";
+        carnum.textContent = (idx+1) + "/" + frames.length;
       };
-      el.querySelector(".carprev").onclick = (e)=>{
-        e.preventDefault(); idx = (idx - 1 + frames.length) % frames.length; show();
-      };
-      el.querySelector(".carnext").onclick = (e)=>{
-        e.preventDefault(); idx = (idx + 1) % frames.length; show();
-      };
+      const go = (d) => { idx = (idx + d + frames.length) % frames.length; show(); };
+      el.querySelector(".carprev").onclick = (e)=>{ e.preventDefault(); go(-1); };
+      el.querySelector(".carnext").onclick = (e)=>{ e.preventDefault(); go(1); };
+      // True finger-swipe: a horizontal throw >40px advances (left) or rewinds
+      // (right); vertical-dominant gestures are ignored so page scroll still works.
+      let x0 = null, y0 = null;
+      car.addEventListener("touchstart", (e)=>{
+        const t = e.changedTouches[0]; x0 = t.clientX; y0 = t.clientY;
+      }, {passive:true});
+      car.addEventListener("touchend", (e)=>{
+        if (x0 === null) return;
+        const t = e.changedTouches[0], dx = t.clientX - x0, dy = t.clientY - y0;
+        if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) go(dx < 0 ? 1 : -1);
+        x0 = y0 = null;
+      }, {passive:true});
       show();
     }
     el.querySelectorAll(".pill").forEach((p,i)=>p.textContent = tags[i]);
