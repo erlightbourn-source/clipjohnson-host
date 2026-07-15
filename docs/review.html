@@ -237,10 +237,11 @@
     let media;
     if (isCarousel){
       const n = c.frames.length;
-      // A card can mix VIDEO + PHOTO frames (Dev 2026-07-15): the slot is rebuilt
-      // as <video> or <img> per frame in show(), and the reviewer finger-swipes the
-      // whole set. touch-action:pan-y lets a horizontal swipe drive the carousel
-      // while vertical scroll still moves the page.
+      // Image-only carousel (Dev 2026-07-15, Owen ruling B): frames are ordered
+      // stills the reviewer finger-swipes through. touch-action:pan-y lets a
+      // horizontal swipe drive the carousel while vertical scroll still moves the
+      // page. (Mixed video+photo frames are deferred WITH the held backend — the
+      // producer can't emit a video frame today, so no video branch ships here.)
       media = `<div class="carousel" style="position:relative;touch-action:pan-y">
         <div class="carslot"></div>
         <div class="carpager" style="position:absolute;left:0;right:0;top:8px;display:flex;
@@ -248,8 +249,7 @@
           <button class="carprev" style="border:0;border-radius:50%;width:30px;height:30px;
              font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer;pointer-events:auto">‹</button>
           <span class="carcount" style="background:rgba(0,0,0,.55);color:#fff;font-size:12px;
-             padding:2px 8px;border-radius:10px;display:inline-flex;gap:5px;align-items:center;pointer-events:auto">
-             <span class="cartype" title="" style="font-size:11px;line-height:1"></span>
+             padding:2px 8px;border-radius:10px;pointer-events:auto">
              <span class="carnum">1/${n}</span></span>
           <button class="carnext" style="border:0;border-radius:50%;width:30px;height:30px;
              font-size:16px;background:rgba(0,0,0,.55);color:#fff;cursor:pointer;pointer-events:auto">›</button>
@@ -333,53 +333,30 @@
         g.appendChild(s);
       });
     }
-    // Wire the carousel (Reid/Owen 2026-07-13; mixed-media + swipe: Dev 2026-07-15):
-    // cycle frames in order, rendering each as <video> or <img> by its own type, and
-    // let the reviewer finger-swipe the whole set (‹/› buttons stay for desktop).
+    // Wire the image-only carousel (Reid/Owen 2026-07-13; swipe: Dev 2026-07-15):
+    // cycle ordered still frames and let the reviewer finger-swipe the whole set
+    // (‹/› buttons stay for desktop). Video-in-carousel is deferred WITH the held
+    // mixed-media backend (the producer can't emit a video frame today) — so no
+    // video branch and no type badge ship here (Owen ruling B, 2026-07-15).
     if (isCarousel){
       const frames = c.frames.slice().sort((a,b)=>(a.order||0)-(b.order||0));
       const slot = el.querySelector(".carslot");
       const carnum = el.querySelector(".carnum");
-      const cartype = el.querySelector(".cartype");
       const car = el.querySelector(".carousel");
       let idx = 0;
       const show = () => {
         const f = frames[idx] || {};
-        const fUrl = f.media_url || f.image_url || f.video_url || mediaUrl;
-        // explicit media_type wins; otherwise sniff the extension.
-        const isVid = f.media_type === "video"
-          || (!f.media_type && /\.(mp4|mov|webm|m4v)(\?|$)/i.test(fUrl));
+        const fUrl = f.media_url || f.image_url || mediaUrl;
         // DOM-built (not innerHTML) so a frame URL can never inject markup —
         // matches the provenance/gate render pattern above (Dev 2026-07-15,
         // Cole hardening ask). replaceChildren clears the prior frame first.
         slot.replaceChildren();
-        if (isVid){
-          // Review-surface video (Marcus 2026-07-15): muted + tap-to-play (controls,
-          // NO autoplay → never fires sound in the gate). A #t media-fragment forces
-          // the browser to paint a REAL first frame as the poster instead of black.
-          const poster = f.poster_url ||
-            (fUrl.indexOf("#") >= 0 ? fUrl : fUrl + "#t=0.1");
-          const v = document.createElement("video");
-          v.className = "cardmedia carframe";
-          v.src = poster;
-          if (f.poster_url) v.poster = f.poster_url;
-          v.muted = true; v.controls = true; v.playsInline = true;
-          v.preload = "metadata";
-          slot.appendChild(v);
-          posterizeVideo(v);
-        } else {
-          const img = document.createElement("img");
-          img.className = "cardmedia carframe";
-          img.src = fUrl;
-          img.alt = "";
-          img.loading = "lazy";
-          slot.appendChild(img);
-        }
-        // Type dot per frame (Marcus 2026-07-15): the reviewer always knows whether
-        // the frame in front of them is video or photo, plus how many remain.
-        cartype.textContent = isVid ? "▶" : "▣";
-        cartype.title = isVid ? "video frame" : "photo frame";
-        cartype.style.color = isVid ? "#4ea1ff" : "#93a1bd";
+        const img = document.createElement("img");
+        img.className = "cardmedia carframe";
+        img.src = fUrl;
+        img.alt = "";
+        img.loading = "lazy";
+        slot.appendChild(img);
         carnum.textContent = (idx+1) + "/" + frames.length;
       };
       const go = (d) => { idx = (idx + d + frames.length) % frames.length; show(); };
