@@ -1,3 +1,6 @@
 
 # local editor backups — never publish to Pages
 *.bak-*
+
+# cross-instance edit locks — never publish
+.locks/
