@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "8TLLWB5pR5c_clip01",
-      "title": "Can I BREAK PAR at Royal Birkdale? (The Open Edition)",
-      "description": "Can I BREAK PAR at Royal Birkdale? (The Open Edition)\n\nGolfer's hilarious struggle with lobbages\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golfcomedy #loppingstruggles #golftips",
-      "creator": "Peter Finch Golf",
-      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
-      "signal": "sampled",
-      "duration": 34,
-      "grade": 83,
-      "note": "Dir 83 \u00b7 Funny 75 \u00b7 Shot 35 \u2014 no evidence of a special shot",
-      "source_url": "https://www.youtube.com/watch?v=8TLLWB5pR5c",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8TLLWB5pR5c_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8TLLWB5pR5c_clip01.mp4"
-    },
-    {
       "clip_id": "8TLLWB5pR5c_clip02",
       "title": "Can I BREAK PAR at Royal Birkdale? (The Open Edition)",
       "description": "Can I BREAK PAR at Royal Birkdale? (The Open Edition)\n\nPeter Finch Golf's hilarious bunker conundrum\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #bunkerstruggles #golflife #parfectlyfrustrating",
