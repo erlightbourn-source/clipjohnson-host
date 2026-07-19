@@ -280,7 +280,16 @@
     // set as a property, never interpolated into markup.
     if (!isCarousel){
       const mslot = el.querySelector(".mediaslot");
-      if (c.media_type === "image"){
+      // Never put a still in a <video> (Dev 2026-07-19, still-in-video-slot bug):
+      // the asset extension is authoritative — our published media is .png/.jpg for
+      // cards and .mp4 for clips — so a card whose media_type is missing or mis-typed
+      // (a still content_type not in the image set, e.g. golf_news/golf_commentary)
+      // still renders as an <img> instead of a blank video slot. Falls back to the
+      // declared media_type only when the URL carries no recognizable extension.
+      const _looksImg = /\.(png|jpe?g|webp|gif|avif)(?:[?#]|$)/i.test(mediaUrl);
+      const _looksVid = /\.(mp4|mov|webm|m4v)(?:[?#]|$)/i.test(mediaUrl);
+      const asImage = _looksImg ? true : (_looksVid ? false : (c.media_type === "image"));
+      if (asImage){
         const img = document.createElement("img");
         img.className = "cardmedia"; img.src = mediaUrl; img.alt = ""; img.loading = "lazy";
         mslot.appendChild(img);
