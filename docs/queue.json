@@ -1,3 +1,65 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "pga_20260719_r1",
+      "title": "Ryan Fox \u2014 Champion Golfer of the Year",
+      "description": "Champion Golfer of the Year. \ud83c\udfc6\nRyan Fox holds on at Royal Birkdale for his first major \u2014 one shot clear of Cameron Young. A long road to a name on the Claret Jug.",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260719_r1.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260719_r1.png"
+    }
+  ]
 }
