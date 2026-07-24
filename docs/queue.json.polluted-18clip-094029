@@ -62,6 +62,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_clip01.mp4"
     },
     {
+      "clip_id": "BPzpRK0dYGQ_clip02",
+      "title": "1 Pro Golfer vs 5 Kids (They Were So Good)",
+      "description": "Bryson DeChambeau's student sticks the chip-in to win the hole\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golftest #chippingchallenge #eaglechip",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "heatmap",
+      "duration": 32,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 80 \u2014 Eagle chip-in on par three",
+      "source_url": "https://www.youtube.com/watch?v=BPzpRK0dYGQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_clip02.mp4"
+    },
+    {
       "clip_id": "HPrvp-vJvTA_clip01",
       "title": "Who Gets Eliminated? (YGT Round 2)",
       "description": "Who Gets Eliminated? (YGT Round 2)\n\nBryan Bros Golf's Micah shares an insane tee shot\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golffail #golfdrama",
@@ -123,77 +184,16 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HPrvp-vJvTA_clip01.mp4"
     },
     {
-      "clip_id": "KDfXLdhrEZc_clip01",
-      "title": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)",
-      "description": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)\n\nGrant Horvat's hilarious intro to his golf game.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftv #granthorvat #comedygolf",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "heatmap",
-      "duration": 35,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 30 \u2014 no evidence of a special shot",
-      "source_url": "https://www.youtube.com/watch?v=KDfXLdhrEZc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip01.mp4"
-    },
-    {
-      "clip_id": "KDfXLdhrEZc_clip02",
-      "title": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)",
-      "description": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)\n\nGrant's ball takes an unexpected turn.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftv #granthorvat #bobdoesports",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "heatmap",
+      "clip_id": "HjAzBYPaBAU_clip01",
+      "title": "Can We Make Major Cut @ The Open? (Royal Birkdale)",
+      "description": "Can We Make Major Cut @ The Open? (Royal Birkdale)\n\nBryan Bros Golf's hilarious Open attempt\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golffail #bryangolf",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "sampled",
       "duration": 41,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 73 \u00b7 Shot 80 \u2014 Eagle with a great drive",
-      "source_url": "https://www.youtube.com/watch?v=KDfXLdhrEZc",
+      "note": "Dir 92 \u00b7 Funny 73 \u00b7 Shot 75 \u2014 Eagle on par three with tough wind",
+      "source_url": "https://www.youtube.com/watch?v=HjAzBYPaBAU",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -241,69 +241,8 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip02.mp4"
-    },
-    {
-      "clip_id": "KDfXLdhrEZc_clip03",
-      "title": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)",
-      "description": "Can I Beat Bob if He Throws My Ball? (1 Per Hole)\n\nGrant's hilarious reaction to hitting his ball into a tree\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftv #funnygolf #golfrants",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "heatmap",
-      "duration": 23,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 No evidence of a special shot.",
-      "source_url": "https://www.youtube.com/watch?v=KDfXLdhrEZc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip03.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KDfXLdhrEZc_clip03.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_clip01.mp4"
     },
     {
       "clip_id": "SLRLmpC9GHY_clip01",
@@ -426,6 +365,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SLRLmpC9GHY_clip02.mp4"
+    },
+    {
+      "clip_id": "TW5YKmblwxk_clip02",
+      "title": "The Hidden Golf Course in the Giant Redwood Forest",
+      "description": "The Hidden Golf Course in the Giant Redwood Forest\n\nGolf pro's round takes a dramatic turn in the giant redwood forest.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golftips #redwoods #golfround",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "sampled",
+      "duration": 43,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle putt to get to three under",
+      "source_url": "https://www.youtube.com/watch?v=TW5YKmblwxk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/TW5YKmblwxk_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/TW5YKmblwxk_clip02.mp4"
     },
     {
       "clip_id": "UVhe2gJz-kY_clip01",
@@ -731,6 +731,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lIIeDjWv7OE_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lIIeDjWv7OE_clip02.mp4"
+    },
+    {
+      "clip_id": "pga_20260719_r1",
+      "title": "Ryan Fox \u2014 Champion Golfer of the Year",
+      "description": "Champion Golfer of the Year. \ud83c\udfc6\nRyan Fox holds on at Royal Birkdale for his first major \u2014 one shot clear of Cameron Young. A long road to a name on the Claret Jug.",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260719_r1.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260719_r1.png"
+    },
+    {
+      "clip_id": "pga_20260720_g01",
+      "title": "Second Kiwi ever to lift the Jug.",
+      "description": "Ryan Fox becomes just the second New Zealander to win The Open, 63 years after Bob Charles. #golf #TheOpen #RyanFox",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260720_g01.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260720_g01.png"
     },
     {
       "clip_id": "qZtDBKDIL90_clip02",
