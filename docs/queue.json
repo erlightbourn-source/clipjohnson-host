@@ -3,7 +3,7 @@
     {
       "clip_id": "pga_20260728_01",
       "title": "ROCKET CLASSIC",
-      "description": "The 8th-annual Rocket Classic returns to Detroit Golf Club this week \u2014 145 players, 10 major champions, 21 of the world's top 50. #golf #PGATour #clipjohnson",
+      "description": "Rocket Classic tees off Thursday \u2014 Potgieter defends. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
@@ -63,8 +63,8 @@
     },
     {
       "clip_id": "pga_20260728_02",
-      "title": "DEFENDING CHAMPION",
-      "description": "Aldrich Potgieter defends his title at this week's Rocket Classic in Detroit. #golf #PGATour",
+      "title": "TWO EVENTS LEFT",
+      "description": "Two weeks until the FedExCup Playoffs open. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
@@ -121,6 +121,189 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_02.png",
       "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_02.png"
+    },
+    {
+      "clip_id": "pga_20260728_03",
+      "title": "THE DEFENDING CHAMP",
+      "description": "Aldrich Potgieter defends at the Rocket Classic. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_03.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_03.png"
+    },
+    {
+      "clip_id": "z_N07jLwBOQ_clip01",
+      "title": "Our First Roadtrip Begins.",
+      "description": "Our First Roadtrip Begins.\n\nGrant Horvat's hilarious reaction to a great shot\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftv #granthorvat #golffail",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "sampled",
+      "duration": 40,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Quarter wedge to eagle",
+      "source_url": "https://www.youtube.com/watch?v=z_N07jLwBOQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z_N07jLwBOQ_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z_N07jLwBOQ_clip01.mp4"
+    },
+    {
+      "clip_id": "z_N07jLwBOQ_clip02",
+      "title": "Our First Roadtrip Begins.",
+      "description": "Our First Roadtrip Begins.\n\nGrant's brutal honesty about his golf game\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #par3 #granthorvat #golffails",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "sampled",
+      "duration": 34,
+      "grade": 87,
+      "note": "Dir 87 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no golf shot evidence",
+      "source_url": "https://www.youtube.com/watch?v=z_N07jLwBOQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z_N07jLwBOQ_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z_N07jLwBOQ_clip02.mp4"
     }
   ]
 }
