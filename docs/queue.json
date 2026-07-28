@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "Re81bd5g_rs_clip01",
+      "title": "We Made Another Hole in One on a Par 4",
+      "description": "We Made Another Hole in One on a Par 4\n\nGolfers debate the best way to hit a punch shot through a tree.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #punchshot #golfhumor",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "sampled",
+      "duration": 34,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u26f3type \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=Re81bd5g_rs",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Re81bd5g_rs_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Re81bd5g_rs_clip01.mp4"
+    },
+    {
       "clip_id": "pga_20260728_01",
       "title": "ROCKET CLASSIC",
       "description": "Rocket Classic tees off Thursday \u2014 Potgieter defends. #golf #PGATour #clipjohnson",
@@ -121,6 +182,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_02.png",
       "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260728_02.png"
+    },
+    {
+      "clip_id": "sCFBA6PIn0c_clip01",
+      "title": "Can Bobby Fairways FINALLY Break 80? (ELECTRIC)",
+      "description": "Can Bobby Fairways FINALLY Break 80? (ELECTRIC)\n\nBobby Fairways gets catty with Woodrow over his door job video\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftv #comedygolf #bobbyfairways",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "sampled",
+      "duration": 38,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 no golf shot evidence",
+      "source_url": "https://www.youtube.com/watch?v=sCFBA6PIn0c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sCFBA6PIn0c_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sCFBA6PIn0c_clip01.mp4"
     },
     {
       "clip_id": "z_N07jLwBOQ_clip02",
