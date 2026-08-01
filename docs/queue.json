@@ -1,8 +1,8 @@
 {
   "clips": [
     {
-      "clip_id": "pga_20260731_01",
-      "title": "ROCKET CLASSIC \u2014 FINAL ROUND",
+      "clip_id": "pga_20260801_01",
+      "title": "ROCKET CLASSIC \u2014 FINAL",
       "description": "Rocket Classic \u2014 leaderboard. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
@@ -58,13 +58,13 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260731_01.png",
-      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260731_01.png"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260801_01.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260801_01.png"
     },
     {
-      "clip_id": "pga_20260731_02",
-      "title": "PATRICK FISHBURN",
-      "description": "Patrick Fishburn leads the final round of the Rocket Classic. #golf #PGATour",
+      "clip_id": "pga_20260801_02",
+      "title": "DAVIS RILEY",
+      "description": "Davis Riley wins the Rocket Classic. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
@@ -119,8 +119,8 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260731_02.png",
-      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260731_02.png"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260801_02.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260801_02.png"
     }
   ]
 }
