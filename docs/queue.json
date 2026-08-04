@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "D1kDk5PRGUU_clip01",
-      "title": "$1 vs $10,000 Golf Road Trip Across America | Ep.2",
-      "description": "$1 vs $10,000 Golf Road Trip Across America | Ep.2\n\nA golfer's love for Pok\u00e9mon cards is put to the test on a $1 vs $10,000 golf road trip.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #pokemon #golftournament #golfcomedy",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "sampled",
-      "duration": 34,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no golf shot shown",
-      "source_url": "https://www.youtube.com/watch?v=D1kDk5PRGUU",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/D1kDk5PRGUU_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/D1kDk5PRGUU_clip01.mp4"
-    },
-    {
       "clip_id": "YTU40KItOQ0_clip01",
       "title": "BIG WEDGE USE A CLUB, LOSE A CLUB GOLF CHALLENGE!",
       "description": "BIG WEDGE USE A CLUB, LOSE A CLUB GOLF CHALLENGE!\n\nLux gets caught red-handed cheating on the world's straightest putt.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #cheatcode #puttfail",
