@@ -57,6 +57,15 @@
     .reject{background:var(--no);color:#2a0509}
     .reject:active{background:var(--nod)}
     .actions button:disabled{opacity:.5}
+    /* reject-reason picker (Cole 2026-08-03): one extra tap on reject only,
+       turns every reject into a labeled data point instead of a dead end */
+    .reasons{display:none;flex-wrap:wrap;gap:8px;padding:0 16px 16px}
+    .reasons.show{display:flex}
+    .reasons button{flex:1 1 45%;min-width:120px;padding:11px 8px;border:0;border-radius:10px;
+      font-weight:600;font-size:13px;cursor:pointer;background:var(--card2);color:#f1f1f1;
+      border:1px solid var(--line)}
+    .reasons button:active{background:var(--nod)}
+    .reasons .back{flex:1 1 100%;background:transparent;color:var(--muted);font-weight:500}
     .empty{text-align:center;color:var(--muted);padding:60px 20px}
     .empty .big{font-size:42px;margin-bottom:10px}
     .toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);
@@ -274,6 +283,13 @@
       <div class="actions">
         <button class="reject">✕ Reject</button>
         <button class="approve">✓ Approve</button>
+      </div>
+      <div class="reasons">
+        <button data-reason="not_funny">Not funny</button>
+        <button data-reason="dirty_footage">Dirty footage</button>
+        <button data-reason="wrong_vibe">Wrong vibe</button>
+        <button data-reason="seen_before">Seen this before</button>
+        <button class="back">‹ Back</button>
       </div>`;
     // Non-carousel media, DOM-built (Cole hardening 2026-07-15): <img> for an image
     // card, <video> (muted + tap-to-play + real captured poster) for a clip. .src is
@@ -388,16 +404,32 @@
     el.querySelectorAll(".pill").forEach((p,i)=>p.textContent = tags[i]);
     el.querySelector(".note").textContent = c.note || "";
     el.querySelector(".desc").textContent = c.description || "";
-    const btns = el.querySelectorAll(".actions button");
+    const actionsRow = el.querySelector(".actions");
+    const reasonsRow = el.querySelector(".reasons");
+    const btns = actionsRow.querySelectorAll("button");
     el.querySelector(".approve").onclick = () => decide(c, "approve", el, btns);
-    el.querySelector(".reject").onclick  = () => decide(c, "reject",  el, btns);
+    // Reject reveals a one-more-tap reason picker instead of deciding
+    // immediately (Cole 2026-08-03, Evan-requested) -- every reject becomes a
+    // labeled data point ("not funny" vs "dirty footage" etc.) instead of a
+    // dead end with no signal.
+    el.querySelector(".reject").onclick = () => {
+      actionsRow.style.display = "none";
+      reasonsRow.classList.add("show");
+    };
+    reasonsRow.querySelector(".back").onclick = () => {
+      reasonsRow.classList.remove("show");
+      actionsRow.style.display = "";
+    };
+    reasonsRow.querySelectorAll("button[data-reason]").forEach(b => {
+      b.onclick = () => decide(c, "reject", el, [...btns, ...reasonsRow.querySelectorAll("button")], b.dataset.reason);
+    });
     return el;
   }
 
-  async function decide(c, action, el, btns){
+  async function decide(c, action, el, btns, reason){
     btns.forEach(b => b.disabled = true);
     try {
-      await writeDecision(c.clip_id, action);
+      await writeDecision(c.clip_id, action, reason);
       decided.add(c.clip_id); saveDecided();
       el.style.transition = "opacity .25s"; el.style.opacity = "0";
       setTimeout(() => { el.remove(); refreshCount(); }, 250);
@@ -415,7 +447,7 @@
     if (!left) loadQueue();
   }
 
-  async function writeDecision(clipId, action){
+  async function writeDecision(clipId, action, reason){
     const path = `${DECISIONS_DIR}/${clipId}.json`;
     const api = `https://api.github.com/repos/${REPO}/contents/${path}`;
     const headers = {Authorization:"Bearer "+TOKEN, Accept:"application/vnd.github+json"};
@@ -423,9 +455,11 @@
     let sha;
     const head = await fetch(api, {headers, cache:"no-store"});
     if (head.ok) sha = (await head.json()).sha;
+    const payload = {clip_id:clipId, action, ts:Date.now()};
+    if (reason) payload.reason = reason;  // reject-only, undefined omitted by JSON.stringify
     const body = {
       message: `${action} ${clipId}`,
-      content: btoa(JSON.stringify({clip_id:clipId, action, ts:Date.now()})),
+      content: btoa(JSON.stringify(payload)),
     };
     if (sha) body.sha = sha;
     const r = await fetch(api, {method:"PUT", headers, body:JSON.stringify(body)});
