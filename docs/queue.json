@@ -1,3 +1,65 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "1jameHUKTuI_clip03",
+      "title": "Bryan Bros vs Jason Dufner (Hilarious)",
+      "description": "Bryan Bros vs Jason Dufner (Hilarious)\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #bobdoessports #golf #shorts #reels #funny",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 32,
+      "grade": 1,
+      "note": "Most-replayed peak (replay value 1.00) in Bryan Bros vs Jason Dufner -- Cole hand-verified clean (cv2 frame sweep, 11 points across the full 47s section), trimmed 3s off the tail to exclude a brief +1 score-popup graphic near t40s",
+      "source_url": "https://www.youtube.com/watch?v=1jameHUKTuI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1jameHUKTuI_clip03.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1jameHUKTuI_clip03.mp4"
+    }
+  ]
 }
