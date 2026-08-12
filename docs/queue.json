@@ -1,6 +1,128 @@
 {
   "clips": [
     {
+      "clip_id": "3Ftp-6RQYLY_clip01",
+      "title": "Last Golfer to Leave Island Wins $25,000 | Good Good Survival Ep 3",
+      "description": "Last Golfer to Leave Island Wins $25,000 | Good Good Survival Ep 3\n\nThe host asks if the matches are match play or stroke play, and the contestants spin a wheel to choose their fate.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #goodgood #survival #challenge",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "heatmap",
+      "duration": 39,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 75 \u00b7 Shot 30 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=3Ftp-6RQYLY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3Ftp-6RQYLY_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3Ftp-6RQYLY_clip01.mp4"
+    },
+    {
+      "clip_id": "3Ftp-6RQYLY_clip02",
+      "title": "Last Golfer to Leave Island Wins $25,000 | Good Good Survival Ep 3",
+      "description": "Last Golfer to Leave Island Wins $25,000 | Good Good Survival Ep 3\n\nA golfer's hilarious reaction to a crazy shot on a deserted island.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #desertedisland #golfreaction",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "heatmap",
+      "duration": 39,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=3Ftp-6RQYLY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3Ftp-6RQYLY_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3Ftp-6RQYLY_clip02.mp4"
+    },
+    {
       "clip_id": "5E6cMGEr94Y_clip01",
       "title": "Attempting To Break Bryson DeChambeau\u2019s Course Record @ Silvertip resort",
       "description": "Attempting To Break Bryson DeChambeau\u2019s Course Record @ Silvertip resort\n\nA golfer struggles to find a spot to hit his driver on the 8th hole at Silvertip resort.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golftips #driverstruggles #golffail",
