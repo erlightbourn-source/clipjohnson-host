@@ -1,6 +1,494 @@
 {
   "clips": [
     {
+      "clip_id": "1ke_ffGdzUo_clip01",
+      "title": "Can I Break the COURSE RECORD? (Just Shoot Under Par!)",
+      "description": "Can I Break the COURSE RECORD? (Just Shoot Under Par!)\n\nRick Shiels tries to break the course record with hilarious results.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #golfcomedy #rickshiels",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "audio",
+      "duration": 21,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no evidence of special shot",
+      "source_url": "https://www.youtube.com/watch?v=1ke_ffGdzUo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1ke_ffGdzUo_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1ke_ffGdzUo_clip01.mp4"
+    },
+    {
+      "clip_id": "7bxW5UPUA_M_clip01",
+      "title": "BIG WEDGE ONE MILLION POUND DROP GOLF CHALLENGE!",
+      "description": "BIG WEDGE ONE MILLION POUND DROP GOLF CHALLENGE!\n\nBig Wedge Golf explains how a high-stakes hole works, where only one player gets to take home all the cash.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #bigwedgegolf #golffail #bettingchallenge",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "audio",
+      "duration": 23,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 35 \u00b7 Shot 75 \u2014 eagle on tough hole",
+      "source_url": "https://www.youtube.com/watch?v=7bxW5UPUA_M",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7bxW5UPUA_M_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7bxW5UPUA_M_clip01.mp4"
+    },
+    {
+      "clip_id": "UJnzyXuNzZ8_clip01",
+      "title": "We Pranked Our Friend With a Fake $25,000 Golf Tournament",
+      "description": "We Pranked Our Friend With a Fake $25,000 Golf Tournament\n\nOur friend's golf game is on the line after a fake tournament bet.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #betgonewrong #golftournamentfail #golfprank",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "audio",
+      "duration": 22,
+      "grade": 87,
+      "note": "Dir 87 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no golf shot shown",
+      "source_url": "https://www.youtube.com/watch?v=UJnzyXuNzZ8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UJnzyXuNzZ8_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UJnzyXuNzZ8_clip01.mp4"
+    },
+    {
+      "clip_id": "UJnzyXuNzZ8_clip02",
+      "title": "We Pranked Our Friend With a Fake $25,000 Golf Tournament",
+      "description": "We Pranked Our Friend With a Fake $25,000 Golf Tournament\n\nThe guys bet on who can hit the best shot, but it's not going to be Garrett.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftournament #prank #bet",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "audio",
+      "duration": 35,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 73 \u00b7 Shot 35 \u2014 no golf shot shown",
+      "source_url": "https://www.youtube.com/watch?v=UJnzyXuNzZ8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UJnzyXuNzZ8_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UJnzyXuNzZ8_clip02.mp4"
+    },
+    {
+      "clip_id": "UT2c1eMB8TA_clip02",
+      "title": "My Honest Thoughts On YGT (your golf tour)",
+      "description": "My Honest Thoughts On YGT (your golf tour)\n\nMicah Morris shares his honest thoughts on the most challenging yards in Your Golf Tour.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #youturgolf #golftour #golfchallenges #ygtxflops",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 73 \u00b7 Shot 35 \u2014 No evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=UT2c1eMB8TA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UT2c1eMB8TA_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/UT2c1eMB8TA_clip02.mp4"
+    },
+    {
+      "clip_id": "ZMUJXOlb4yI_clip01",
+      "title": "I took a PGA TOUR PRO to a public course..can he BREAK THE RECORD!?",
+      "description": "I took a PGA TOUR PRO to a public course..can he BREAK THE RECORD!?\n\nDan Brown takes on a public course for the first time, with hilarious results.\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #publiccourse #pgatourpro #golffail",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 80 \u2014 Eagle putt to win the hole",
+      "source_url": "https://www.youtube.com/watch?v=ZMUJXOlb4yI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZMUJXOlb4yI_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZMUJXOlb4yI_clip01.mp4"
+    },
+    {
+      "clip_id": "ZMUJXOlb4yI_clip02",
+      "title": "I took a PGA TOUR PRO to a public course..can he BREAK THE RECORD!?",
+      "description": "I took a PGA TOUR PRO to a public course..can he BREAK THE RECORD!?\n\nA PGA TOUR PRO's honest assessment of his own driving skills\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golftips #golffail #pga",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "heatmap",
+      "duration": 24,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 73 \u00b7 Shot 35 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=ZMUJXOlb4yI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZMUJXOlb4yI_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZMUJXOlb4yI_clip02.mp4"
+    },
+    {
+      "clip_id": "e0h0wNhQU9M_clip02",
+      "title": "High Handicapper Gets A FULL FITTED UNBIASED New Bag - Did It Work!?",
+      "description": "High Handicapper Gets A FULL FITTED UNBIASED New Bag - Did It Work!?\n\nA high handicapper gets fitted for a new bag and tries to break 50.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golftips #golffail #highhandicapper",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 37,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 80 \u00b7 Shot 35 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=e0h0wNhQU9M",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/e0h0wNhQU9M_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/e0h0wNhQU9M_clip02.mp4"
+    },
+    {
       "clip_id": "pga_20260814_01",
       "title": "FEDEX ST. JUDE CHAMPIONSHIP \u2014 FINAL",
       "description": "FedEx St. Jude Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
