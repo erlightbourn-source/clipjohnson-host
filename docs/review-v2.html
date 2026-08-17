@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>Clip Johnson — Review v2 (Preview)</title>
+  <link rel="icon" type="image/png" href="clipjohnson_icon.png" />
+  <style>
+    :root{
+      --bg:#000; --card:#12141a; --line:#2a2f3b;
+      --text:#f2f4f8; --muted:#9aa3b4; --accent:#4ea1ff;
+      --ok:#2ecc71; --okd:#1f9e57; --no:#ff5b6e; --nod:#cc3b4d;
+      --safe-b: env(safe-area-inset-bottom, 0px);
+      --safe-t: env(safe-area-inset-top, 0px);
+    }
+    *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+    html,body{height:100%}
+    body{margin:0;background:var(--bg);color:var(--text);overscroll-behavior:none;
+      font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased}
+
+    /* lock screen (unchanged mechanism from v1 — same password/token) */
+    #lock{min-height:100dvh;display:flex;align-items:center;justify-content:center;padding:24px}
+    .lockbox{background:var(--card);border:1px solid var(--line);border-radius:16px;
+      padding:30px 26px;max-width:360px;width:100%;text-align:center}
+    .lockbox img{width:64px;height:64px;border-radius:14px;margin-bottom:14px}
+    .lockbox h2{margin:0 0 4px;font-size:20px}
+    .lockbox p{margin:0 0 18px;color:var(--muted);font-size:14px}
+    .lockbox input{width:100%;padding:13px 14px;border-radius:10px;border:1px solid var(--line);
+      background:#1b2130;color:var(--text);font-size:16px;text-align:center;margin-bottom:12px}
+    .lockbox button{width:100%;padding:13px;border:0;border-radius:10px;background:var(--accent);
+      color:#04122a;font-weight:700;font-size:16px;cursor:pointer}
+    .lockbox .err{color:var(--no);font-size:13px;min-height:18px;margin-top:10px}
+
+    /* Preview banner + header share ONE fixed wrapper (#topchrome) so header
+       flows naturally below the banner instead of guessing its pixel height —
+       an earlier draft hardcoded header's top offset assuming a 1-line banner;
+       the real 2-line-wrapped text made it 44.5px tall (measured, not guessed)
+       and the header + the carousel pager (which used the same kind of guess)
+       both rendered PARTLY/FULLY under the banner, eating clicks. Caught in
+       local Playwright QA before shipping (Cole 2026-08-16). JS measures
+       #topchrome's real height on load/resize and writes it to --chrome-h;
+       every element below (carpager, scoreband padding) reads that variable
+       instead of a hardcoded guess, so it stays correct across font sizes,
+       text wraps, and device widths. */
+    :root{ --chrome-h: 70px; }  /* JS overwrites this the instant it can measure */
+    #topchrome{position:fixed;top:0;left:0;right:0;z-index:30}
+    .previewbar{background:#5c2b00;color:#ffd9a8;
+      font-size:11.5px;font-weight:600;text-align:center;padding:calc(5px + var(--safe-t)) 10px 5px;
+      letter-spacing:.2px}
+
+    header{display:flex;align-items:center;gap:10px;padding:8px 12px;
+      background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,0) 100%)}
+    header img{width:26px;height:26px;border-radius:6px}
+    header h1{font-size:14px;margin:0;font-weight:700;letter-spacing:.2px;
+      text-shadow:0 1px 4px rgba(0,0,0,.6)}
+    header .count{margin-left:auto;font-size:12px;color:#dfe6f5;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+    .modebtn, .refreshbtn{background:rgba(0,0,0,.45);border:1px solid rgba(255,255,255,.25);
+      color:#fff;font-size:12px;padding:6px 10px;border-radius:8px;cursor:pointer}
+
+    /* ---------- SWIPE DECK (phone-first, full-bleed) ---------- */
+    #deckwrap{position:fixed;inset:0;display:none}
+    #deckwrap.active{display:block}
+    #deck{position:absolute;inset:0}
+    .card{position:absolute;inset:0;background:#000;border-radius:0;overflow:hidden;
+      transition:transform .28s cubic-bezier(.2,.8,.3,1), opacity .28s;
+      will-change:transform}
+    .card[data-depth="1"]{transform:translateY(14px) scale(.96);opacity:.85}
+    .card[data-depth="2"]{transform:translateY(26px) scale(.92);opacity:.55}
+    .card.dragging{transition:none}
+    .card .mediaslot{position:absolute;inset:0}
+    .card .mediaslot img, .card .mediaslot video{width:100%;height:100%;object-fit:cover;
+      display:block;background:#000}
+    /* Chrome's native HTML5 image drag-and-drop hijacks a mousedown+move on an
+       <img> after the first pointermove — it silently swallows every step after
+       that, so swipe-to-decide worked on video cards but died on every image/
+       carousel card. Caught in local Playwright QA before shipping (Cole
+       2026-08-16). draggable=false is also set in JS on each <img> as a
+       belt-and-suspenders measure since it's set as a DOM property, not always
+       respected via CSS alone in older WebKit. */
+    .card img, .gitem img{-webkit-user-drag:none;user-drag:none;user-select:none;
+      -webkit-touch-callout:none}
+
+    .stamp{position:absolute;top:22%;padding:9px 16px;border:4px solid;border-radius:10px;
+      font-size:30px;font-weight:900;letter-spacing:2px;text-transform:uppercase;opacity:0;
+      pointer-events:none;transform:rotate(-14deg)}
+    .stamp.like{left:20px;color:var(--ok);border-color:var(--ok)}
+    .stamp.nope{right:20px;color:var(--no);border-color:var(--no);transform:rotate(14deg)}
+
+    /* Always-present top scrim, even with no score/why — the header (title/count/
+       Select) sits on top of whatever media is behind it, and a bright still (e.g.
+       a PGA card) makes plain white header text unreadable with no gradient at all.
+       Cole 2026-08-16, caught in local Playwright QA before shipping. */
+    .scoreband{position:absolute;top:0;left:0;right:0;padding:calc(var(--chrome-h) + 10px) 16px 20px;
+      background:linear-gradient(180deg,rgba(0,0,0,.75) 0%,rgba(0,0,0,.35) 65%,transparent 100%);
+      pointer-events:none}
+    .scoreband.hascontent{padding-bottom:34px}
+    .scoreband .grade{display:inline-block;font-weight:800;font-size:15px;background:rgba(255,255,255,.14);
+      border:1px solid rgba(255,255,255,.3);padding:3px 10px;border-radius:999px;margin-bottom:6px}
+    .scoreband .why{font-size:13.5px;color:#eef2fa;font-style:italic;max-width:88%;
+      text-shadow:0 1px 3px rgba(0,0,0,.6)}
+
+    .carpager{position:absolute;top:calc(var(--chrome-h) + 10px);right:14px;z-index:3;
+      display:flex;gap:6px;align-items:center}
+    .carpager button{border:0;border-radius:50%;width:30px;height:30px;font-size:15px;
+      background:rgba(0,0,0,.55);color:#fff;cursor:pointer;pointer-events:auto}
+    .carpager .carnum{background:rgba(0,0,0,.55);color:#fff;font-size:11px;padding:3px 8px;
+      border-radius:10px}
+
+    /* bottom padding clears the fixed action bar (~90px incl. safe-area) so the
+       last tag/line never sits underneath the Reject/Approve buttons.
+       IMPORTANT: no max-height/overflow by default — the collapsed band must hug
+       its actual content (title/creator/tags/hint only), not a fixed 78% box.
+       An earlier draft set max-height:78% unconditionally, which gave the (mostly
+       transparent) metaband div a huge invisible hit-box covering most of the
+       card — any drag starting there got swallowed as a tap-to-expand instead of
+       a swipe, breaking the core one-thumb-swipe gesture almost everywhere except
+       a thin strip near the top. Caught in local Playwright QA before shipping;
+       max-height/scroll now apply ONLY once .expanded is toggled on. */
+    .metaband{position:absolute;left:0;right:0;bottom:0;padding:20px 16px calc(92px + var(--safe-b));
+      background:linear-gradient(0deg,rgba(0,0,0,.88) 0%,rgba(0,0,0,.55) 55%,transparent 100%)}
+    .metaband.expanded{max-height:78%;overflow-y:auto}
+    .metaband .title{font-weight:700;font-size:16.5px;margin:0 0 4px}
+    .metaband .creator{color:var(--accent);font-size:12.5px;font-weight:600;margin-bottom:6px}
+    .metaband .tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
+    .pill{font-size:10.5px;color:#dfe6f5;background:rgba(255,255,255,.12);
+      border:1px solid rgba(255,255,255,.22);padding:2.5px 8px;border-radius:999px}
+    .metaband .hint{font-size:11px;color:var(--muted);margin-top:4px}
+    .metaband .full{display:none;margin-top:8px;font-size:13px;color:#d7deee;white-space:pre-wrap}
+    .metaband.expanded .full{display:block}
+    .metaband.expanded .hint{display:none}
+    .metaband .prov{font-size:11px;margin-top:6px}
+    .metaband .prov a{color:var(--accent)}
+    .metaband .gate{font-size:10.5px;margin-top:4px;color:var(--muted)}
+
+    #actionbar{position:fixed;left:0;right:0;bottom:0;z-index:16;display:flex;gap:14px;
+      padding:12px 18px calc(14px + var(--safe-b))}
+    #actionbar button{flex:1;padding:15px;border:0;border-radius:999px;font-weight:800;
+      font-size:15px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.35)}
+    .rejbtn{background:var(--no);color:#2a0509}
+    .apprbtn{background:var(--ok);color:#04220f}
+    #actionbar button:disabled{opacity:.5}
+
+    .empty{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+      flex-direction:column;text-align:center;color:var(--muted);padding:30px}
+    .empty .big{font-size:44px;margin-bottom:10px}
+
+    /* reason sheet (reject via button = labeled; swipe-left = fast, unlabeled) */
+    #sheetbg{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:24;display:none}
+    #sheetbg.show{display:block}
+    #sheet{position:fixed;left:0;right:0;bottom:0;z-index:25;background:var(--card);
+      border-top:1px solid var(--line);border-radius:18px 18px 0 0;
+      padding:16px 16px calc(16px + var(--safe-b));transform:translateY(100%);
+      transition:transform .25s ease}
+    #sheet.show{transform:translateY(0)}
+    #sheet h3{margin:0 0 12px;font-size:14px;color:var(--muted);font-weight:600}
+    #sheet .grid{display:flex;flex-wrap:wrap;gap:8px}
+    #sheet button{flex:1 1 45%;min-width:120px;padding:12px 8px;border:0;border-radius:10px;
+      font-weight:600;font-size:13.5px;cursor:pointer;background:#1b2130;color:#f1f1f1;
+      border:1px solid var(--line)}
+    #sheet button:active{background:var(--nod)}
+    #sheet .back{flex:1 1 100%;background:transparent;color:var(--muted);font-weight:500}
+
+    /* ---------- SELECT / BATCH-APPROVE MODE ---------- */
+    #gridwrap{display:none;padding:calc(var(--chrome-h) + 10px) 10px 90px}
+    #gridwrap.active{display:block}
+    #grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+    .gitem{position:relative;aspect-ratio:9/16;border-radius:8px;overflow:hidden;
+      background:#111;cursor:pointer;border:2px solid transparent}
+    .gitem.sel{border-color:var(--ok)}
+    .gitem img, .gitem video{width:100%;height:100%;object-fit:cover;display:block}
+    .gitem .gbadge{position:absolute;top:4px;left:4px;font-size:10px;font-weight:800;
+      background:rgba(0,0,0,.6);padding:1px 6px;border-radius:999px}
+    .gitem .gcheck{position:absolute;top:4px;right:4px;width:18px;height:18px;border-radius:50%;
+      border:2px solid rgba(255,255,255,.7);background:rgba(0,0,0,.35)}
+    .gitem.sel .gcheck{background:var(--ok);border-color:var(--ok)}
+    .gitem.sel .gcheck::after{content:"✓";display:block;text-align:center;line-height:15px;
+      font-size:11px;color:#04220f;font-weight:900}
+    #batchbar{position:fixed;left:0;right:0;bottom:0;z-index:16;display:none;gap:10px;
+      padding:10px 14px calc(12px + var(--safe-b));background:rgba(10,12,18,.92);
+      border-top:1px solid var(--line);backdrop-filter:blur(6px)}
+    #batchbar.show{display:flex}
+    #batchbar button{flex:1;padding:13px;border:0;border-radius:999px;font-weight:800;
+      font-size:14px;cursor:pointer}
+    #batchbar .approveN{background:var(--ok);color:#04220f}
+    #batchbar .rejectN{background:var(--no);color:#2a0509}
+    #batchbar button:disabled{opacity:.45}
+
+    .toast{position:fixed;left:50%;bottom:calc(94px + var(--safe-b));transform:translateX(-50%);
+      background:#1b2130;border:1px solid var(--line);color:var(--text);
+      padding:11px 18px;border-radius:999px;font-size:13.5px;opacity:0;transition:opacity .2s;
+      pointer-events:none;z-index:40;max-width:88%;text-align:center}
+    .toast.show{opacity:1}
+    .toast.bad{border-color:var(--no);color:#ffd7dc}
+  </style>
+</head>
+<body>
+  <!-- LOCK SCREEN -->
+  <div id="lock">
+    <form class="lockbox" id="lockform">
+      <img src="clipjohnson_icon.png" alt="" onerror="this.style.display='none'"/>
+      <h2>Clip Johnson</h2>
+      <p>Review v2 preview. Same password as the live page.</p>
+      <input id="pw" type="password" autocomplete="current-password" placeholder="Password" autofocus />
+      <button type="submit">Unlock</button>
+      <div class="err" id="lockerr"></div>
+    </form>
+  </div>
+
+  <!-- APP (hidden until unlocked) -->
+  <div id="app" style="display:none">
+    <div id="topchrome">
+      <div class="previewbar">⚠ PREVIEW BUILD — taps here write the SAME real approve/reject decisions as the live page</div>
+      <header>
+        <img src="clipjohnson_icon.png" alt="" onerror="this.style.display='none'"/>
+        <h1>Review v2</h1>
+        <span class="count" id="count"></span>
+        <a class="refreshbtn" id="refresh">↻</a>
+        <a class="modebtn" id="modeToggle">Select</a>
+      </header>
+    </div>
+
+    <!-- swipe deck -->
+    <div id="deckwrap" class="active">
+      <div id="deck"></div>
+    </div>
+    <div id="actionbar">
+      <button class="rejbtn" id="rejBtn">✕ Reject</button>
+      <button class="apprbtn" id="apprBtn">✓ Approve</button>
+    </div>
+
+    <!-- batch grid -->
+    <div id="gridwrap">
+      <div id="grid"></div>
+    </div>
+    <div id="batchbar">
+      <button class="rejectN" id="rejectNBtn">Reject 0</button>
+      <button class="approveN" id="approveNBtn">Approve 0</button>
+    </div>
+  </div>
+
+  <!-- reason sheet -->
+  <div id="sheetbg"></div>
+  <div id="sheet">
+    <h3>Why reject?</h3>
+    <div class="grid">
+      <button data-reason="not_funny">Not funny</button>
+      <button data-reason="dirty_footage">Dirty footage</button>
+      <button data-reason="wrong_vibe">Wrong vibe</button>
+      <button data-reason="seen_before">Seen this before</button>
+      <button class="back">‹ Back (undo)</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+  // ---- config (SAME as v1 review.html — same repo, same encrypted token) ---
+  const REPO = "erlightbourn-source/clipjohnson-host";
+  const DECISIONS_DIR = "decisions";
+  const TOKEN_CIPHER = "U2a/FTCQ/0VMV8hVXhR5TlY5GthoMva8Qo2hwksVJ39rDPBex263KAowiIEDYBvRXFyoYbwm4SFz4cYNr5FbQTxbGgK8kwsnDxTVcb/tqat/W5P8HkSo87A6T5wU1QYmDx7Jai+n9w8oHOI7KQ4RWS5OZ18kqKtJmAZvRC9ZPFV8PT1b+Jhf7G4=";
+  const PBKDF2_ITERS = 200000;
+
+  // ---- crypto (unchanged from v1) ---------------------------------------
+  const b64dec = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+  const enc = new TextEncoder();
+  async function deriveKey(password, salt){
+    const base = await crypto.subtle.importKey("raw", enc.encode(password), "PBKDF2", false, ["deriveKey"]);
+    return crypto.subtle.deriveKey({name:"PBKDF2", salt, iterations:PBKDF2_ITERS, hash:"SHA-256"},
+      base, {name:"AES-GCM", length:256}, false, ["decrypt"]);
+  }
+  async function decryptToken(password){
+    const raw = b64dec(TOKEN_CIPHER);
+    const salt = raw.slice(0,16), iv = raw.slice(16,28), ct = raw.slice(28);
+    const key = await deriveKey(password, salt);
+    const pt = await crypto.subtle.decrypt({name:"AES-GCM", iv}, key, ct);
+    return new TextDecoder().decode(pt);
+  }
+
+  // ---- state --------------------------------------------------------------
+  let TOKEN = null;
+  let QUEUE = [];
+  let MODE = "swipe";           // "swipe" | "select"
+  const selected = new Set();
+  const decided = new Set(JSON.parse(sessionStorage.getItem("cj_decided")||"[]"));
+  const saveDecided = () => sessionStorage.setItem("cj_decided", JSON.stringify([...decided]));
+  const carIdx = new Map();     // clip_id -> current carousel frame index
+
+  const $ = id => document.getElementById(id);
+
+  // Measure the real (banner+header) chrome height instead of guessing a pixel
+  // offset — the preview banner wraps to 2 lines at phone widths, so a hardcoded
+  // guess put the header and the carousel pager partly/fully underneath it,
+  // eating taps. Runs on load, on resize/orientation-change, and once more after
+  // fonts settle (a fixed short delay covers font-swap reflow on first paint).
+  function syncChromeHeight(){
+    const h = $("topchrome").getBoundingClientRect().height;
+    if (h) document.documentElement.style.setProperty("--chrome-h", h + "px");
+  }
+  window.addEventListener("resize", syncChromeHeight);
+  window.addEventListener("orientationchange", syncChromeHeight);
+
+  let toastT;
+  function toast(msg, bad){
+    const t = $("toast"); t.textContent = msg;
+    t.className = "toast show" + (bad?" bad":"");
+    clearTimeout(toastT); toastT = setTimeout(()=>t.className="toast", 2200);
+  }
+
+  // ---- unlock ---------------------------------------------------------------
+  $("lockform").addEventListener("submit", async e => {
+    e.preventDefault();
+    const pw = $("pw").value;
+    $("lockerr").textContent = "";
+    try { TOKEN = await decryptToken(pw); sessionStorage.setItem("cj_pw", pw); showApp(); }
+    catch { $("lockerr").textContent = "Wrong password."; $("pw").select(); }
+  });
+  function showApp(){
+    $("lock").style.display = "none"; $("app").style.display = "block";
+    syncChromeHeight(); setTimeout(syncChromeHeight, 300);  // re-measure after font/layout settles
+    loadQueue();
+  }
+  (async () => {
+    const pw = sessionStorage.getItem("cj_pw");
+    if (pw){ try { TOKEN = await decryptToken(pw); showApp(); } catch {} }
+  })();
+
+  // ---- queue load -----------------------------------------------------------
+  async function loadQueue(){
+    try {
+      const r = await fetch("queue.json?t=" + Date.now(), {cache:"no-store"});
+      const data = await r.json();
+      QUEUE = data.clips || [];
+    } catch { toast("Could not load the queue", true); QUEUE = []; }
+    renderAll();
+  }
+  function remaining(){ return QUEUE.filter(c => !decided.has(c.clip_id)); }
+
+  const TYPE_LABELS = {comedy:"comedy", top5:"Top 5", tip_card:"tip",
+    pga_liv_card:"PGA/LIV", golf_story:"story", golf_stat:"stat",
+    golf_news:"news", golf_commentary:"take"};
+  const labelType = t => TYPE_LABELS[t] || t || "";
+
+  function mediaKind(c){
+    const url = c.media_url || c.video_url || c.image_url || "";
+    const looksImg = /\.(png|jpe?g|webp|gif|avif)(?:[?#]|$)/i.test(url);
+    const looksVid = /\.(mp4|mov|webm|m4v)(?:[?#]|$)/i.test(url);
+    const isCarousel = c.media_type === "carousel" && Array.isArray(c.frames) && c.frames.length > 1;
+    return {url, isImg: looksImg ? true : (looksVid ? false : c.media_type === "image"), isCarousel};
+  }
+
+  // real poster frame for a <video> (Cole, carried over from v1's fix — the
+  // #t media-fragment poster is unreliable on mobile/headless)
+  function posterizeVideo(v){
+    let done = false;
+    const capture = () => {
+      if (done || !v.videoWidth) return;
+      try {
+        const c = document.createElement("canvas");
+        c.width = v.videoWidth; c.height = v.videoHeight;
+        c.getContext("2d").drawImage(v, 0, 0, c.width, c.height);
+        v.setAttribute("poster", c.toDataURL("image/jpeg", 0.72));
+        done = true;
+      } catch(e){}
+    };
+    v.addEventListener("loadeddata", () => { try { v.currentTime = 0.1; } catch(e){ capture(); } }, {once:true});
+    v.addEventListener("seeked", capture, {once:true});
+    if (v.readyState >= 2) { try { v.currentTime = 0.1; } catch(e){ capture(); } }
+  }
+
+  function renderAll(){
+    if (MODE === "swipe") renderDeck(); else renderGrid();
+    updateCount();
+  }
+  function updateCount(){
+    const n = remaining().length;
+    $("count").textContent = n ? n + " left" : "";
+  }
+
+  // ==================== SWIPE DECK ====================
+  function renderDeck(){
+    const stack = remaining().slice(0, 3);
+    const deck = $("deck");
+    deck.innerHTML = "";
+    if (!stack.length){
+      deck.innerHTML = '<div class="empty"><div class="big">✅</div>All caught up.<br>'+
+        'New clips show up automatically through the day.</div>';
+      return;
+    }
+    // append deepest-first so the top (interactive) card lands last in the DOM
+    // = naturally on top of the stack with no z-index juggling needed.
+    for (let i = stack.length - 1; i >= 0; i--){
+      deck.appendChild(buildDeckCard(stack[i], i));
+    }
+  }
+
+  function buildDeckCard(c, depth){
+    const el = document.createElement("div");
+    el.className = "card";
+    el.dataset.depth = depth;
+    el.dataset.clipId = c.clip_id;
+    const {url, isImg, isCarousel} = mediaKind(c);
+
+    const mslot = document.createElement("div");
+    mslot.className = "mediaslot";
+    el.appendChild(mslot);
+
+    if (isCarousel){
+      const frames = c.frames.slice().sort((a,b)=>(a.order||0)-(b.order||0));
+      if (!carIdx.has(c.clip_id)) carIdx.set(c.clip_id, 0);
+      const paintFrame = () => {
+        mslot.innerHTML = "";
+        const i = carIdx.get(c.clip_id);
+        const img = document.createElement("img");
+        img.src = (frames[i] || frames[0]).image_url; img.alt = ""; img.draggable = false; img.loading = "lazy";
+        mslot.appendChild(img);
+        if (pager) pager.querySelector(".carnum").textContent = (i+1) + "/" + frames.length;
+      };
+      let pager = null;
+      if (depth === 0){
+        pager = document.createElement("div");
+        pager.className = "carpager";
+        pager.innerHTML = '<button class="carprev">‹</button>'+
+          '<span class="carnum"></span><button class="carnext">›</button>';
+        pager.querySelector(".carprev").onclick = (e) => { e.stopPropagation();
+          carIdx.set(c.clip_id, (carIdx.get(c.clip_id) - 1 + frames.length) % frames.length); paintFrame(); };
+        pager.querySelector(".carnext").onclick = (e) => { e.stopPropagation();
+          carIdx.set(c.clip_id, (carIdx.get(c.clip_id) + 1) % frames.length); paintFrame(); };
+        el.appendChild(pager);
+      }
+      paintFrame();
+    } else if (isImg){
+      const img = document.createElement("img");
+      img.src = url; img.alt = ""; img.loading = depth === 0 ? "eager" : "lazy"; img.draggable = false;
+      mslot.appendChild(img);
+    } else {
+      const v = document.createElement("video");
+      v.src = url; v.muted = true; v.loop = true; v.playsInline = true;
+      v.preload = depth === 0 ? "auto" : "metadata"; v.controls = false;
+      mslot.appendChild(v);
+      posterizeVideo(v);
+      if (depth === 0) v.play().catch(()=>{});
+    }
+
+    // Top scrim: ALWAYS rendered (keeps the header legible over any media, even a
+    // bright still with no score) — grade/why content is added inside it only when
+    // present. funny-score + one-line "why picked" surface here so Evan judges with
+    // context, not blind, with no scrolling required.
+    const band = document.createElement("div");
+    band.className = "scoreband";
+    if (c.grade || c.note) band.classList.add("hascontent");
+    if (c.grade) {
+      const g = document.createElement("span");
+      g.className = "grade"; g.textContent = "★ " + c.grade + "/100";
+      band.appendChild(g);
+    }
+    if (c.note){
+      const w = document.createElement("div");
+      w.className = "why"; w.textContent = c.note;
+      band.appendChild(document.createElement("br"));
+      band.appendChild(w);
+    }
+    el.appendChild(band);
+
+    // LIKE / NOPE stamps, only meaningful on the interactive top card
+    const like = document.createElement("div"); like.className = "stamp like"; like.textContent = "APPROVE";
+    const nope = document.createElement("div"); nope.className = "stamp nope"; nope.textContent = "REJECT";
+    el.appendChild(like); el.appendChild(nope);
+
+    // bottom meta band (tap to expand full description/provenance/gate)
+    const meta = document.createElement("div");
+    meta.className = "metaband";
+    const tags = [labelType(c.type), c.duration ? c.duration + "s" : "", c.signal || ""].filter(Boolean);
+    const title = document.createElement("p"); title.className = "title"; title.textContent = c.title || "Untitled clip";
+    const creator = document.createElement("div"); creator.className = "creator"; creator.textContent = c.creator ? "▶ " + c.creator : "";
+    const tagRow = document.createElement("div"); tagRow.className = "tags";
+    tags.forEach(t => { const p = document.createElement("span"); p.className = "pill"; p.textContent = t; tagRow.appendChild(p); });
+    const hint = document.createElement("div"); hint.className = "hint"; hint.textContent = "tap for details";
+    const full = document.createElement("div"); full.className = "full";
+    full.textContent = c.description || "";
+    if (c.source_url){
+      const prov = document.createElement("div"); prov.className = "prov";
+      const a = document.createElement("a"); a.href = c.source_url; a.target = "_blank";
+      a.rel = "noopener noreferrer"; a.textContent = "view source (" + (c.provenance || "") + ")";
+      a.onclick = e => e.stopPropagation();
+      prov.appendChild(a);
+      full.appendChild(prov);
+    }
+    meta.appendChild(title); meta.appendChild(creator); meta.appendChild(tagRow);
+    meta.appendChild(hint); meta.appendChild(full);
+    el.appendChild(meta);
+
+    if (depth === 0){
+      meta.addEventListener("click", () => meta.classList.toggle("expanded"));
+      wireDrag(el, c);
+    }
+    return el;
+  }
+
+  // ---- one-thumb swipe: drag the top card, fling past threshold to decide --
+  function wireDrag(el, c){
+    const like = el.querySelector(".stamp.like"), nope = el.querySelector(".stamp.nope");
+    const THRESH = 110;
+    let x0 = null, y0 = null, dx = 0, dragging = false, pid = null;
+
+    const onMove = (x, y) => {
+      dx = x - x0; const dy = y - y0;
+      if (!dragging && Math.abs(dx) < 6 && Math.abs(dy) < 6) return;
+      dragging = true; el.classList.add("dragging");
+      el.style.transform = `translate(${dx}px, ${dy*0.15}px) rotate(${dx/18}deg)`;
+      const p = Math.min(Math.abs(dx) / THRESH, 1);
+      like.style.opacity = dx > 0 ? p : 0;
+      nope.style.opacity = dx < 0 ? p : 0;
+    };
+    const reset = () => {
+      el.classList.remove("dragging");
+      el.style.transform = ""; like.style.opacity = 0; nope.style.opacity = 0;
+      dragging = false; dx = 0;
+    };
+    const onUp = () => {
+      if (Math.abs(dx) > THRESH){
+        fling(el, c, dx > 0 ? "approve" : "reject", null, dx > 0 ? 1 : -1);
+      } else reset();
+      x0 = y0 = null; pid = null;
+    };
+
+    el.addEventListener("pointerdown", e => {
+      if (e.target.closest(".carpager") || e.target.closest(".metaband")) return;
+      x0 = e.clientX; y0 = e.clientY; pid = e.pointerId;
+      el.setPointerCapture(pid);
+    });
+    el.addEventListener("pointermove", e => { if (x0 !== null) onMove(e.clientX, e.clientY); });
+    el.addEventListener("pointerup", () => { if (x0 !== null) onUp(); });
+    el.addEventListener("pointercancel", reset);
+
+    // keyboard, for desktop QA of the preview
+    window.addEventListener("keydown", e => {
+      if (el.dataset.depth !== "0") return;
+      if (e.key === "ArrowRight") fling(el, c, "approve", null, 1);
+      if (e.key === "ArrowLeft") fling(el, c, "reject", null, -1);
+    }, {once:true});
+  }
+
+  function fling(el, c, action, reason, dir){
+    el.classList.remove("dragging");
+    el.style.transition = "transform .3s ease, opacity .3s ease";
+    el.style.transform = `translate(${dir*520}px, -40px) rotate(${dir*30}deg)`;
+    el.style.opacity = "0";
+    commitDecision(c, action, reason);
+    setTimeout(() => { renderDeck(); updateCount(); }, 260);
+  }
+
+  $("apprBtn").onclick = () => {
+    const top = remaining()[0]; if (!top) return;
+    const el = $("deck").querySelector('[data-depth="0"]');
+    if (el) fling(el, top, "approve", null, 1); else commitDecision(top, "approve", null);
+  };
+  $("rejBtn").onclick = () => {
+    const top = remaining()[0]; if (!top) return;
+    openReasonSheet(top);
+  };
+
+  // labeled reject via the button (swipe-left stays fast/unlabeled)
+  let sheetTarget = null;
+  function openReasonSheet(c){
+    sheetTarget = c;
+    $("sheetbg").classList.add("show");
+    $("sheet").classList.add("show");
+  }
+  function closeReasonSheet(){
+    $("sheetbg").classList.remove("show");
+    $("sheet").classList.remove("show");
+    sheetTarget = null;
+  }
+  $("sheetbg").onclick = closeReasonSheet;
+  $("sheet").querySelector(".back").onclick = closeReasonSheet;
+  $("sheet").querySelectorAll("button[data-reason]").forEach(b => {
+    b.onclick = () => {
+      const c = sheetTarget; closeReasonSheet();
+      if (!c) return;
+      const el = $("deck").querySelector('[data-depth="0"]');
+      if (el) fling(el, c, "reject", b.dataset.reason, -1);
+      else commitDecision(c, "reject", b.dataset.reason);
+    };
+  });
+
+  // ==================== BATCH / SELECT MODE ====================
+  function renderGrid(){
+    const items = remaining();
+    const grid = $("grid");
+    grid.innerHTML = "";
+    if (!items.length){
+      grid.innerHTML = '<div class="empty" style="position:static">All caught up.</div>';
+      updateBatchBar();
+      return;
+    }
+    items.forEach(c => grid.appendChild(buildGridItem(c)));
+    updateBatchBar();
+  }
+  function buildGridItem(c){
+    const {url, isImg, isCarousel} = mediaKind(c);
+    const thumbUrl = isCarousel ? (c.frames[0].image_url) : url;
+    const el = document.createElement("div");
+    el.className = "gitem" + (selected.has(c.clip_id) ? " sel" : "");
+    el.dataset.clipId = c.clip_id;
+    if (isImg || isCarousel){
+      const img = document.createElement("img"); img.src = thumbUrl; img.loading = "lazy"; img.draggable = false;
+      el.appendChild(img);
+    } else {
+      const v = document.createElement("video");
+      v.src = thumbUrl; v.muted = true; v.playsInline = true; v.preload = "metadata";
+      el.appendChild(v); posterizeVideo(v);
+    }
+    if (c.grade){
+      const b = document.createElement("span"); b.className = "gbadge"; b.textContent = "★" + c.grade;
+      el.appendChild(b);
+    }
+    const chk = document.createElement("span"); chk.className = "gcheck"; el.appendChild(chk);
+    el.onclick = () => {
+      if (selected.has(c.clip_id)) selected.delete(c.clip_id); else selected.add(c.clip_id);
+      el.classList.toggle("sel");
+      updateBatchBar();
+    };
+    return el;
+  }
+  function updateBatchBar(){
+    const n = selected.size;
+    $("approveNBtn").textContent = "Approve " + n;
+    $("rejectNBtn").textContent = "Reject " + n;
+    $("approveNBtn").disabled = $("rejectNBtn").disabled = n === 0;
+    $("batchbar").classList.toggle("show", MODE === "select" && remaining().length > 0);
+  }
+  async function batchDecide(action){
+    const ids = [...selected];
+    if (!ids.length) return;
+    $("approveNBtn").disabled = $("rejectNBtn").disabled = true;
+    const targets = QUEUE.filter(c => ids.includes(c.clip_id));
+    const results = await Promise.allSettled(targets.map(c => writeDecision(c.clip_id, action)));
+    let ok = 0;
+    results.forEach((r, i) => {
+      if (r.status === "fulfilled"){ decided.add(targets[i].clip_id); ok++; }
+    });
+    saveDecided(); selected.clear();
+    toast(`${action === "approve" ? "Approved" : "Rejected"} ${ok}/${targets.length}`, ok < targets.length);
+    renderAll();
+  }
+  $("approveNBtn").onclick = () => batchDecide("approve");
+  $("rejectNBtn").onclick = () => batchDecide("reject");
+
+  // ==================== mode toggle + refresh ====================
+  $("modeToggle").onclick = () => {
+    MODE = MODE === "swipe" ? "select" : "swipe";
+    $("modeToggle").textContent = MODE === "swipe" ? "Select" : "Swipe";
+    $("deckwrap").classList.toggle("active", MODE === "swipe");
+    $("actionbar").style.display = MODE === "swipe" ? "flex" : "none";
+    $("gridwrap").classList.toggle("active", MODE === "select");
+    renderAll();
+  };
+  $("refresh").onclick = loadQueue;
+
+  // ==================== decision write (unchanged API from v1) ====================
+  async function commitDecision(c, action, reason){
+    try {
+      await writeDecision(c.clip_id, action, reason);
+      decided.add(c.clip_id); saveDecided();
+      toast(action === "approve" ? "Approved — posts automatically" : "Rejected");
+    } catch (err){
+      decided.delete(c.clip_id); saveDecided();
+      toast("Couldn't save — try again", true);
+      console.error(err);
+      renderDeck();
+    }
+  }
+  async function writeDecision(clipId, action, reason){
+    const path = `${DECISIONS_DIR}/${clipId}.json`;
+    const api = `https://api.github.com/repos/${REPO}/contents/${path}`;
+    const headers = {Authorization:"Bearer "+TOKEN, Accept:"application/vnd.github+json"};
+    let sha;
+    const head = await fetch(api, {headers, cache:"no-store"});
+    if (head.ok) sha = (await head.json()).sha;
+    const payload = {clip_id:clipId, action, ts:Date.now()};
+    if (reason) payload.reason = reason;
+    const body = {message: `${action} ${clipId} (review-v2)`, content: btoa(JSON.stringify(payload))};
+    if (sha) body.sha = sha;
+    const r = await fetch(api, {method:"PUT", headers, body:JSON.stringify(body)});
+    if (!r.ok) throw new Error("github " + r.status + " " + await r.text());
+  }
+  </script>
+</body>
+</html>
