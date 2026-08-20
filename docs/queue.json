@@ -1,3 +1,614 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "PIUxXVHqCJI_clip01",
+      "title": "I Got EVERY 2026 Forgiving Driver - The WINNER Will Shock You!",
+      "description": "I Got EVERY 2026 Forgiving Driver - The WINNER Will Shock You!\n\nThe host admits his Cobra driver's name is a marketing fail.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #forgivingdriver #cobra #marketingfail",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 82,
+      "note": "Dir 82 \u00b7 Funny 73 \u00b7 Shot 30 \u2014 no golf shot shown",
+      "source_url": "https://www.youtube.com/watch?v=PIUxXVHqCJI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PIUxXVHqCJI_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PIUxXVHqCJI_clip01.mp4"
+    },
+    {
+      "clip_id": "PIUxXVHqCJI_clip02",
+      "title": "I Got EVERY 2026 Forgiving Driver - The WINNER Will Shock You!",
+      "description": "I Got EVERY 2026 Forgiving Driver - The WINNER Will Shock You!\n\nJames Robinson Golf tries out the new 2026 Forgiving Driver\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #forgivingdriver #drivetesting #golftestdrive",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 36,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 75 \u00b7 Shot 35 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=PIUxXVHqCJI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PIUxXVHqCJI_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PIUxXVHqCJI_clip02.mp4"
+    },
+    {
+      "clip_id": "bCYsVmd8I6c_clip01",
+      "title": "Titleist Will HATE This CHEAP Golf Ball!",
+      "description": "Titleist Will HATE This CHEAP Golf Ball!\n\nBob is asked if he wants his wedge, but Chris thinks the green is better.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golftips #golfclub #golfing",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 37,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 73 \u00b7 Shot 35 \u2014 no golf shot shown",
+      "source_url": "https://www.youtube.com/watch?v=bCYsVmd8I6c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bCYsVmd8I6c_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bCYsVmd8I6c_clip01.mp4"
+    },
+    {
+      "clip_id": "bCYsVmd8I6c_clip02",
+      "title": "Titleist Will HATE This CHEAP Golf Ball!",
+      "description": "Titleist Will HATE This CHEAP Golf Ball!\n\nA golfer's trusty ball takes an unexpected turn\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golffail #cheapgolfball #badluck",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 30,
+      "grade": 87,
+      "note": "Dir 87 \u00b7 Funny 73 \u00b7 Shot 75 \u2014 uphill putt from good distance",
+      "source_url": "https://www.youtube.com/watch?v=bCYsVmd8I6c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bCYsVmd8I6c_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bCYsVmd8I6c_clip02.mp4"
+    },
+    {
+      "clip_id": "h2Uddv7CDzw_clip01",
+      "title": "BRUTALLY Assessing This 17 Handicaps Golf Bag.... AVOID THIS!?",
+      "description": "BRUTALLY Assessing This 17 Handicaps Golf Bag.... AVOID THIS!?\n\nThe host brutally assesses a golf bag with a 17 handicap, calling it the best he's ever seen.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golftips #handicapprogess #golfgadgets",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 23,
+      "grade": 82,
+      "note": "Dir 82 \u00b7 Funny 35 \u00b7 Shot 90 \u2014 hole-in-one on par-3",
+      "source_url": "https://www.youtube.com/watch?v=h2Uddv7CDzw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/h2Uddv7CDzw_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/h2Uddv7CDzw_clip01.mp4"
+    },
+    {
+      "clip_id": "h2Uddv7CDzw_clip02",
+      "title": "BRUTALLY Assessing This 17 Handicaps Golf Bag.... AVOID THIS!?",
+      "description": "BRUTALLY Assessing This 17 Handicaps Golf Bag.... AVOID THIS!?\n\nGolf bag assessment gets a hilarious twist with a bold bet.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golftips #golfbetting #golffail",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 93,
+      "note": "Dir 93 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 No evidence of a special shot.",
+      "source_url": "https://www.youtube.com/watch?v=h2Uddv7CDzw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/h2Uddv7CDzw_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/h2Uddv7CDzw_clip02.mp4"
+    },
+    {
+      "clip_id": "jPkMhNto2YE_clip01",
+      "title": "She's one of the BEST golfers I've played! (+5 HCP)",
+      "description": "She's one of the BEST golfers I've played! (+5 HCP)\n\nRick Shiels Golf's hilarious reaction to a golfer's incredible shot.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #rickshielsgolf #golffail",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "heatmap",
+      "duration": 25,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 no evidence of special shot",
+      "source_url": "https://www.youtube.com/watch?v=jPkMhNto2YE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jPkMhNto2YE_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jPkMhNto2YE_clip01.mp4"
+    },
+    {
+      "clip_id": "jPkMhNto2YE_clip02",
+      "title": "She's one of the BEST golfers I've played! (+5 HCP)",
+      "description": "She's one of the BEST golfers I've played! (+5 HCP)\n\nRick Shiels Golf's hilarious reaction after a close call on the 16th hole.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golftips #golffail",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "heatmap",
+      "duration": 21,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 73 \u00b7 Shot 75 \u2014 Eagle putt to square the match",
+      "source_url": "https://www.youtube.com/watch?v=jPkMhNto2YE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jPkMhNto2YE_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jPkMhNto2YE_clip02.mp4"
+    },
+    {
+      "clip_id": "yNtQ0EPK4dQ_clip01",
+      "title": "Playing Golf to get Official Handicap!",
+      "description": "Playing Golf to get Official Handicap!\n\nRick Shiels reveals his golf obsession from age 11.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #rickshiels #golffail #golfobsessed",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 87,
+      "note": "Dir 87 \u00b7 Funny 75 \u00b7 Shot 35 \u2014 no golf shot shown",
+      "source_url": "https://www.youtube.com/watch?v=yNtQ0EPK4dQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yNtQ0EPK4dQ_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yNtQ0EPK4dQ_clip01.mp4"
+    },
+    {
+      "clip_id": "yNtQ0EPK4dQ_clip02",
+      "title": "Playing Golf to get Official Handicap!",
+      "description": "Playing Golf to get Official Handicap!\n\nRick Shiels' hilarious attempt at getting an official handicap\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #puttingprobs",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 No evidence of a special shot.",
+      "source_url": "https://www.youtube.com/watch?v=yNtQ0EPK4dQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yNtQ0EPK4dQ_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yNtQ0EPK4dQ_clip02.mp4"
+    }
+  ]
 }
