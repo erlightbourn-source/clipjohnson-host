@@ -489,22 +489,22 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jPkMhNto2YE_clip02.mp4"
     },
     {
-      "clip_id": "pgafinal_20260820_bmw_championship",
-      "title": "BMW Championship \u2014 final leaderboard",
-      "description": "J.J. Spaun wins the BMW Championship in a playoff at -6. Final leaderboard. #golf #PGATour #clipjohnson",
+      "clip_id": "pga_20260821_01",
+      "title": "BMW CHAMPIONSHIP \u2014 FINAL",
+      "description": "BMW Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
       "duration": 0,
       "grade": 0,
       "note": null,
-      "source_url": "",
-      "provenance": "original",
-      "content_type": "pga_liv_card",
-      "type": "pga_liv_card",
-      "media_type": "image",
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
       "check_manifest": {
-        "content_type": "pga_liv_card",
+        "content_type": "pga_motion_card",
         "order": [
           "provenance",
           "db_truth",
@@ -516,9 +516,9 @@
         "checks": [
           {
             "check": "provenance",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_liv_card"
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
           },
           {
             "check": "db_truth",
@@ -540,14 +540,75 @@
           },
           {
             "check": "pixel_format",
-            "applicable": true,
-            "passed": true,
-            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260820_bmw_championship.png",
-      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260820_bmw_championship.png"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260821_01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260821_01.mp4"
+    },
+    {
+      "clip_id": "pga_20260821_02",
+      "title": "WYNDHAM CLARK",
+      "description": "Wyndham Clark wins the BMW Championship. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260821_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260821_02.mp4"
     },
     {
       "clip_id": "yNtQ0EPK4dQ_clip01",
