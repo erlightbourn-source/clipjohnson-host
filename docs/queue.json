@@ -489,6 +489,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/M4YB9Xql-nw_clip02.mp4"
     },
     {
+      "clip_id": "WwWpuuYNFZo_clip01",
+      "title": "I Entered My First Tournament In Years! With BUDGET CLUBS!",
+      "description": "I Entered My First Tournament In Years! With BUDGET CLUBS!\n\nJames Robinson Golf takes a swing at his first tournament in years with budget clubs and hilariously debates the best approach.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golfhumor #golftournament #golffail",
+      "creator": "James Robinson Golf",
+      "blurb": "James Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.",
+      "signal": "audio",
+      "duration": 37,
+      "grade": 87,
+      "note": "OVERLAY-HOLD (Cole 2026-08-24 sweep): dominant physical sponsor banners in-frame (CHOONIES candy + Mars Wrigley), carried by both subjects, large + legible, not a fixed-position bug \u2014 not delogo-patchable. Held, not cleared. Source: James Robinson Golf (WwWpuuYNFZo).",
+      "source_url": "https://www.youtube.com/watch?v=WwWpuuYNFZo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WwWpuuYNFZo_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WwWpuuYNFZo_clip01.mp4"
+    },
+    {
       "clip_id": "WwWpuuYNFZo_clip02",
       "title": "I Entered My First Tournament In Years! With BUDGET CLUBS!",
       "description": "I Entered My First Tournament In Years! With BUDGET CLUBS!\n\nA golfer's outrageous club setup causes a hilarious reaction from his playing partner.\n\nJames Robinson Golf (@JamesRobinsonGolf, 346K subs) \u2014 UK creator, frequent Rick Shiels collaborator, equipment tests and challenge matches with comedic banter.\n\nClip from \u201cJames Robinson Golf\u201d \u25b6 Full video on their channel.\n\n#jamesrobinsongolf #golf #shorts #golfclub #golftournament #golffail",
@@ -609,6 +670,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WyVa3JG3jNA_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WyVa3JG3jNA_clip01.mp4"
+    },
+    {
+      "clip_id": "WyVa3JG3jNA_clip02",
+      "title": "Trapped at Golf Course Until We Hole in One Every Hole Again",
+      "description": "Trapped at Golf Course Until We Hole in One Every Hole Again\n\nA golfer's hilarious claim after hitting a precise shot in a high-pressure situation\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golfcomedy #golfbet",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 85,
+      "note": "OVERLAY-HOLD (Cole 2026-08-24 sweep): persistent 3rd-party sponsor hat logo (\"THE OCEANCO HAMMOCKS\") worn by subject entire clip, moving with head \u2014 not delogo-patchable (needs a fixed box per the 8/4 standard). Held, not cleared. Source: Good Good (WyVa3JG3jNA).",
+      "source_url": "https://www.youtube.com/watch?v=WyVa3JG3jNA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WyVa3JG3jNA_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WyVa3JG3jNA_clip02.mp4"
     },
     {
       "clip_id": "eGOQmQlgCbw_clip01",
