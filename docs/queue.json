@@ -1587,6 +1587,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/k6pYwwn0tQk_clip02.mp4"
     },
     {
+      "clip_id": "pgafinal_20260827_tour_championship",
+      "title": "TOUR Championship \u2014 final leaderboard",
+      "description": "Min Woo Lee wins the TOUR Championship by 2 shots at -8. Final leaderboard. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
+      "check_manifest": {
+        "content_type": "pga_liv_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260827_tour_championship.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260827_tour_championship.png"
+    },
+    {
       "clip_id": "rRDPyxosp_Y_clip01",
       "title": "I play Golf with all Takomo clubs - my BRUTALLY HONEST Opinion",
       "description": "I play Golf with all Takomo clubs - my BRUTALLY HONEST Opinion\n\nRick Shiels Golf tries Takomo clubs and shares his brutally honest opinion.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #rickshielsgolf #takomoclubs #honestreview",
