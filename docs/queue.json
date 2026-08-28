@@ -8663,128 +8663,6 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4"
     },
     {
-      "clip_id": "pga_20260827_01",
-      "title": "TOUR CHAMPIONSHIP \u2014 FINAL",
-      "description": "TOUR Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260827_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260827_01.mp4"
-    },
-    {
-      "clip_id": "pga_20260827_02",
-      "title": "MIN WOO LEE",
-      "description": "Min Woo Lee wins the TOUR Championship. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260827_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260827_02.mp4"
-    },
-    {
       "clip_id": "pga_20260828_01",
       "title": "TOUR CHAMPIONSHIP \u2014 FINAL",
       "description": "TOUR Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
@@ -8844,6 +8722,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260828_01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260828_01.mp4"
+    },
+    {
+      "clip_id": "pga_20260828_02",
+      "title": "VIKTOR HOVLAND",
+      "description": "Viktor Hovland wins the TOUR Championship. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260828_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260828_02.mp4"
     },
     {
       "clip_id": "qbkV_xyGI-w_clip01",
