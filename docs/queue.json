@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "-BGIYOy1BJs_clip01",
-      "title": "Golf Match with Llama Caddies (1v1 Strokeplay)",
-      "description": "Golf Match with Llama Caddies (1v1 Strokeplay)\n\nBryan Bros Golf tries out llama caddies in a hilarious 2v2 match\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #llamacaddies #golfcomedy #bryangolf",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "audio",
-      "duration": 21,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 30 \u2014 no golf shot shown",
-      "source_url": "https://www.youtube.com/watch?v=-BGIYOy1BJs",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-BGIYOy1BJs_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-BGIYOy1BJs_clip01.mp4"
-    },
-    {
       "clip_id": "-BGIYOy1BJs_clip02",
       "title": "Golf Match with Llama Caddies (1v1 Strokeplay)",
       "description": "Golf Match with Llama Caddies (1v1 Strokeplay)\n\nWesley's hilarious reaction to a bad shot\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfhumor #golfreaction",
@@ -1829,6 +1768,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BbPr686VWOk_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BbPr686VWOk_clip01.mp4"
+    },
+    {
+      "clip_id": "BbPr686VWOk_clip02",
+      "title": "His Best Round Ever?!",
+      "description": "His Best Round Ever?!\n\nThe host records the most birdies in a round, finishing with an albatross\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golfrecord",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "heatmap",
+      "duration": 35,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 100 \u26f3type \u2014 albatross finish, 10 under round",
+      "source_url": "https://www.youtube.com/watch?v=BbPr686VWOk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BbPr686VWOk_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BbPr686VWOk_clip02.mp4"
     }
   ]
 }
