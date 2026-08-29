@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "S-XyiDm5Suo_clip01",
-      "title": "Can Masters Winner beat all of Good Good?",
-      "description": "Can Masters Winner beat all of Good Good?\n\nSergio Garcia's hilarious reaction to being challenged to a tie by the hosts.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golfchallenges #reaction",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "audio",
-      "duration": 20,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 no evidence of a special shot",
-      "source_url": "https://www.youtube.com/watch?v=S-XyiDm5Suo",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/S-XyiDm5Suo_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/S-XyiDm5Suo_clip01.mp4"
-    },
-    {
       "clip_id": "S-XyiDm5Suo_clip02",
       "title": "Can Masters Winner beat all of Good Good?",
       "description": "Can Masters Winner beat all of Good Good?\n\nMasters winner's hilarious reaction to a tricky shot\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golfreaction",
@@ -1829,6 +1768,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/d7DhCUsGSgY_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/d7DhCUsGSgY_clip02.mp4"
+    },
+    {
+      "clip_id": "dIkYgZilXH8_clip01",
+      "title": "The Stumps vs Twigs Reunion Match",
+      "description": "The Stumps vs Twigs Reunion Match\n\nStumps is looking forward to a reunion match, but has he changed his game?\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfclips #golfcomedy #golffail",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "audio",
+      "duration": 22,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 83 \u00b7 Shot 30 \u2014 no notable shot",
+      "source_url": "https://www.youtube.com/watch?v=dIkYgZilXH8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/dIkYgZilXH8_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/dIkYgZilXH8_clip01.mp4"
     }
   ]
 }
