@@ -123,6 +123,311 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-BLEDC7TBJI_clip02.mp4"
     },
     {
+      "clip_id": "07b9s46KC8E_clip01",
+      "title": "We\u2019ve Never Seen This Before | Breaking 85",
+      "description": "We\u2019ve Never Seen This Before | Breaking 85\n\nFore Play Golf's boys struggle to break 85, but one player makes a surprising shot.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golfclips #golftips",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 33,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 routine chip, no evidence of special shot",
+      "source_url": "https://www.youtube.com/watch?v=07b9s46KC8E",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/07b9s46KC8E_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/07b9s46KC8E_clip01.mp4"
+    },
+    {
+      "clip_id": "07b9s46KC8E_clip02",
+      "title": "We\u2019ve Never Seen This Before | Breaking 85",
+      "description": "We\u2019ve Never Seen This Before | Breaking 85\n\nA disastrous back nine leads to a hilarious meltdown\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #comedy #golftwist",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 40,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 routine shot, filler, or setup",
+      "source_url": "https://www.youtube.com/watch?v=07b9s46KC8E",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/07b9s46KC8E_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/07b9s46KC8E_clip02.mp4"
+    },
+    {
+      "clip_id": "0yo2KxWbc0A_clip01",
+      "title": "How to Build a Winter Golf Practice Plan | Game Improvement",
+      "description": "How to Build a Winter Golf Practice Plan | Game Improvement\n\nNiko's advice on hyper commitment\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golfpractice #golfdaily #golfimprovement",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 routine shot, filler, or setup",
+      "source_url": "https://www.youtube.com/watch?v=0yo2KxWbc0A",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0yo2KxWbc0A_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0yo2KxWbc0A_clip01.mp4"
+    },
+    {
+      "clip_id": "0yo2KxWbc0A_clip02",
+      "title": "How to Build a Winter Golf Practice Plan | Game Improvement",
+      "description": "How to Build a Winter Golf Practice Plan | Game Improvement\n\nGolfer's brutal honesty about a winter practice plan\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #wintergolf #golffail #drillfail",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 30 \u2014 no notable shot, just talk",
+      "source_url": "https://www.youtube.com/watch?v=0yo2KxWbc0A",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0yo2KxWbc0A_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0yo2KxWbc0A_clip02.mp4"
+    },
+    {
+      "clip_id": "1wXXKhLyib4_clip02",
+      "title": "A Bunch of Questions: Jordan Spieth's Short Game",
+      "description": "A Bunch of Questions: Jordan Spieth's Short Game\n\nJordan Spieth's son is anchoring his swing, and it's hilarious.\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golfswing #anchoring",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 no evidence of a special shot",
+      "source_url": "https://www.youtube.com/watch?v=1wXXKhLyib4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1wXXKhLyib4_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1wXXKhLyib4_clip02.mp4"
+    },
+    {
       "clip_id": "299IYF9rgRU_clip02",
       "title": "Fore Play Goes To Ireland - The Golf Trip of a Lifetime (Tralee)",
       "description": "Fore Play Goes To Ireland - The Golf Trip of a Lifetime (Tralee)\n\nTrent's hilarious reaction to a terrible putt in Ireland\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golftips #golfclips",
@@ -306,6 +611,128 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2elJJuqIsoQ_clip02.mp4"
     },
     {
+      "clip_id": "2kdWBXeULfo_clip01",
+      "title": "Jerry Returns To Jersey To Break 100",
+      "description": "Jerry Returns To Jersey To Break 100\n\nJerry breaks 100 with a thrilling putt\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #putt #golfhumor",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 37,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 75 \u2014 eagle putt to win",
+      "source_url": "https://www.youtube.com/watch?v=2kdWBXeULfo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2kdWBXeULfo_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2kdWBXeULfo_clip01.mp4"
+    },
+    {
+      "clip_id": "2kdWBXeULfo_clip02",
+      "title": "Jerry Returns To Jersey To Break 100",
+      "description": "Jerry Returns To Jersey To Break 100\n\nJerry's epic reaction to hitting a monster shot on the course.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golfcomedy #golftips #golffail",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 21,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 83 \u00b7 Shot 80 \u2014 Eagle, big up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=2kdWBXeULfo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2kdWBXeULfo_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2kdWBXeULfo_clip02.mp4"
+    },
+    {
       "clip_id": "2yLOEuQIYsw_clip01",
       "title": "Playing a TGL Match with Cam Young",
       "description": "Playing a TGL Match with Cam Young\n\nTGL match with Cam Young ends in hilarious excuse\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golfexcuses #golffail #golftips",
@@ -426,6 +853,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2yLOEuQIYsw_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2yLOEuQIYsw_clip02.mp4"
+    },
+    {
+      "clip_id": "4k64F16qSH0_clip01",
+      "title": "The Funniest New Duo In Golf?",
+      "description": "The Funniest New Duo In Golf?\n\nThey color their dad's mustache for a bet, and the result is hilarious\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golfhumor #betfail #dadjokes",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "audio",
+      "duration": 38,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 85 \u00b7 Shot 30 \u2014 no golf shot evidence",
+      "source_url": "https://www.youtube.com/watch?v=4k64F16qSH0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4k64F16qSH0_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4k64F16qSH0_clip01.mp4"
+    },
+    {
+      "clip_id": "4k64F16qSH0_clip02",
+      "title": "The Funniest New Duo In Golf?",
+      "description": "The Funniest New Duo In Golf?\n\nFrancis's reaction to losing a bet is priceless.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golftips #golfbet #golfrivalry",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 30 \u2014 no notable shot, chit-chat",
+      "source_url": "https://www.youtube.com/watch?v=4k64F16qSH0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4k64F16qSH0_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4k64F16qSH0_clip02.mp4"
     },
     {
       "clip_id": "62To8Jjt9cs_clip01",
@@ -670,6 +1219,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6PGRWUYx3bA_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6PGRWUYx3bA_clip02.mp4"
+    },
+    {
+      "clip_id": "6kfcKodX79Y_clip01",
+      "title": "NLU House Meeting: 2024 Check In",
+      "description": "NLU House Meeting: 2024 Check In\n\nKVV's golf game is a mystery to Grant\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golfstruggle #golffail #kvv",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "audio",
+      "duration": 35,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 30 \u2014 no notable shot",
+      "source_url": "https://www.youtube.com/watch?v=6kfcKodX79Y",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6kfcKodX79Y_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6kfcKodX79Y_clip01.mp4"
+    },
+    {
+      "clip_id": "6kfcKodX79Y_clip02",
+      "title": "NLU House Meeting: 2024 Check In",
+      "description": "NLU House Meeting: 2024 Check In\n\nGolf game update: still posting scores in the nineties\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golfupdate #golfgame",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "audio",
+      "duration": 24,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 no notable shot, just talk",
+      "source_url": "https://www.youtube.com/watch?v=6kfcKodX79Y",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6kfcKodX79Y_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6kfcKodX79Y_clip02.mp4"
     },
     {
       "clip_id": "6wQD0khzPs0_clip01",
@@ -1099,16 +1770,16 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Bd9P3YpbwLY_clip02.mp4"
     },
     {
-      "clip_id": "CuoNnid8UYQ_clip01",
-      "title": "We Invented A New Game With Biz (Wild Ending)",
-      "description": "We Invented A New Game With Biz (Wild Ending)\n\nGrant Horvat's reaction to the new game concept\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #bizball #golfgame #granthorvat",
+      "clip_id": "BtwdigZJEf8_clip01",
+      "title": "Something Finally Clicked | Breaking 85",
+      "description": "Something Finally Clicked | Breaking 85\n\nTrent breaks 85 with a clutch putt\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golfclutch #golftips #golfbreakthrough",
       "creator": "Fore Play Golf",
       "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "audio",
-      "duration": 20,
+      "signal": "heatmap",
+      "duration": 31,
       "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 30 \u2014 no notable shot, just talk",
-      "source_url": "https://www.youtube.com/watch?v=CuoNnid8UYQ",
+      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 85 \u26f3type \u2014 Nice par putt, but not eagle",
+      "source_url": "https://www.youtube.com/watch?v=BtwdigZJEf8",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1156,679 +1827,8 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CuoNnid8UYQ_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CuoNnid8UYQ_clip01.mp4"
-    },
-    {
-      "clip_id": "CuoNnid8UYQ_clip02",
-      "title": "We Invented A New Game With Biz (Wild Ending)",
-      "description": "We Invented A New Game With Biz (Wild Ending)\n\nThe guys try a new golf game with Biz and hilarity ensues.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golfgame #golfhumor",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=CuoNnid8UYQ",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CuoNnid8UYQ_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CuoNnid8UYQ_clip02.mp4"
-    },
-    {
-      "clip_id": "DQLYVjho0YQ_clip01",
-      "title": "ALL TIME Rematch Against Bob Does Sports",
-      "description": "ALL TIME Rematch Against Bob Does Sports\n\nGrant Horvat freaks out after hitting a terrible shot on a tricky Fazio hole\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #fazio #horvat #golffail",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 95 \u2014 hole-in-one, rare and impressive",
-      "source_url": "https://www.youtube.com/watch?v=DQLYVjho0YQ",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DQLYVjho0YQ_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DQLYVjho0YQ_clip01.mp4"
-    },
-    {
-      "clip_id": "DQLYVjho0YQ_clip02",
-      "title": "ALL TIME Rematch Against Bob Does Sports",
-      "description": "ALL TIME Rematch Against Bob Does Sports\n\nA golfer's brutal honesty about his shot\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golftips #golffail #golfhumor",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 25,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 83 \u00b7 Shot 30 \u2014 no notable shot, chit-chat",
-      "source_url": "https://www.youtube.com/watch?v=DQLYVjho0YQ",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DQLYVjho0YQ_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DQLYVjho0YQ_clip02.mp4"
-    },
-    {
-      "clip_id": "EwO44jjYlXQ_clip01",
-      "title": "2025 No Laying Up Club Championship",
-      "description": "2025 No Laying Up Club Championship\n\nThe No Laying Up Club Championship is back for the second year in a row.\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golftradition #championship #golfclub",
-      "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
-      "signal": "audio",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 30 \u2014 no notable shot, just setup",
-      "source_url": "https://www.youtube.com/watch?v=EwO44jjYlXQ",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/EwO44jjYlXQ_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/EwO44jjYlXQ_clip01.mp4"
-    },
-    {
-      "clip_id": "EwO44jjYlXQ_clip02",
-      "title": "2025 No Laying Up Club Championship",
-      "description": "2025 No Laying Up Club Championship\n\nGarrett misses a tap-in putt and freaks out thinking Solly saw a ghost\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #puttmiss #ghoststory",
-      "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 35 \u2014 routine tap-in miss",
-      "source_url": "https://www.youtube.com/watch?v=EwO44jjYlXQ",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/EwO44jjYlXQ_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/EwO44jjYlXQ_clip02.mp4"
-    },
-    {
-      "clip_id": "H33NTpklG1A_clip01",
-      "title": "Can Neil Break 80 at Shinnecock Hills",
-      "description": "Can Neil Break 80 at Shinnecock Hills\n\nNeil's incredible chip-in shot at Shinnecock Hills\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golfchips #golffail #shinnecockhills",
-      "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
-      "signal": "audio",
-      "duration": 20,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 85 \u26f3type \u2014 eagle chip-in from 30 yards",
-      "source_url": "https://www.youtube.com/watch?v=H33NTpklG1A",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/H33NTpklG1A_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/H33NTpklG1A_clip01.mp4"
-    },
-    {
-      "clip_id": "H33NTpklG1A_clip02",
-      "title": "Can Neil Break 80 at Shinnecock Hills",
-      "description": "Can Neil Break 80 at Shinnecock Hills\n\nNeil's surprisingly mature approach to golf in the wind\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golftips #golfing #golfswing",
-      "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
-      "signal": "audio",
-      "duration": 20,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 eagle with strong wind",
-      "source_url": "https://www.youtube.com/watch?v=H33NTpklG1A",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/H33NTpklG1A_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/H33NTpklG1A_clip02.mp4"
-    },
-    {
-      "clip_id": "HnzjCvr7nIM_clip01",
-      "title": "The 2nd Stop on the Road to $3,000,000 (YGT)",
-      "description": "The 2nd Stop on the Road to $3,000,000 (YGT)\n\nThe teams with the lowest scores will advance to the finale, but who will win the most valuable prize?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #matchplay #golftournament #golffinance",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "audio",
-      "duration": 32,
-      "grade": 83,
-      "note": "Dir 83 \u00b7 Funny 0 \u00b7 Shot 75 \u2014 Eagle on a tough hole",
-      "source_url": "https://www.youtube.com/watch?v=HnzjCvr7nIM",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HnzjCvr7nIM_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HnzjCvr7nIM_clip01.mp4"
-    },
-    {
-      "clip_id": "HnzjCvr7nIM_clip02",
-      "title": "The 2nd Stop on the Road to $3,000,000 (YGT)",
-      "description": "The 2nd Stop on the Road to $3,000,000 (YGT)\n\nGrant Horvat congratulates the team that played an incredible final round at Purcell Farms.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfcongratulations #golftournament #golfcompetition",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "audio",
-      "duration": 36,
-      "grade": 83,
-      "note": "Dir 83 \u00b7 Funny 35 \u00b7 Shot 30 \u2014 no notable shot",
-      "source_url": "https://www.youtube.com/watch?v=HnzjCvr7nIM",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HnzjCvr7nIM_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HnzjCvr7nIM_clip02.mp4"
-    },
-    {
-      "clip_id": "IeljGByKMDc_clip01",
-      "title": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)",
-      "description": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)\n\nA fish's reaction to a golf ball landing in a pond\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golfball #fish #pond",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "audio",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 80 \u2014 Eagle from 82 yards",
-      "source_url": "https://www.youtube.com/watch?v=IeljGByKMDc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip01.mp4"
-    },
-    {
-      "clip_id": "IeljGByKMDc_clip02",
-      "title": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)",
-      "description": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)\n\nKevin Kisner gets surprised by a sudden golf ball in a small pond.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #pondsurprise #kisnerfail",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "audio",
-      "duration": 33,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 30 \u26f3type \u2014 no golf shot shown",
-      "source_url": "https://www.youtube.com/watch?v=IeljGByKMDc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BtwdigZJEf8_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BtwdigZJEf8_clip01.mp4"
     }
   ]
 }
