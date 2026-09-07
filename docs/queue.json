@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "IeljGByKMDc_clip02",
-      "title": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)",
-      "description": "Can Kevin Kisner Beat 2 Frankies (Kiz Home Course)\n\nKevin Kisner gets surprised by a sudden golf ball in a small pond.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #pondsurprise #kisnerfail",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "audio",
-      "duration": 33,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 30 \u26f3type \u2014 no golf shot shown",
-      "source_url": "https://www.youtube.com/watch?v=IeljGByKMDc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_clip02.mp4"
-    },
-    {
       "clip_id": "JKJ8qhjrp-s_clip01",
       "title": "Every Shot from Soly at the Creator Classic | TPC Sawgrass",
       "description": "Every Shot from Soly at the Creator Classic | TPC Sawgrass\n\nSoly's hilarious admission of being unprepared for the Creator Classic\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #tpcsawgrass #pgatour",
@@ -1829,6 +1768,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/T86UWBfQqmY_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/T86UWBfQqmY_clip01.mp4"
+    },
+    {
+      "clip_id": "T86UWBfQqmY_clip02",
+      "title": "Can Regular Golfers Hold a 25 Shot Lead Against Kevin Kisner?!",
+      "description": "Can Regular Golfers Hold a 25 Shot Lead Against Kevin Kisner?!\n\nA regular golfer makes an insane shot on the 14th hole\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golfmoment #golfshot",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 85 \u2014 Eagle, big moment in close match",
+      "source_url": "https://www.youtube.com/watch?v=T86UWBfQqmY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/T86UWBfQqmY_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/T86UWBfQqmY_clip02.mp4"
     }
   ]
 }
