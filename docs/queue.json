@@ -794,67 +794,6 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hVW8Xxl6Mrc_clip01.mp4"
     },
     {
-      "clip_id": "hVW8Xxl6Mrc_clip02",
-      "title": "Can I Beat Nelly Korda From the Same Tees?",
-      "description": "Can I Beat Nelly Korda From the Same Tees?\n\nGrant Horvat's hilarious warning about hitting the bunker on a tricky par four\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golftips",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "heatmap",
-      "duration": 22,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 Eagle on tricky par four",
-      "source_url": "https://www.youtube.com/watch?v=hVW8Xxl6Mrc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hVW8Xxl6Mrc_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hVW8Xxl6Mrc_clip02.mp4"
-    },
-    {
       "clip_id": "hXqhuW4iYdU_clip02",
       "title": "This Might Be Our Hardest Golf Challenge Yet\u2026",
       "description": "This Might Be Our Hardest Golf Challenge Yet\u2026\n\nRick Shiels Golf's hilarious reaction to his outrageous golf shot\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #rickshielsgolf #golfchallenge",
@@ -1829,6 +1768,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip01.mp4"
+    },
+    {
+      "clip_id": "p-HBEmqBqF0_clip02",
+      "title": "Golf Match at South Carolina\u2019s Newest Course!",
+      "description": "Golf Match at South Carolina\u2019s Newest Course!\n\nBryan Bros Golf's hilarious reaction to a perfect 280 carry drive\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 22,
+      "grade": 87,
+      "note": "Dir 87 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 Eagle miss, close to perfect",
+      "source_url": "https://www.youtube.com/watch?v=p-HBEmqBqF0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4"
     }
   ]
 }
