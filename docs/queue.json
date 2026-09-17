@@ -1,372 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "a5cEcRR7G2o_clip01",
-      "title": "I Play my Home Golf Course with a Tour Pro!",
-      "description": "I Play my Home Golf Course with a Tour Pro!\n\nRick Shiels surprises a tour pro with his unusual club choice on the 16th hole\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golfclub #golffail #rickshielsgolf",
-      "creator": "Rick Shiels Golf",
-      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
-      "signal": "heatmap",
-      "duration": 21,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 35 \u00b7 Shot 80 \u2014 Eagle up and down from 421 yards",
-      "source_url": "https://www.youtube.com/watch?v=a5cEcRR7G2o",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/a5cEcRR7G2o_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/a5cEcRR7G2o_clip01.mp4"
-    },
-    {
-      "clip_id": "aNxAh6yYK7I_clip01",
-      "title": "Can I Break A Random Public Course Record In One Try?",
-      "description": "Can I Break A Random Public Course Record In One Try?\n\nBryson DeChambeau's hilarious reaction to hitting the tree on a public course\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #brysondechambeau #golfingfail",
-      "creator": "Bryson DeChambeau",
-      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
-      "signal": "audio",
-      "duration": 30,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 Eagle, good drive",
-      "source_url": "https://www.youtube.com/watch?v=aNxAh6yYK7I",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aNxAh6yYK7I_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aNxAh6yYK7I_clip01.mp4"
-    },
-    {
-      "clip_id": "bJq3ZA2kHog_clip02",
-      "title": "3 Pro Golfers Challenged a D1 Golf Team..",
-      "description": "3 Pro Golfers Challenged a D1 Golf Team..\n\nPro golfer Brad hits a brutal 4-foot shot for an eagle\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfclips #golffail #golfchallenges",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "heatmap",
-      "duration": 39,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 95 \u26f3type \u2014 Eagle chip-in for birdie Brad",
-      "source_url": "https://www.youtube.com/watch?v=bJq3ZA2kHog",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bJq3ZA2kHog_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bJq3ZA2kHog_clip02.mp4"
-    },
-    {
-      "clip_id": "bTFUJ6EgUM0_clip01",
-      "title": "Funniest Match Ever With Tommy Fleetwood, Collin Morikawa and Charley Hull",
-      "description": "Funniest Match Ever With Tommy Fleetwood, Collin Morikawa and Charley Hull\n\nTommy Fleetwood's hilarious advice to Collin Morikawa\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golftips",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=bTFUJ6EgUM0",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bTFUJ6EgUM0_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bTFUJ6EgUM0_clip01.mp4"
-    },
-    {
-      "clip_id": "bTFUJ6EgUM0_clip02",
-      "title": "Funniest Match Ever With Tommy Fleetwood, Collin Morikawa and Charley Hull",
-      "description": "Funniest Match Ever With Tommy Fleetwood, Collin Morikawa and Charley Hull\n\nTommy Fleetwood and Charley Hull's hilarious goal shot fail\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golftips",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 80 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=bTFUJ6EgUM0",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bTFUJ6EgUM0_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bTFUJ6EgUM0_clip02.mp4"
-    },
-    {
-      "clip_id": "cZEsYY3eokw_clip01",
-      "title": "Did He Meltdown AGAIN?! (TPC Sawgrass)",
-      "description": "Did He Meltdown AGAIN?! (TPC Sawgrass)\n\nWhen you're so excited you forget how to hit a golf ball\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #tpcsawgrass #golftips",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 80 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=cZEsYY3eokw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_clip01.mp4"
-    },
-    {
       "clip_id": "cZEsYY3eokw_clip02",
       "title": "Did He Meltdown AGAIN?! (TPC Sawgrass)",
       "description": "Did He Meltdown AGAIN?! (TPC Sawgrass)\n\nFore Play Golf's golfer has a meltdown at TPC Sawgrass.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #tpcsawgrass #foreplaygolf",
@@ -1829,6 +1463,372 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4"
+    },
+    {
+      "clip_id": "pga_20260830_01",
+      "title": "TOUR CHAMPIONSHIP \u2014 FINAL",
+      "description": "TOUR Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_01.mp4"
+    },
+    {
+      "clip_id": "pga_20260830_02",
+      "title": "SCOTTIE SCHEFFLER",
+      "description": "Scottie Scheffler wins the TOUR Championship. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_02.mp4"
+    },
+    {
+      "clip_id": "rtXIqnqFAGg_clip01",
+      "title": "Can We Make Major Cut @ TPC Sawgrass? (Players Edition)",
+      "description": "Can We Make Major Cut @ TPC Sawgrass? (Players Edition)\n\nGeorge's hilarious response to a near-perfect shot\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golffail #golfsanity",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 24,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle putt to win",
+      "source_url": "https://www.youtube.com/watch?v=rtXIqnqFAGg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip01.mp4"
+    },
+    {
+      "clip_id": "rtXIqnqFAGg_clip02",
+      "title": "Can We Make Major Cut @ TPC Sawgrass? (Players Edition)",
+      "description": "Can We Make Major Cut @ TPC Sawgrass? (Players Edition)\n\nWes hits an incredible shot at TPC Sawgrass\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfvideo #tpcsawgrass #golftournament",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 23,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle from tricky bunker",
+      "source_url": "https://www.youtube.com/watch?v=rtXIqnqFAGg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip02.mp4"
+    },
+    {
+      "clip_id": "sBU5QPA8YbU_clip02",
+      "title": "BIG WEDGE VS RICK SHIELS: THE CHASE GOLF",
+      "description": "BIG WEDGE VS RICK SHIELS: THE CHASE GOLF\n\nBig Wedge Golf's insane wedge shot leaves Josh stunned.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golfclips #golftips #golfsports",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "heatmap",
+      "duration": 24,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 80 \u2014 eagle, great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=sBU5QPA8YbU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sBU5QPA8YbU_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sBU5QPA8YbU_clip02.mp4"
+    },
+    {
+      "clip_id": "shU4oYZqMak_clip02",
+      "title": "Attempting To Break My Record On 18 Holes",
+      "description": "Attempting To Break My Record On 18 Holes\n\nGolf fail: a low fade shot goes awry, and the result is pure luck.\n\nClip from \u201cthe creator\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #luckyswing",
+      "creator": null,
+      "blurb": "",
+      "signal": "audio",
+      "duration": 20,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 eagle or great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=shU4oYZqMak",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/shU4oYZqMak_clip02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/shU4oYZqMak_clip02.mp4"
     }
   ]
 }
