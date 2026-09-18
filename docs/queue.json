@@ -1160,22 +1160,22 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_02.mp4"
     },
     {
-      "clip_id": "pgafinal_20260917_biltmore_championship_as",
-      "title": "Biltmore Championship Asheville \u2014 final leaderboard",
-      "description": "Eric Cole wins the Biltmore Championship Asheville in a playoff at -7. Final leaderboard. #golf #PGATour #clipjohnson",
+      "clip_id": "pga_20260918_01",
+      "title": "BILTMORE CHAMPIONSHIP ASHEVILLE \u2014 FINAL ROUND",
+      "description": "Biltmore Championship Asheville \u2014 leaderboard. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
       "duration": 0,
       "grade": 0,
       "note": null,
-      "source_url": "",
-      "provenance": "original",
-      "content_type": "pga_liv_card",
-      "type": "pga_liv_card",
-      "media_type": "image",
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
       "check_manifest": {
-        "content_type": "pga_liv_card",
+        "content_type": "pga_motion_card",
         "order": [
           "provenance",
           "db_truth",
@@ -1187,9 +1187,9 @@
         "checks": [
           {
             "check": "provenance",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_liv_card"
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
           },
           {
             "check": "db_truth",
@@ -1211,14 +1211,75 @@
           },
           {
             "check": "pixel_format",
-            "applicable": true,
-            "passed": true,
-            "reason": "1080x1350 ~ 4:5 (crop-safe)"
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260917_biltmore_championship_as.png",
-      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20260917_biltmore_championship_as.png"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260918_01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260918_01.mp4"
+    },
+    {
+      "clip_id": "pga_20260918_02",
+      "title": "NEAL SHIPLEY",
+      "description": "Neal Shipley leads the final round of the Biltmore Championship Asheville. #golf #PGATour",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260918_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260918_02.mp4"
     },
     {
       "clip_id": "rtXIqnqFAGg_clip01",
@@ -1768,67 +1829,6 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip02.mp4"
-    },
-    {
-      "clip_id": "v1j6u5-4QAA_clip02",
-      "title": "I Hit It Off the Heel and Won't Stop Laughing",
-      "description": "I Hit It Off the Heel and Won't Stop Laughing\n\nGrant Horvat's hilarious reaction to hitting a shot off the heel at Royal County Down\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #royalcountydown #golfhumor",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "heatmap",
-      "duration": 22,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 eagle chance, nearly aced par 4",
-      "source_url": "https://www.youtube.com/watch?v=v1j6u5-4QAA",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/v1j6u5-4QAA_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/v1j6u5-4QAA_clip02.mp4"
     }
   ]
 }
