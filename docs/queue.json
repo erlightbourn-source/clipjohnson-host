@@ -1,16 +1,321 @@
 {
   "clips": [
     {
-      "clip_id": "hXqhuW4iYdU_clip02",
-      "title": "Loaded with Spin",
-      "description": "Loaded with Spin\n\nRick Shiels Golf's hilarious reaction to his outrageous golf shot\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #rickshielsgolf #golfchallenge",
+      "clip_id": "-1egD8V3kV4_clip01",
+      "title": "I Screw It Up Every Time",
+      "description": "I Screw It Up Every Time\n\nBig Wedge Golf tries a big wedge shot and loses all aura\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #bigwedgegolf #golftips",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=-1egD8V3kV4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-1egD8V3kV4_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-1egD8V3kV4_clip01.mp4"
+    },
+    {
+      "clip_id": "-2cxJYVGhis_clip01",
+      "title": "That Was Elite",
+      "description": "That Was Elite\n\nMicah Morris is left speechless after Evan Thompson hits a crazy golf shot.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golfluck #golfsurprise",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "heatmap",
+      "duration": 22,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 90 \u2014 elite chip-in for eagle",
+      "source_url": "https://www.youtube.com/watch?v=-2cxJYVGhis",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-2cxJYVGhis_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-2cxJYVGhis_clip01.mp4"
+    },
+    {
+      "clip_id": "-Q5jW5a3gFA_clip01",
+      "title": "Couldn't Be a Worse Spot",
+      "description": "Couldn't Be a Worse Spot\n\nStu's nightmare bunker shot\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #bunkershot #golfhumor",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
+      "signal": "heatmap",
+      "duration": 37,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 85 \u26f3type \u2014 Eagle putt on 5th, crowd reaction",
+      "source_url": "https://www.youtube.com/watch?v=-Q5jW5a3gFA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-Q5jW5a3gFA_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-Q5jW5a3gFA_clip01.mp4"
+    },
+    {
+      "clip_id": "0RhSuNIkn1I_clip01",
+      "title": "You're about to get literally die",
+      "description": "You're about to get literally die\n\nBig Wedge Golf's blindfolded wedge play ends in hilarious failure.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #blindfoldedgolf #wedgeplay",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle, hit a tree",
+      "source_url": "https://www.youtube.com/watch?v=0RhSuNIkn1I",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0RhSuNIkn1I_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0RhSuNIkn1I_clip01.mp4"
+    },
+    {
+      "clip_id": "0dC3vAIfQ28_clip01",
+      "title": "What a drive",
+      "description": "What a drive\n\nGrant Horvat's epic drive in the $250,000 golf tournament\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftournament #granthorvat #golfdrama",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "heatmap",
+      "duration": 25,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 10 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=0dC3vAIfQ28",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0dC3vAIfQ28_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0dC3vAIfQ28_clip01.mp4"
+    },
+    {
+      "clip_id": "18fBcKakilw_clip01",
+      "title": "I Thought That Was 100m",
+      "description": "I Thought That Was 100m\n\nRick Shiels hits a ridiculously long lob wedge shot that goes way beyond his expectations.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #longshot #golffail #lobwedge #rickshielsgolf",
       "creator": "Rick Shiels Golf",
       "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
       "signal": "heatmap",
-      "duration": 20,
+      "duration": 28,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=hXqhuW4iYdU",
+      "note": "Dir 92 \u00b7 Funny 10 \u00b7 Shot 75 \u2014 eagle or great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=18fBcKakilw",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -58,264 +363,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hXqhuW4iYdU_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hXqhuW4iYdU_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_clip01.mp4"
     },
     {
-      "clip_id": "iH4iMWuqyRg_clip02",
-      "title": "I'm Breaking Bar",
-      "description": "I'm Breaking Bar\n\nBryan Bros Golf's hilarious trash talk and the US Junior Champion's hilarious reaction\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftalk #juniorchampion #golfreaction",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 20,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=iH4iMWuqyRg",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iH4iMWuqyRg_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iH4iMWuqyRg_clip02.mp4"
-    },
-    {
-      "clip_id": "jCGKqTQPimA_clip02",
-      "title": "Awful Right Here",
-      "description": "Awful Right Here\n\nBryan Bros struggle to make a cut in their pro golf return\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golfstruggle",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 40,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 eagle miss, close to bogey",
-      "source_url": "https://www.youtube.com/watch?v=jCGKqTQPimA",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jCGKqTQPimA_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jCGKqTQPimA_clip02.mp4"
-    },
-    {
-      "clip_id": "jMDSKwgASaY_clip01",
-      "title": "Holy Smokes, That's a Big Shot!",
-      "description": "Holy Smokes, That's a Big Shot!\n\nTries to make a challenging shot with a rock in the way.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfchallenges #golffail #golftips",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "heatmap",
-      "duration": 37,
-      "grade": 82,
-      "note": "Dir 82 \u00b7 Funny 83 \u00b7 Shot 80 \u2014 Eagle attempt from difficult location",
-      "source_url": "https://www.youtube.com/watch?v=jMDSKwgASaY",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jMDSKwgASaY_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jMDSKwgASaY_clip01.mp4"
-    },
-    {
-      "clip_id": "jMDSKwgASaY_clip02",
-      "title": "Whoa, Dude!",
-      "description": "Whoa, Dude!\n\nAlexis breaks through the rock, securing the win.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfchallenge #rockbreak #golffail",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "heatmap",
-      "duration": 21,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 85 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=jMDSKwgASaY",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jMDSKwgASaY_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/jMDSKwgASaY_clip02.mp4"
-    },
-    {
-      "clip_id": "k6pYwwn0tQk_clip01",
-      "title": "Wait, what the f***?",
-      "description": "Wait, what the f***?\n\nThe greenkeeper's revenge after a big wedge shot\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #glazing #bigwedge",
-      "creator": "Big Wedge Golf",
-      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "clip_id": "1Rc37QkkbGg_clip01",
+      "title": "Is That Super Short?",
+      "description": "Is That Super Short?\n\nBryson DeChambeau's attempt at breaking a public course record ends in surprise.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #golfrecord #brysondechambeau",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
       "signal": "heatmap",
       "duration": 20,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 100 \u2014 Hole-in-one, rare and impressive",
-      "source_url": "https://www.youtube.com/watch?v=k6pYwwn0tQk",
+      "note": "Dir 92 \u00b7 Funny 73 \u00b7 Shot 80 \u2014 Eagle attempt, precise approach",
+      "source_url": "https://www.youtube.com/watch?v=1Rc37QkkbGg",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -363,20 +424,142 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/k6pYwwn0tQk_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/k6pYwwn0tQk_clip01.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1Rc37QkkbGg_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1Rc37QkkbGg_clip01.mp4"
     },
     {
-      "clip_id": "k6pYwwn0tQk_clip02",
-      "title": "No Way!",
-      "description": "No Way!\n\nA trick shot attempt ends in hilarious failure\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #fail #trickshot #golfingfail",
-      "creator": "Big Wedge Golf",
-      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "clip_id": "1cVGTp46j6M_clip01",
+      "title": "Just Hit a Terrible Pitch After a Great Drive",
+      "description": "Just Hit a Terrible Pitch After a Great Drive\n\nPeter Finch and Ryan Ruffels' hilarious 18th hole at Rivers Edge\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golftips #golffail #golfclips",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "heatmap",
+      "duration": 24,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 35 \u00b7 Shot 80 \u2014 Great drive, terrible pitch",
+      "source_url": "https://www.youtube.com/watch?v=1cVGTp46j6M",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1cVGTp46j6M_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1cVGTp46j6M_clip01.mp4"
+    },
+    {
+      "clip_id": "1pDtR4KkP-Y_clip01",
+      "title": "Are you kidding me? Golf Fail",
+      "description": "Are you kidding me? Golf Fail\n\nBryan Bros Golf's $250k match ends in a shocking way\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfbet #golflife",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 30,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 80 \u2014 Eagle putt, impressive chip-in",
+      "source_url": "https://www.youtube.com/watch?v=1pDtR4KkP-Y",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1pDtR4KkP-Y_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1pDtR4KkP-Y_clip01.mp4"
+    },
+    {
+      "clip_id": "2Bp6DsBlNEw_clip01",
+      "title": "Stop, I Screw It Up Every Time",
+      "description": "Stop, I Screw It Up Every Time\n\nGrant Horvat's golf match with Bryson and Garrett takes a dramatic turn when he hits a terrible shot.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfclips #golftips",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
       "signal": "heatmap",
       "duration": 20,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 85 \u26f3type \u2014 Eagle with double or nothing stakes",
-      "source_url": "https://www.youtube.com/watch?v=k6pYwwn0tQk",
+      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 Eagle with strong wind",
+      "source_url": "https://www.youtube.com/watch?v=2Bp6DsBlNEw",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -424,142 +607,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/k6pYwwn0tQk_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/k6pYwwn0tQk_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2Bp6DsBlNEw_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2Bp6DsBlNEw_clip01.mp4"
     },
     {
-      "clip_id": "lm5NOlbcDzA_clip01",
-      "title": "Did you just make a hole in one?",
-      "description": "Did you just make a hole in one?\n\nBryan Bros Golf tries to break course record at Edgebrook for just $13.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #hollowcreek #golffail",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 34,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 83 \u00b7 Shot 100 \u26f3type \u2014 Hole-in-one on first hole",
-      "source_url": "https://www.youtube.com/watch?v=lm5NOlbcDzA",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_clip01.mp4"
-    },
-    {
-      "clip_id": "lm5NOlbcDzA_clip02",
-      "title": "That is crafty",
-      "description": "That is crafty\n\nGeorge pulls off a perfect shot on the cheap course\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golffail #golfingfail",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "audio",
-      "duration": 21,
-      "grade": 93,
-      "note": "Dir 93 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 Eagle miss, close to hole",
-      "source_url": "https://www.youtube.com/watch?v=lm5NOlbcDzA",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_clip02.mp4"
-    },
-    {
-      "clip_id": "mCgbyPJJWJ0_clip02",
-      "title": "Siri Picks All My Clubs",
-      "description": "Siri Picks All My Clubs\n\nBryson DeChambeau's Siri picks a club, but not the right one\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #golftips #sirierror",
+      "clip_id": "2f5EtmopXt8_clip01",
+      "title": "I Kind Of Hit That Hard",
+      "description": "I Kind Of Hit That Hard\n\nBryson DeChambeau's hilarious reaction to hitting a great shot\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #golffail #golfcomedy #brysondechambeau",
       "creator": "Bryson DeChambeau",
       "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
       "signal": "heatmap",
       "duration": 33,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 80 \u2014 56-yard approach over water, into wind",
-      "source_url": "https://www.youtube.com/watch?v=mCgbyPJJWJ0",
+      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 85 \u26f3type \u2014 Eagle shot for the kids",
+      "source_url": "https://www.youtube.com/watch?v=2f5EtmopXt8",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -607,325 +668,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mCgbyPJJWJ0_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mCgbyPJJWJ0_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2f5EtmopXt8_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2f5EtmopXt8_clip01.mp4"
     },
     {
-      "clip_id": "nWuQErnzMhM_clip02",
-      "title": "That is an insane bird",
-      "description": "That is an insane bird\n\nTrent sinks an incredible birdie putt at the greatest course in the world\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #birdie #greatestcourse #golfshorts #golfclips",
-      "creator": "Fore Play Golf",
-      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
-      "signal": "heatmap",
-      "duration": 42,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 90 \u2014 eagle putt, impressive up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=nWuQErnzMhM",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nWuQErnzMhM_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nWuQErnzMhM_clip02.mp4"
-    },
-    {
-      "clip_id": "nbSXn5q425U_clip01",
-      "title": "He Smoked One Right Down the Middle",
-      "description": "He Smoked One Right Down the Middle\n\nBryson DeChambeau's incredible shot from yesterday's US Open practice\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #usopen #brysondechambeau",
-      "creator": "Bryson DeChambeau",
-      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
-      "signal": "audio",
-      "duration": 21,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 35 \u00b7 Shot 75 \u2014 Eagle on hardest fairway",
-      "source_url": "https://www.youtube.com/watch?v=nbSXn5q425U",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_clip01.mp4"
-    },
-    {
-      "clip_id": "nbSXn5q425U_clip02",
-      "title": "Down at Pinehurst",
-      "description": "Down at Pinehurst\n\nBryson DeChambeau wins another U.S. Open championship at Pinehurst.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #usopen #majorchampionship #golftournament",
-      "creator": "Bryson DeChambeau",
-      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
-      "signal": "heatmap",
-      "duration": 26,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 35 \u00b7 Shot 75 \u2014 Eagle up-and-down from tough lie",
-      "source_url": "https://www.youtube.com/watch?v=nbSXn5q425U",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_clip02.mp4"
-    },
-    {
-      "clip_id": "nhXQxfaWiX4_clip02",
-      "title": "Oh, hello.",
-      "description": "Oh, hello.\n\nThe golfer's awkward response after hitting a good shot.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golftips #golfgood",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "audio",
-      "duration": 32,
-      "grade": 84,
-      "note": "Dir 84 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=nhXQxfaWiX4",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nhXQxfaWiX4_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nhXQxfaWiX4_clip02.mp4"
-    },
-    {
-      "clip_id": "oRxd1-XDrtI_clip01",
-      "title": "Utah Bounces Just How He Drew It Up",
-      "description": "Utah Bounces Just How He Drew It Up\n\nBob Does Sports' epic 80-breaker has a surprising shot that will leave you speechless.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #golftips #golfround",
-      "creator": "Bob Does Sports",
-      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
-      "signal": "heatmap",
-      "duration": 27,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 80 \u2014 eagle or great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=oRxd1-XDrtI",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oRxd1-XDrtI_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oRxd1-XDrtI_clip01.mp4"
-    },
-    {
-      "clip_id": "p-HBEmqBqF0_clip01",
-      "title": "No Warm Up, No Problem",
-      "description": "No Warm Up, No Problem\n\nBryan Bros take on a 500-yard par 4 without warming up\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golffail #golfshorts #golfslope",
+      "clip_id": "2xGxSmY-FFM_clip01",
+      "title": "I Thought This Was Way Up Further",
+      "description": "I Thought This Was Way Up Further\n\nBryan Bros predict a tricky shot and their confidence is hilariously short-lived.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryandragons #golfbetting",
       "creator": "Bryan Bros Golf",
       "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
       "signal": "heatmap",
-      "duration": 22,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 eagle from 500 yards",
-      "source_url": "https://www.youtube.com/watch?v=p-HBEmqBqF0",
+      "duration": 35,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 23 \u00b7 Shot 80 \u2014 eagle putt to win",
+      "source_url": "https://www.youtube.com/watch?v=2xGxSmY-FFM",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -973,508 +729,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip01.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2xGxSmY-FFM_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2xGxSmY-FFM_clip01.mp4"
     },
     {
-      "clip_id": "p-HBEmqBqF0_clip02",
-      "title": "Oh my.",
-      "description": "Oh my.\n\nBryan Bros Golf's hilarious reaction to a perfect 280 carry drive\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golftips",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 22,
-      "grade": 87,
-      "note": "Dir 87 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 Eagle miss, close to perfect",
-      "source_url": "https://www.youtube.com/watch?v=p-HBEmqBqF0",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/p-HBEmqBqF0_clip02.mp4"
-    },
-    {
-      "clip_id": "pga_20260830_01",
-      "title": "TOUR CHAMPIONSHIP \u2014 FINAL",
-      "description": "TOUR Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_01.mp4"
-    },
-    {
-      "clip_id": "pga_20260830_02",
-      "title": "SCOTTIE SCHEFFLER",
-      "description": "Scottie Scheffler wins the TOUR Championship. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260830_02.mp4"
-    },
-    {
-      "clip_id": "pga_20260920_01",
-      "title": "BILTMORE CHAMPIONSHIP ASHEVILLE \u2014 FINAL",
-      "description": "Biltmore Championship Asheville \u2014 leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260920_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260920_01.mp4"
-    },
-    {
-      "clip_id": "pga_20260920_02",
-      "title": "JACOB BRIDGEMAN",
-      "description": "Jacob Bridgeman wins the Biltmore Championship Asheville. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260920_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20260920_02.mp4"
-    },
-    {
-      "clip_id": "rtXIqnqFAGg_clip01",
-      "title": "It's Just in the Rough",
-      "description": "It's Just in the Rough\n\nGeorge's hilarious response to a near-perfect shot\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golffail #golfsanity",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 24,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle putt to win",
-      "source_url": "https://www.youtube.com/watch?v=rtXIqnqFAGg",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip01.mp4"
-    },
-    {
-      "clip_id": "rtXIqnqFAGg_clip02",
-      "title": "That was unbelievable, Wes",
-      "description": "That was unbelievable, Wes\n\nWes hits an incredible shot at TPC Sawgrass\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfvideo #tpcsawgrass #golftournament",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "heatmap",
-      "duration": 23,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle from tricky bunker",
-      "source_url": "https://www.youtube.com/watch?v=rtXIqnqFAGg",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rtXIqnqFAGg_clip02.mp4"
-    },
-    {
-      "clip_id": "sBU5QPA8YbU_clip02",
-      "title": "That was so good. You never had a chance.",
-      "description": "That was so good. You never had a chance.\n\nBig Wedge Golf's insane wedge shot leaves Josh stunned.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golfclips #golftips #golfsports",
+      "clip_id": "4EU7NTdt7vg_clip01",
+      "title": "I Think It's a Pie",
+      "description": "I Think It's a Pie\n\nBig Wedge Golf's hilarious reaction to a questionable up-and-down\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #ukopen #bigwedgegolf",
       "creator": "Big Wedge Golf",
       "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
       "signal": "heatmap",
       "duration": 24,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 83 \u00b7 Shot 80 \u2014 eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=sBU5QPA8YbU",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sBU5QPA8YbU_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sBU5QPA8YbU_clip02.mp4"
-    },
-    {
-      "clip_id": "shU4oYZqMak_clip02",
-      "title": "I Screw It Up Every Time",
-      "description": "I Screw It Up Every Time\n\nGolf fail: a low fade shot goes awry, and the result is pure luck.\n\nClip from \u201cthe creator\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #luckyswing",
-      "creator": null,
-      "blurb": "",
-      "signal": "audio",
-      "duration": 20,
       "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 eagle or great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=shU4oYZqMak",
+      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 eagle up-and-down from difficult position",
+      "source_url": "https://www.youtube.com/watch?v=4EU7NTdt7vg",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1522,20 +790,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/shU4oYZqMak_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/shU4oYZqMak_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4EU7NTdt7vg_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4EU7NTdt7vg_clip01.mp4"
     },
     {
-      "clip_id": "tuHetPCGdwE_clip01",
-      "title": "What a shot.",
-      "description": "What a shot.\n\nGrant Horvat's incredible 50-yard punch shot on the course.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffail #golfsurprise",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "clip_id": "4WQMWWH3eO4_clip01",
+      "title": "Pure Roll",
+      "description": "Pure Roll\n\nA stunning putt that seals the win, and a hilarious reaction from the opposing team.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golfclips #golftournament #golfreaction",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, big-personality golf-media franchise mixing pro/celebrity guest matches with amateur banter; already crosses over with Bob Does Sports in the existing library.",
       "signal": "heatmap",
-      "duration": 20,
+      "duration": 37,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 80 \u2014 Eagle, great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=tuHetPCGdwE",
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 80 \u2014 Eagle putt to win",
+      "source_url": "https://www.youtube.com/watch?v=4WQMWWH3eO4",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1583,20 +851,20 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/tuHetPCGdwE_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/tuHetPCGdwE_clip01.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4WQMWWH3eO4_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4WQMWWH3eO4_clip01.mp4"
     },
     {
-      "clip_id": "tuHetPCGdwE_clip02",
-      "title": "That just, I was about to say hole in one.",
-      "description": "That just, I was about to say hole in one.\n\nGrant Horvat's hilarious reaction to missing a hole-in-one\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golftips #honestreaction",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "clip_id": "4iTWbm79RQU_clip01",
+      "title": "I'm gonna have to drip this in the right side for birdie",
+      "description": "I'm gonna have to drip this in the right side for birdie\n\nA golfer's honest assessment of his chances after a tough shot\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golfhumor #golftips",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
       "signal": "heatmap",
       "duration": 26,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 72 \u00b7 Shot 85 \u26f3type \u2014 Eagle miss, near hole-in-one",
-      "source_url": "https://www.youtube.com/watch?v=tuHetPCGdwE",
+      "grade": 82,
+      "note": "Dir 82 \u00b7 Funny 72 \u00b7 Shot 80 \u2014 Eagle putt for big money",
+      "source_url": "https://www.youtube.com/watch?v=4iTWbm79RQU",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1644,20 +912,386 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/tuHetPCGdwE_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/tuHetPCGdwE_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4iTWbm79RQU_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/4iTWbm79RQU_clip01.mp4"
     },
     {
-      "clip_id": "u4oRcGHhDtQ_clip02",
-      "title": "I Don't Mind It",
-      "description": "I Don't Mind It\n\nMicah Morris commits to an 8-iron from a tough hillside lie.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips",
+      "clip_id": "6LM_X1mf1RU_clip01",
+      "title": "I'm a Bad Man",
+      "description": "I'm a Bad Man\n\nWesley Bryan's hilarious advice to Jason Day during a tense 18-hole stroke play\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #golfcomedy #golffail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 40,
+      "grade": 93,
+      "note": "Dir 93 \u00b7 Funny 78 \u00b7 Shot 100 \u26f3type \u2014 hole-in-one, rare and elite",
+      "source_url": "https://www.youtube.com/watch?v=6LM_X1mf1RU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6LM_X1mf1RU_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6LM_X1mf1RU_clip01.mp4"
+    },
+    {
+      "clip_id": "6N7I0o94bKQ_clip01",
+      "title": "I Hit a 52 Degree Wedge into a Bunker and it's ANNOYING",
+      "description": "I Hit a 52 Degree Wedge into a Bunker and it's ANNOYING\n\nRick Shiels' awkward bunker shot at the America's Very Hard Course\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #bunkershot #golffail #rickshiels",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
+      "signal": "heatmap",
+      "duration": 29,
+      "grade": 85,
+      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 52 degree wedge splash shot, close to hole",
+      "source_url": "https://www.youtube.com/watch?v=6N7I0o94bKQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6N7I0o94bKQ_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6N7I0o94bKQ_clip01.mp4"
+    },
+    {
+      "clip_id": "7nAhoTfLMbg_clip01",
+      "title": "Screw 49",
+      "description": "Screw 49\n\nBryson DeChambeau predicts he'll break 50 with a long drive, but ends up saying screw 49.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golfsports #golfchampion",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 85 \u26f3type \u2014 Eagle on hole 4",
+      "source_url": "https://www.youtube.com/watch?v=7nAhoTfLMbg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7nAhoTfLMbg_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7nAhoTfLMbg_clip01.mp4"
+    },
+    {
+      "clip_id": "7nEiMOkuAnU_clip01",
+      "title": "Nice shot, mate.",
+      "description": "Nice shot, mate.\n\nA head pro's surprisingly decent swing\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #golftips #golfclips",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "heatmap",
+      "duration": 30,
+      "grade": 90,
+      "note": "Dir 90 \u00b7 Funny 7 \u00b7 Shot 75 \u2014 Eagle, great up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=7nEiMOkuAnU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7nEiMOkuAnU_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7nEiMOkuAnU_clip01.mp4"
+    },
+    {
+      "clip_id": "7qnlw6gSr0Q_clip01",
+      "title": "It Just Disappeared",
+      "description": "It Just Disappeared\n\nBryson DeChambeau's incredible chip shot that went into the earth\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #golffail #brysondechambeau",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "heatmap",
+      "duration": 34,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle chip-in, impressive but not elite",
+      "source_url": "https://www.youtube.com/watch?v=7qnlw6gSr0Q",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_clip01.mp4"
+    },
+    {
+      "clip_id": "7seYrO0KyW0_clip01",
+      "title": "Oh, my God.",
+      "description": "Oh, my God.\n\nCalum hits a hole-in-one and wins the challenge after a series of impressive shots.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #holeinone #golfchallenge #par",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "heatmap",
+      "duration": 23,
+      "grade": 88,
+      "note": "Dir 88 \u00b7 Funny 72 \u00b7 Shot 100 \u26f3type \u2014 Hole-in-one wins $1M challenge",
+      "source_url": "https://www.youtube.com/watch?v=7seYrO0KyW0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7seYrO0KyW0_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7seYrO0KyW0_clip01.mp4"
+    },
+    {
+      "clip_id": "8A0V-WkzoHk_clip01",
+      "title": "Will You Spend a Couple Hours with Me?",
+      "description": "Will You Spend a Couple Hours with Me?\n\nA PGA tour player asks a golf coach for a few hours of his time, and it changes everything.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golflessons #pgatour #golfcoach",
       "creator": "Micah Morris",
       "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
       "signal": "audio",
       "duration": 20,
       "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 eagle or great up-and-down",
-      "source_url": "https://www.youtube.com/watch?v=u4oRcGHhDtQ",
+      "note": "Dir 85 \u00b7 Funny 23 \u00b7 Shot 85 \u26f3type \u2014 crazy flop shot at John Deere classic",
+      "source_url": "https://www.youtube.com/watch?v=8A0V-WkzoHk",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1705,20 +1339,81 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/u4oRcGHhDtQ_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/u4oRcGHhDtQ_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8A0V-WkzoHk_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8A0V-WkzoHk_clip01.mp4"
     },
     {
-      "clip_id": "ubWp3BlNdVA_clip01",
-      "title": "I Hit Literally Next to the Hole, Bruh",
-      "description": "I Hit Literally Next to the Hole, Bruh\n\nComedian tries to break 40 on the Good Good Tour, with hilarious results.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftour #comedygolf #golffail",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "clip_id": "8a7HRlCRz3w_clip01",
+      "title": "180 Ball Speed to Shout Out My Face",
+      "description": "180 Ball Speed to Shout Out My Face\n\nBryan Bros' hilarious reaction to a 180 ball speed\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfcomedy #bryangolf #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 39,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 72 \u00b7 Shot 85 \u26f3type \u2014 310 yard drive, but no result",
+      "source_url": "https://www.youtube.com/watch?v=8a7HRlCRz3w",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8a7HRlCRz3w_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8a7HRlCRz3w_clip01.mp4"
+    },
+    {
+      "clip_id": "8cf_cO_e2AA_clip01",
+      "title": "Come on!",
+      "description": "Come on!\n\nRick Shiels is stunned after hitting an incredible shot at the Rick Shiels Golf course.\n\nRick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #golfshot #rickshielsgolf",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf (@RickShielsPGA, 3.08M subs) \u2014 UK PGA pro, biggest golf channel on YouTube; course challenges, celebrity/pro matches, big-personality banter.",
       "signal": "heatmap",
       "duration": 20,
       "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 85 \u26f3type \u2014 Near hole-in-one, close eagle",
-      "source_url": "https://www.youtube.com/watch?v=ubWp3BlNdVA",
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle putt to win",
+      "source_url": "https://www.youtube.com/watch?v=8cf_cO_e2AA",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1766,20 +1461,325 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip01.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8cf_cO_e2AA_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8cf_cO_e2AA_clip01.mp4"
     },
     {
-      "clip_id": "ubWp3BlNdVA_clip02",
-      "title": "We Made Eagle",
-      "description": "We Made Eagle\n\nWorld #1 Long Driver fails to break 40 and gets a surprise chip-in\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golfclips",
+      "clip_id": "8clwN2j7qn4_clip01",
+      "title": "I'm the furthest away I'm going.",
+      "description": "I'm the furthest away I'm going.\n\nGrant Horvat's pressure putt on the giant hill.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #pressureputt #golfhumor",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "heatmap",
+      "duration": 45,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 72 \u00b7 Shot 90 \u2014 21-foot clutch putt on a tricky slope",
+      "source_url": "https://www.youtube.com/watch?v=8clwN2j7qn4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8clwN2j7qn4_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8clwN2j7qn4_clip01.mp4"
+    },
+    {
+      "clip_id": "8fFikgJSIEk_clip01",
+      "title": "That Was Inches from Greatness",
+      "description": "That Was Inches from Greatness\n\nPhil Mickelson's hilarious reaction to a near-miss on the course\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #philmickelson #golfreaction",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "heatmap",
+      "duration": 41,
+      "grade": 93,
+      "note": "Dir 93 \u00b7 Funny 72 \u00b7 Shot 75 \u2014 Eagle miss, inches from hole",
+      "source_url": "https://www.youtube.com/watch?v=8fFikgJSIEk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8fFikgJSIEk_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/8fFikgJSIEk_clip01.mp4"
+    },
+    {
+      "clip_id": "98vq9pICSuA_clip01",
+      "title": "This is insane.",
+      "description": "This is insane.\n\nBob Does Sports' hilarious reaction to a crazy 9-13 miss in a $1 million tournament.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golfclips #golffail",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "heatmap",
+      "duration": 20,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 85 \u2014 eagle in high-stakes tournament",
+      "source_url": "https://www.youtube.com/watch?v=98vq9pICSuA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/98vq9pICSuA_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/98vq9pICSuA_clip01.mp4"
+    },
+    {
+      "clip_id": "9toEjulQRPo_clip01",
+      "title": "Tripp's Unreal Shot",
+      "description": "Tripp's Unreal Shot\n\nA junior golfer's incredible 21-foot par save\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golfbet #golfsaved",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "heatmap",
+      "duration": 33,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 80 \u2014 Eagle putt to shoot even par",
+      "source_url": "https://www.youtube.com/watch?v=9toEjulQRPo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9toEjulQRPo_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9toEjulQRPo_clip01.mp4"
+    },
+    {
+      "clip_id": "A1xS0vtJzZk_clip01",
+      "title": "Boom! I Told You It Was My Time!",
+      "description": "Boom! I Told You It Was My Time!\n\nBryan Bros Golf's epic 54-yard putt at night\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfcomedy #bryanbros",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "heatmap",
+      "duration": 21,
+      "grade": 83,
+      "note": "Dir 83 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 eagle, impressive up-and-down",
+      "source_url": "https://www.youtube.com/watch?v=A1xS0vtJzZk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A1xS0vtJzZk_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A1xS0vtJzZk_clip01.mp4"
+    },
+    {
+      "clip_id": "AOzJM0Lm_mY_clip01",
+      "title": "I've Never Hit the Pin with a 360",
+      "description": "I've Never Hit the Pin with a 360\n\nPro golfer's shocking mistake on the easiest course in Florida\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #progolfer #mishap",
       "creator": "Good Good",
       "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
       "signal": "heatmap",
-      "duration": 21,
-      "grade": 85,
-      "note": "Dir 85 \u00b7 Funny 78 \u00b7 Shot 85 \u26f3type \u2014 Eagle, up-and-down from sand",
-      "source_url": "https://www.youtube.com/watch?v=ubWp3BlNdVA",
+      "duration": 38,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 75 \u2014 Eagle miss, ball below lip",
+      "source_url": "https://www.youtube.com/watch?v=AOzJM0Lm_mY",
       "provenance": "repost: youtube.com",
       "content_type": "comedy",
       "type": "comedy",
@@ -1827,8 +1827,8 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ubWp3BlNdVA_clip02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/AOzJM0Lm_mY_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/AOzJM0Lm_mY_clip01.mp4"
     }
   ]
 }
