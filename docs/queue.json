@@ -184,6 +184,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_clip01.mp4"
     },
     {
+      "clip_id": "SzdiwDdNie4_clip01",
+      "title": "I Just Kept the Ball on Planet Earth",
+      "description": "I Just Kept the Ball on Planet Earth\n\nThe host's hilarious caddie fail\n\nClip from \u201cgm__golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golftips #golffail #caddiefail",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "heatmap",
+      "duration": 34,
+      "grade": 92,
+      "note": "Dir 92 \u00b7 Funny 78 \u00b7 Shot 100 \u26f3type \u2014 hole-in-one last episode, now another",
+      "source_url": "https://www.youtube.com/watch?v=SzdiwDdNie4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SzdiwDdNie4_clip01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SzdiwDdNie4_clip01.mp4"
+    },
+    {
       "clip_id": "T0yr3B3Q9UE_clip01",
       "title": "Not an easy one, but it's going to be a three shot hole",
       "description": "Not an easy one, but it's going to be a three shot hole\n\nGrant Horvat's hilarious reaction to his first pro tournament hole\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #granthorvat #golftournament",
@@ -1768,67 +1829,6 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hiDjWAHUNOE_clip01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hiDjWAHUNOE_clip01.mp4"
-    },
-    {
-      "clip_id": "hjLHdiHqE9U_clip01",
-      "title": "Oh my god, man. I love that putt.",
-      "description": "Oh my god, man. I love that putt.\n\nJustin Thomas's clutch shot leaves the Bryan Bros in awe.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftips #golffail #golfchallenges",
-      "creator": "Bob Does Sports",
-      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
-      "signal": "heatmap",
-      "duration": 25,
-      "grade": 92,
-      "note": "Dir 92 \u00b7 Funny 77 \u00b7 Shot 75 \u2014 Eagle on tough hole",
-      "source_url": "https://www.youtube.com/watch?v=hjLHdiHqE9U",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hjLHdiHqE9U_clip01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/hjLHdiHqE9U_clip01.mp4"
     }
   ]
 }
