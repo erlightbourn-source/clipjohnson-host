@@ -59,13 +59,20 @@
     .actions button:disabled{opacity:.5}
     /* reject-reason picker (Cole 2026-08-03): one extra tap on reject only,
        turns every reject into a labeled data point instead of a dead end */
-    .reasons{display:none;flex-wrap:wrap;gap:8px;padding:0 16px 16px}
-    .reasons.show{display:flex}
-    .reasons button{flex:1 1 45%;min-width:120px;padding:11px 8px;border:0;border-radius:10px;
-      font-weight:600;font-size:13px;cursor:pointer;background:var(--card2);color:#f1f1f1;
+    /* 2026-09-24 (Evan): 9 reasons that map to fixable causes, 2-col, one thumb */
+    .reasons{display:none;grid-template-columns:1fr 1fr;gap:8px;padding:0 16px 16px}
+    .reasons.show{display:grid}
+    .reasons button{min-height:52px;padding:10px 8px;border-radius:12px;line-height:1.2;
+      font-weight:600;font-size:14px;cursor:pointer;background:var(--card2);color:#f1f1f1;
       border:1px solid var(--line)}
     .reasons button:active{background:var(--nod)}
-    .reasons .back{flex:1 1 100%;background:transparent;color:var(--muted);font-weight:500}
+    .reasons .other{grid-column:1 / -1}
+    .reasons .back{grid-column:1 / -1;min-height:40px;background:transparent;color:var(--muted);font-weight:500}
+    .reasons .notebox{grid-column:1 / -1;display:none;gap:8px}
+    .reasons .notebox.show{display:flex}
+    .reasons .notebox input{flex:1;min-width:0;font-size:16px;padding:12px;border-radius:12px;
+      border:1px solid var(--line);background:var(--card);color:var(--text)}
+    .reasons .notebox .send{flex:0 0 auto;min-height:48px;padding:0 18px;background:var(--no);color:#2a0509}
     .empty{text-align:center;color:var(--muted);padding:60px 20px}
     .empty .big{font-size:42px;margin-bottom:10px}
     .toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);
@@ -286,9 +293,15 @@
       </div>
       <div class="reasons">
         <button data-reason="not_funny">Not funny</button>
-        <button data-reason="dirty_footage">Dirty footage</button>
-        <button data-reason="wrong_vibe">Wrong vibe</button>
+        <button data-reason="weak_shot">Shot isn't special</button>
+        <button data-reason="not_golf">Not golf / off-course</button>
+        <button data-reason="bad_ending">Cut off / bad ending</button>
+        <button data-reason="slow_start">Slow start</button>
+        <button data-reason="bad_text">Bad title or captions</button>
+        <button data-reason="overlay">Logo / sponsor / overlay</button>
         <button data-reason="seen_before">Seen this before</button>
+        <button class="other">Other (type a note)</button>
+        <div class="notebox"><input type="text" maxlength="280" placeholder="What's wrong with it?" enterkeyhint="send"><button class="send">Reject</button></div>
         <button class="back">‹ Back</button>
       </div>`;
     // Non-carousel media, DOM-built (Cole hardening 2026-07-15): <img> for an image
@@ -416,20 +429,38 @@
       actionsRow.style.display = "none";
       reasonsRow.classList.add("show");
     };
+    const noteBox = reasonsRow.querySelector(".notebox");
+    const noteIn = noteBox.querySelector("input");
+    const allBtns = () => [...btns, ...reasonsRow.querySelectorAll("button")];
     reasonsRow.querySelector(".back").onclick = () => {
       reasonsRow.classList.remove("show");
+      noteBox.classList.remove("show");
+      noteIn.value = "";                       // no stale note on reopen
       actionsRow.style.display = "";
     };
     reasonsRow.querySelectorAll("button[data-reason]").forEach(b => {
-      b.onclick = () => decide(c, "reject", el, [...btns, ...reasonsRow.querySelectorAll("button")], b.dataset.reason);
+      b.onclick = () => decide(c, "reject", el, allBtns(), b.dataset.reason);
     });
+    // "Other" (2026-09-24): opens a one-line note; the note rides the decision
+    // file so the reject still teaches something specific.
+    reasonsRow.querySelector(".other").onclick = () => {
+      noteBox.classList.add("show");
+      noteIn.focus();
+    };
+    const sendOther = () => {
+      const note = noteIn.value.trim();
+      if (!note){ noteIn.focus(); toast("Type a quick note first", true); return; }
+      decide(c, "reject", el, allBtns(), "other", note);
+    };
+    noteBox.querySelector(".send").onclick = sendOther;
+    noteIn.addEventListener("keydown", e => { if (e.key === "Enter") sendOther(); });
     return el;
   }
 
-  async function decide(c, action, el, btns, reason){
+  async function decide(c, action, el, btns, reason, note){
     btns.forEach(b => b.disabled = true);
     try {
-      await writeDecision(c.clip_id, action, reason);
+      await writeDecision(c.clip_id, action, reason, note);
       decided.add(c.clip_id); saveDecided();
       el.style.transition = "opacity .25s"; el.style.opacity = "0";
       setTimeout(() => { el.remove(); refreshCount(); }, 250);
@@ -447,7 +478,7 @@
     if (!left) loadQueue();
   }
 
-  async function writeDecision(clipId, action, reason){
+  async function writeDecision(clipId, action, reason, note){
     const path = `${DECISIONS_DIR}/${clipId}.json`;
     const api = `https://api.github.com/repos/${REPO}/contents/${path}`;
     const headers = {Authorization:"Bearer "+TOKEN, Accept:"application/vnd.github+json"};
@@ -457,9 +488,11 @@
     if (head.ok) sha = (await head.json()).sha;
     const payload = {clip_id:clipId, action, ts:Date.now()};
     if (reason) payload.reason = reason;  // reject-only, undefined omitted by JSON.stringify
+    if (note) payload.note = String(note).slice(0, 280);
     const body = {
       message: `${action} ${clipId}`,
-      content: btoa(JSON.stringify(payload)),
+      // UTF-8 safe: plain btoa() throws on emoji / curly quotes typed in a note
+      content: btoa(unescape(encodeURIComponent(JSON.stringify(payload)))),
     };
     if (sha) body.sha = sha;
     const r = await fetch(api, {method:"PUT", headers, body:JSON.stringify(body)});

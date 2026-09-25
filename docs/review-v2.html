@@ -156,12 +156,19 @@
       transition:transform .25s ease}
     #sheet.show{transform:translateY(0)}
     #sheet h3{margin:0 0 12px;font-size:14px;color:var(--muted);font-weight:600}
-    #sheet .grid{display:flex;flex-wrap:wrap;gap:8px}
-    #sheet button{flex:1 1 45%;min-width:120px;padding:12px 8px;border:0;border-radius:10px;
-      font-weight:600;font-size:13.5px;cursor:pointer;background:#1b2130;color:#f1f1f1;
+    /* 2026-09-24 (Evan): 9 reasons that map to fixable causes, 2-col, one thumb */
+    #sheet .grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    #sheet button{min-height:52px;padding:10px 8px;border-radius:12px;line-height:1.2;
+      font-weight:600;font-size:14px;cursor:pointer;background:#1b2130;color:#f1f1f1;
       border:1px solid var(--line)}
     #sheet button:active{background:var(--nod)}
-    #sheet .back{flex:1 1 100%;background:transparent;color:var(--muted);font-weight:500}
+    #sheet .other{grid-column:1 / -1}
+    #sheet .back{grid-column:1 / -1;min-height:40px;background:transparent;color:var(--muted);font-weight:500}
+    #sheet .notebox{grid-column:1 / -1;display:none;gap:8px}
+    #sheet .notebox.show{display:flex}
+    #sheet .notebox input{flex:1;min-width:0;font-size:16px;padding:12px;border-radius:12px;
+      border:1px solid var(--line);background:#0f1320;color:#f1f1f1}
+    #sheet .notebox .send{flex:0 0 auto;min-height:48px;padding:0 18px;background:var(--no);color:#2a0509}
 
     /* ---------- SELECT / BATCH-APPROVE MODE ---------- */
     #gridwrap{display:none;padding:calc(var(--chrome-h) + 10px) 10px 90px}
@@ -247,9 +254,15 @@
     <h3>Why reject?</h3>
     <div class="grid">
       <button data-reason="not_funny">Not funny</button>
-      <button data-reason="dirty_footage">Dirty footage</button>
-      <button data-reason="wrong_vibe">Wrong vibe</button>
+      <button data-reason="weak_shot">Shot isn't special</button>
+      <button data-reason="not_golf">Not golf / off-course</button>
+      <button data-reason="bad_ending">Cut off / bad ending</button>
+      <button data-reason="slow_start">Slow start</button>
+      <button data-reason="bad_text">Bad title or captions</button>
+      <button data-reason="overlay">Logo / sponsor / overlay</button>
       <button data-reason="seen_before">Seen this before</button>
+      <button class="other">Other (type a note)</button>
+      <div class="notebox"><input type="text" maxlength="280" placeholder="What's wrong with it?" enterkeyhint="send"><button class="send">Reject</button></div>
       <button class="back">‹ Back (undo)</button>
     </div>
   </div>
@@ -536,19 +549,29 @@
     el.addEventListener("pointercancel", reset);
 
     // keyboard, for desktop QA of the preview
-    window.addEventListener("keydown", e => {
+    // Not {once:true} (2026-09-24): a key typed into the "Other" note would
+    // consume it. Removes itself once the card is decided or re-rendered, so a
+    // detached card can never be decided again.
+    const onKey = e => {
+      if (!el.isConnected){ window.removeEventListener("keydown", onKey); return; }
       if (el.dataset.depth !== "0") return;
+      if (e.target && /^(INPUT|TEXTAREA)$/.test(e.target.tagName)) return;  // never from the note
+      if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+      window.removeEventListener("keydown", onKey);
       if (e.key === "ArrowRight") fling(el, c, "approve", null, 1);
-      if (e.key === "ArrowLeft") fling(el, c, "reject", null, -1);
-    }, {once:true});
+      else fling(el, c, "reject", null, -1);
+    };
+    window.addEventListener("keydown", onKey);
   }
 
-  function fling(el, c, action, reason, dir){
+  function fling(el, c, action, reason, dir, note){
+    if (el.dataset.decided) return;          // one decision per card, however it's triggered
+    el.dataset.decided = "1";
     el.classList.remove("dragging");
     el.style.transition = "transform .3s ease, opacity .3s ease";
     el.style.transform = `translate(${dir*520}px, -40px) rotate(${dir*30}deg)`;
     el.style.opacity = "0";
-    commitDecision(c, action, reason);
+    commitDecision(c, action, reason, note);
     setTimeout(() => { renderDeck(); updateCount(); }, 260);
   }
 
@@ -572,19 +595,33 @@
   function closeReasonSheet(){
     $("sheetbg").classList.remove("show");
     $("sheet").classList.remove("show");
+    $("sheet").querySelector(".notebox").classList.remove("show");
+    $("sheet").querySelector(".notebox input").value = "";   // no stale note on reopen
     sheetTarget = null;
   }
   $("sheetbg").onclick = closeReasonSheet;
   $("sheet").querySelector(".back").onclick = closeReasonSheet;
+  function rejectWith(reason, note){
+    const c = sheetTarget; closeReasonSheet();
+    if (!c) return;
+    const el = $("deck").querySelector('[data-depth="0"]');
+    if (el) fling(el, c, "reject", reason, -1, note);
+    else commitDecision(c, "reject", reason, note);
+  }
   $("sheet").querySelectorAll("button[data-reason]").forEach(b => {
-    b.onclick = () => {
-      const c = sheetTarget; closeReasonSheet();
-      if (!c) return;
-      const el = $("deck").querySelector('[data-depth="0"]');
-      if (el) fling(el, c, "reject", b.dataset.reason, -1);
-      else commitDecision(c, "reject", b.dataset.reason);
-    };
+    b.onclick = () => rejectWith(b.dataset.reason);
   });
+  // "Other" (2026-09-24): one-line note rides the decision file
+  const noteBox = $("sheet").querySelector(".notebox");
+  const noteIn = noteBox.querySelector("input");
+  $("sheet").querySelector(".other").onclick = () => { noteBox.classList.add("show"); noteIn.focus(); };
+  const sendOther = () => {
+    const note = noteIn.value.trim();
+    if (!note){ noteIn.focus(); toast("Type a quick note first", true); return; }
+    noteIn.value = ""; rejectWith("other", note);
+  };
+  noteBox.querySelector(".send").onclick = sendOther;
+  noteIn.addEventListener("keydown", e => { if (e.key === "Enter") sendOther(); });
 
   // ==================== BATCH / SELECT MODE ====================
   function renderGrid(){
@@ -661,9 +698,9 @@
   $("refresh").onclick = loadQueue;
 
   // ==================== decision write (unchanged API from v1) ====================
-  async function commitDecision(c, action, reason){
+  async function commitDecision(c, action, reason, note){
     try {
-      await writeDecision(c.clip_id, action, reason);
+      await writeDecision(c.clip_id, action, reason, note);
       decided.add(c.clip_id); saveDecided();
       toast(action === "approve" ? "Approved — posts automatically" : "Rejected");
     } catch (err){
@@ -673,7 +710,7 @@
       renderDeck();
     }
   }
-  async function writeDecision(clipId, action, reason){
+  async function writeDecision(clipId, action, reason, note){
     const path = `${DECISIONS_DIR}/${clipId}.json`;
     const api = `https://api.github.com/repos/${REPO}/contents/${path}`;
     const headers = {Authorization:"Bearer "+TOKEN, Accept:"application/vnd.github+json"};
@@ -682,7 +719,10 @@
     if (head.ok) sha = (await head.json()).sha;
     const payload = {clip_id:clipId, action, ts:Date.now()};
     if (reason) payload.reason = reason;
-    const body = {message: `${action} ${clipId} (review-v2)`, content: btoa(JSON.stringify(payload))};
+    if (note) payload.note = String(note).slice(0, 280);
+    // UTF-8 safe: plain btoa() throws on emoji / curly quotes typed in a note
+    const body = {message: `${action} ${clipId} (review-v2)`,
+                  content: btoa(unescape(encodeURIComponent(JSON.stringify(payload))))};
     if (sha) body.sha = sha;
     const r = await fetch(api, {method:"PUT", headers, body:JSON.stringify(body)});
     if (!r.ok) throw new Error("github " + r.status + " " + await r.text());
