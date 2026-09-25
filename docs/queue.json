@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "62To8Jjt9cs_m301",
-      "title": "\"You got 15 clubs in there\"",
-      "description": "\"You got 15 clubs in there\"\n\nJordan Spieth struggles to recall his 3 iron, leading to a hilarious exchange about hybrids and 2 irons.\n\nNo Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golftips #golffail #golffailures",
-      "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 respected golf-media crew, banter-heavy course coverage with strong real-golf/industry credibility, distinct commentary-forward tone vs. the pure-comedy creators already in rotation.",
-      "signal": "deep_mine",
-      "duration": 59,
-      "grade": 93,
-      "note": "DeepMine v3 funny: Spieth's caddie realizes the bag holds 15 clubs, so he's docked two shots. They walk the course discussing the hybrid versus the two iron. | vision shot 12 funny 45",
-      "source_url": "https://www.youtube.com/watch?v=62To8Jjt9cs",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/62To8Jjt9cs_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/62To8Jjt9cs_m301.mp4"
-    },
-    {
       "clip_id": "ArV1zSpoUFo_m301",
       "title": "\"Two feet. No spin whatsoever.\"",
       "description": "\"Two feet. No spin whatsoever.\"\n\nGrant Horvat's teammate Josh Allen hits a stunning 4-foot putt, but then takes a shot that's just plain weird.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #joshallen #golfreaction",
