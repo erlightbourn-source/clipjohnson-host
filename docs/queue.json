@@ -184,6 +184,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ArV1zSpoUFo_m302.mp4"
     },
     {
+      "clip_id": "ArV1zSpoUFo_m303",
+      "title": "\"What a shot\" \u2014 Josh Allen from the sand",
+      "description": "\"What a shot\" \u2014 Josh Allen from the sand\n\nGrant Horvat's hilarious reaction to Josh Allen's ridiculous golf shot\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfcomedy #joshallen #golffail",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Josh Allen hits a wedge from off the green toward the pin; the ball is seen distant and the commentary says 'what a shot'. The final result is never clearly shown. | vision shot 55 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=ArV1zSpoUFo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ArV1zSpoUFo_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ArV1zSpoUFo_m303.mp4"
+    },
+    {
       "clip_id": "BbPr686VWOk_m301",
       "title": "\"It was a freaking hornet\"",
       "description": "\"It was a freaking hornet\"\n\nA golfer's overreaction to a hornet on the course\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #hornet #golffail",
@@ -550,6 +611,189 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/TJEMvSVacz8_m303.mp4"
     },
     {
+      "clip_id": "WluoILNLsgc_m303",
+      "title": "That was a good chirp out of Bobby",
+      "description": "That was a good chirp out of Bobby\n\nSteve's 40-yard bunker shot is a game-changer.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golfsilhouette",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 51,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bunker shots at Good Good; a chirp about a shirt gets laughs. A later bunker shot spins hard and reportedly ends 'in the freaking hole', but the ball is only seen on the green. | vision shot 58 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=WluoILNLsgc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m303.mp4"
+    },
+    {
+      "clip_id": "WluoILNLsgc_m301",
+      "title": "Bubbie talking trash then hooking it 30 yards left",
+      "description": "Bubbie talking trash then hooking it 30 yards left\n\nSharf tries to cut the green, Bobby misses, and Sharf's confidence is shattered.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golfhumor #golfreactions",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 49,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Golfers banter about one player's shots, promise to be a 'truth teller', then the shot goes left and they search: 'I feel like it's findable.' | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=WluoILNLsgc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m301.mp4"
+    },
+    {
+      "clip_id": "WluoILNLsgc_m302",
+      "title": "Something crawled out of Max's butt",
+      "description": "Something crawled out of Max's butt\n\nBobby Blake's hilarious reaction to a bizarre bet\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golftips #golfcomedy",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Good Good players putt on a green in a worst-ball format. Someone hears a fart noise mid-putt and jokes 'something crawled out of Max's butt'. Putts are lagged short. | vision shot 35 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=WluoILNLsgc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WluoILNLsgc_m302.mp4"
+    },
+    {
       "clip_id": "_3TmxnWp1FM_m301",
       "title": "This has officially gotten away from us",
       "description": "This has officially gotten away from us\n\nGrant Horvat's hilarious rant after a disastrous round with Bob\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftips #golffail #golfrant",
@@ -609,6 +853,189 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_3TmxnWp1FM_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_3TmxnWp1FM_m301.mp4"
+    },
+    {
+      "clip_id": "sHZgohtYTZo_m301",
+      "title": "Get down! Get down! So bad.",
+      "description": "Get down! Get down! So bad.\n\nSeal's hilarious bunker shot from Bob Does Sports\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #bunkershot #golftips",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 46,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Bob's drive heads toward water; the crew yells 'get down' and debates the line. A later shot is called perfect, and the clip ends with 'go in the water'. | vision shot 42 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=sHZgohtYTZo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m301.mp4"
+    },
+    {
+      "clip_id": "sHZgohtYTZo_m302",
+      "title": "What a drive, dude.",
+      "description": "What a drive, dude.\n\nBobby Fairways hits a 45-degree approach shot with surprising accuracy\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #golftips #golfing #golfskills #golfingtips",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 36,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Bob tees off on a par 4 with a tracer. Ball ends up near the green and the crew praises it ('What a drive'). Then cart chat. | vision shot 55 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=sHZgohtYTZo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m302.mp4"
+    },
+    {
+      "clip_id": "sHZgohtYTZo_m303",
+      "title": "Oh Bob, that is ripped.",
+      "description": "Oh Bob, that is ripped.\n\nBobby Fairways hits a 98-yard shot into a lot of wind, and is over the moon about it.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #golftips",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 41,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Golfers ride a cart, then hit a tee shot and a 3-wood approach into wind. The ball lands on the green but its final position isn't shown. Partners praise it. | vision shot 55 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=sHZgohtYTZo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sHZgohtYTZo_m303.mp4"
     },
     {
       "clip_id": "yNtQ0EPK4dQ_m301",
