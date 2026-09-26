@@ -1,6 +1,1104 @@
 {
   "clips": [
     {
+      "clip_id": "55xXQCrzCjk_m301",
+      "title": "\"Water? I think that's the #1 cause of cancer\"",
+      "description": "\"Water? I think that's the #1 cause of cancer\"\n\nGrant Horvat's hilarious conversation with John Daly about the importance of water\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffail #golfclips",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 82,
+      "note": "DeepMine v3 funny: John Daly and his son talk in a cart, then joke about water causing cancer and banter with Phil Mickelson; no golf shot is shown. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m301.mp4"
+    },
+    {
+      "clip_id": "55xXQCrzCjk_m303",
+      "title": "\"I'm just the saddle, you're the horse\"",
+      "description": "\"I'm just the saddle, you're the horse\"\n\nGrant Horvat's hilarious golf commentary after hitting a shot that's 'one line that I'm getting tired of'.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #golffail #golftips #golfcomedy",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 41,
+      "grade": 83,
+      "note": "DeepMine v3 funny: John Daly and his son hit approach shots over water. Daly jokes 'I'm the saddle, you're the horse, son'; the son says he's tired of the line, which he hears 75 times a day. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m303.mp4"
+    },
+    {
+      "clip_id": "55xXQCrzCjk_m302",
+      "title": "\"He's got so many wind direction tellers on him\"",
+      "description": "\"He's got so many wind direction tellers on him\"\n\nGrant Horvat's hilarious reaction to John Daly's advice on how to chip the ball\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golfcomedy #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 48,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Phil and Grant stand around golf carts talking about wind while John Daly puffs a cigarette as a wind gauge; banter only, no shot is shown. | vision shot 22 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m302.mp4"
+    },
+    {
+      "clip_id": "9SleTbyQ0N8_m301",
+      "title": "\"It disappeared. Where did it go?\"",
+      "description": "\"It disappeared. Where did it go?\"\n\nGrant Horvat's hilarious reaction to his ball disappearing into the bunker\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfrant #golfreaction",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 60,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Golfers in a cart, a chip near a bunker, then a player crawling at the bunker edge searching for a plugged ball; the ball is never seen. Commentary: 'it disappeared, nether realm'. | vision shot 42 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m301.mp4"
+    },
+    {
+      "clip_id": "9SleTbyQ0N8_m302",
+      "title": "\"I'm not that far off\"",
+      "description": "\"I'm not that far off\"\n\nGrant Horvat's hilarious reaction to Joe's terrible shot on the course\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfcomedy #golftv",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Two golfers ride in a cart talking about Joe hitting an eight iron from thick rough, then Joey says his game isn't far off despite bad chipping. No shots are shown. | vision shot 12 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m302.mp4"
+    },
+    {
+      "clip_id": "9SleTbyQ0N8_m304",
+      "title": "\"That is a picture worth $1,000\"",
+      "description": "\"That is a picture worth $1,000\"\n\nGrant Horvat's hilarious reaction to a wild golf shot that somehow landed on the green.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfers scramble in windy conditions on a desert course. A wide shot shows a bunker shot and a ball near the pin, with waterfall talk and a $9.99 photo pitch at the end. | vision shot 45 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m304.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m304.mp4"
+    },
+    {
+      "clip_id": "9SleTbyQ0N8_m303",
+      "title": "\"No way a guy who shoots 110 takes money off me\"",
+      "description": "\"No way a guy who shoots 110 takes money off me\"\n\nGrant Horvat calls out his playing partner for a bad shot and makes a bold bet.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfbetting #golffail #golfmajor",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 48,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Golfers react to a shot, then in a cart one offers a 10-to-1 $100 bet and gets rebuffed as a 110-shooter; banter, no shot visible. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m303.mp4"
+    },
+    {
+      "clip_id": "CjV5FovM0Zg_m302",
+      "title": "I wish I could have that one back",
+      "description": "I wish I could have that one back\n\nGrant Horvat's hilarious meltdown after a poor shot in a 4-man scramble\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #bobdoesgolf #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 38,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Grant chips from 15 yards near a bunker; a flag-tracer shows the ball flying far past the green. Cart chatter follows: 'wish I could have that one back', 'four-man scramble'. | vision shot 38 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=CjV5FovM0Zg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m302.mp4"
+    },
+    {
+      "clip_id": "CjV5FovM0Zg_m301",
+      "title": "I need that to go in the water 50 times",
+      "description": "I need that to go in the water 50 times\n\nGrant Horvat's hilarious reaction to his terrible shot on the course\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #comedygolf #golflols",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Grant and Bob talk in a cart about laughing; then Bob chips/putts on a green, Grant hopes for water, and Bob's next shot ends up in the bunker. | vision shot 35 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=CjV5FovM0Zg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m301.mp4"
+    },
+    {
+      "clip_id": "CjV5FovM0Zg_m303",
+      "title": "What a shot man. How do I not hit the lip?",
+      "description": "What a shot man. How do I not hit the lip?\n\nGrant Horvat attempts to beat Bob with one club and spins 360 after hitting the lip... again.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffail #oneclub",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 52,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Golfer plays bunker shots, ball tracked with a red line toward the pin; partner in cart reacts arms up. Commentary says it landed near the pin and spun back, then cart banter. | vision shot 62 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=CjV5FovM0Zg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CjV5FovM0Zg_m303.mp4"
+    },
+    {
+      "clip_id": "HDtWo3RgYsg_m301",
+      "title": "\"Pulled the string on that one\"",
+      "description": "\"Pulled the string on that one\"\n\nGrant Horvat's surprising 78 and his reaction to his shot\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfreaction #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Justin Thomas hits a wedge to a back pin over water; the ball's flight is followed, then he and Grant react and banter about how close it is and the pin placement. | vision shot 62 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=HDtWo3RgYsg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HDtWo3RgYsg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HDtWo3RgYsg_m301.mp4"
+    },
+    {
+      "clip_id": "HDtWo3RgYsg_m302",
+      "title": "\"Oh, look at that knuckle ball\"",
+      "description": "\"Oh, look at that knuckle ball\"\n\nGrant Horvat's hilarious reaction to a missed shot and a caddy casualty\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfcomedy #granthorvat #golffail",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Grant hits a fairway wood off the tee that curves left toward the water. Justin Thomas and Grant banter, and Grant jokes he killed the caddy. Final results are unclear. | vision shot 35 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=HDtWo3RgYsg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HDtWo3RgYsg_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HDtWo3RgYsg_m302.mp4"
+    },
+    {
+      "clip_id": "HjAzBYPaBAU_m301",
+      "title": "That's like the greatest shot of my life",
+      "description": "That's like the greatest shot of my life\n\nBryan Bros Golf's epic hybrid shot at Royal Birkdale\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #hybridshot #bryangolf #opengolf",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 53,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer in deep rough at the Open asks about a hybrid from 228 yards, hits it, ball ends up near the pin, and he says it's the greatest shot of his life. | vision shot 72 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=HjAzBYPaBAU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m301.mp4"
+    },
+    {
+      "clip_id": "HjAzBYPaBAU_m303",
+      "title": "You just hear a little crunch",
+      "description": "You just hear a little crunch\n\nDude, you just hear a little crunch when you get sand in your mouth\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 55,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Player hits a bunker shot and talks about sand crunch while the ball rolls on the green, then chips from the fringe near the pin; the ball sits close and he says 'sit in the hole'. | vision shot 55 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=HjAzBYPaBAU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m303.mp4"
+    },
+    {
+      "clip_id": "HjAzBYPaBAU_m302",
+      "title": "\"What's over there, boys?\" \"Never been there\"",
+      "description": "\"What's over there, boys?\" \"Never been there\"\n\nThe Bryan Bros struggle to navigate Royal Birkdale's treacherous terrain.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfstruggle #royalbirkdale #bryanbrosfail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 49,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Bryan Bros play the Open at Royal Birkdale. A wild tee shot goes into the rough, they search, then another wayward drive; 'Never been there', 'Got 112'. Ball flight is traced. | vision shot 40 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=HjAzBYPaBAU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m302.mp4"
+    },
+    {
+      "clip_id": "HjAzBYPaBAU_m304",
+      "title": "That's a rage bait question",
+      "description": "That's a rage bait question\n\nThe Bryan Bros get schooled on what a tap is at the Open.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golftips #bryangolf #golftournament",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 funny: At the Open, players argue whether asking the caddie for a read on a tap-in is 'rage bait', with putts hit and banter; no clear payoff. | vision shot 30 funny 48",
+      "source_url": "https://www.youtube.com/watch?v=HjAzBYPaBAU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m304.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/HjAzBYPaBAU_m304.mp4"
+    },
+    {
+      "clip_id": "L4BI7JTX3XU_m302",
+      "title": "\"I'm playing with my food\"",
+      "description": "\"I'm playing with my food\"\n\nInternet troll faces a tough match against Joey Cold Cuts\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftroll #joeycoldcuts #golffail",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Joey drives into trees, then rides in a cart talking; a later shot is dropped in a bunker. He says he can't catch a break. Outcome of the shots is mostly unseen. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=L4BI7JTX3XU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/L4BI7JTX3XU_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/L4BI7JTX3XU_m302.mp4"
+    },
+    {
+      "clip_id": "L4BI7JTX3XU_m301",
+      "title": "\"Nobody wants it\"",
+      "description": "\"Nobody wants it\"\n\nInternet troll beats Joey Cold Cuts in a match with a hilarious rant.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golfcomedy #golffail #joeycoldcuts",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfers in bunkers and on greens; talking head cutaways. Dialogue about 'nobody wants it', 'you beat me', counting strokes; final line 'Who wants it left?' No decisive shot shown. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=L4BI7JTX3XU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/L4BI7JTX3XU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/L4BI7JTX3XU_m301.mp4"
+    },
+    {
       "clip_id": "WB5JdNUie58_m302",
       "title": "\"The USDA rule is my balls fine\"",
       "description": "\"The USDA rule is my balls fine\"\n\nThe guys try to eat tacos while playing golf, but things quickly go awry.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #tacos #golffail #golfingdisasters",
@@ -62,6 +1160,189 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WB5JdNUie58_m302.mp4"
     },
     {
+      "clip_id": "ZdENmBDTAiA_m301",
+      "title": "It's Not One Of My Better Moments",
+      "description": "It's Not One Of My Better Moments\n\nBryan Bros Golf's Evan and his partner take a brutal swing at a golf course, leading to a hilarious reaction.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfreaction #golfhumor",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Wesley hooks a drive far right toward water, ball flight tracer shown; friends roast him ('so far gone', 'take your hat off'), and a buddy explains they're normally not this mean. | vision shot 35 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=ZdENmBDTAiA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m301.mp4"
+    },
+    {
+      "clip_id": "ZdENmBDTAiA_m302",
+      "title": "Bring The Cart, Water Ball",
+      "description": "Bring The Cart, Water Ball\n\nWesley Bryan's hilarious reaction to his golf ball going into the water\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfhumor #golfreaction",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 53,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Player thins a hybrid into water; buddies joke, call for the cart, and banter about a possible plugged ball. Ball and splash are never shown on screen. | vision shot 30 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=ZdENmBDTAiA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m302.mp4"
+    },
+    {
+      "clip_id": "ZdENmBDTAiA_m303",
+      "title": "What A Shot! That Was Electric",
+      "description": "What A Shot! That Was Electric\n\nBryan Bros Golf's nervous kid hits an incredible 1-yard shot to lock up par.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfchampionship #golftips #golffail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 54,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer hits a hybrid tee shot over water in wind; the ball is shown by a tracer line landing near the pin, and the group reacts with commentary. | vision shot 72 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=ZdENmBDTAiA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4"
+    },
+    {
       "clip_id": "_HCfr0SJhQU_m301",
       "title": "Can't Even Be Mad After That Island Shot",
       "description": "Can't Even Be Mad After That Island Shot\n\nCharcut's incredible 2-shot comeback from 2.5 hours behind\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfclips #golfcomedy #golffail",
@@ -121,6 +1402,433 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_HCfr0SJhQU_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_HCfr0SJhQU_m301.mp4"
+    },
+    {
+      "clip_id": "nfwh2upHEDQ_m301",
+      "title": "\"The snap hook I have never done until recently\"",
+      "description": "\"The snap hook I have never done until recently\"\n\nBob Does Sports takes on the Mets in a golf match and reveals his secret to hitting intimidating shots.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftips #golffail #golfing",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 82,
+      "note": "DeepMine v3 funny: Tee shot with tracer, golfer walks into rough, then two golfers in a cart talk about a hard swing and the snap hook being the most embarrassing tee shot. | vision shot 30 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=nfwh2upHEDQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m301.mp4"
+    },
+    {
+      "clip_id": "nfwh2upHEDQ_m304",
+      "title": "\"Best shot I've seen on the channel\"",
+      "description": "\"Best shot I've seen on the channel\"\n\nThe Mets' golf challenge ends in hilarious embarrassment.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #mets #golfchallenge",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Golfers tee off on a par 4 with shot-tracer graphics; someone calls a drive the best shot on the channel, then a later shot is missed and players react. | vision shot 55 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=nfwh2upHEDQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m304.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m304.mp4"
+    },
+    {
+      "clip_id": "nfwh2upHEDQ_m305",
+      "title": "\"It's my front door, Luke. Sorry.\"",
+      "description": "\"It's my front door, Luke. Sorry.\"\n\nThe Mets challenged Bob to a golf match, but he's still worried about seat selection.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #golftips #shorts #golffail #golffailure",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 55,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Pre-round interview about team travel and first class seats; a phone notification blares at the tee, laughter, then Weaver's tee shot with tracer, no clear result. | vision shot 30 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=nfwh2upHEDQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m305.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m305.mp4"
+    },
+    {
+      "clip_id": "nfwh2upHEDQ_m302",
+      "title": "\"That was a group hunting effort\"",
+      "description": "\"That was a group hunting effort\"\n\nBob Does Sports takes on the New York Mets in a golf match and gets a hilarious reaction to his putting skills.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftips #golffail #golffunny",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Group putts on a green; early miss ('damn it, went left'), teammates cheer 'bury it', a putt drops, then celebrate and joke about a Euro step. | vision shot 52 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=nfwh2upHEDQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m302.mp4"
+    },
+    {
+      "clip_id": "nfwh2upHEDQ_m303",
+      "title": "\"I farted right in his back\"",
+      "description": "\"I farted right in his back\"\n\nBob Does Sports takes on a chip shot with a hilarious flop\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #golftips #golfclips",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 54,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfer chips toward a flag from a hillside; the ball's landing is never shown. Players banter, drink and joke on the course, with a fart/chirp remark near the end. | vision shot 35 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=nfwh2upHEDQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m303.mp4"
+    },
+    {
+      "clip_id": "rH0vuqHx_RE_m301",
+      "title": "\"Well, you put three out of bounds\"",
+      "description": "\"Well, you put three out of bounds\"\n\nBob Does Sports calls out Jensen's bizarre strategy after a disastrous tee shot.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golftips #golffail #golftournament",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 55,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfer rants in a cart about three straight OB tee shots, 'coloring book line'; brief tee shot and banter on the course, no ball flight or landing shown. | vision shot 35 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=rH0vuqHx_RE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m301.mp4"
+    },
+    {
+      "clip_id": "rH0vuqHx_RE_m302",
+      "title": "\"That came out so hot\"",
+      "description": "\"That came out so hot\"\n\nJoe's bunker shot is a disaster, but the reaction is priceless.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #golfsports #bunkerfail #golfclips #golffails",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfer chips/putts and the ball runs past the hole; group banters about Joe getting benefit of the doubt, then more putts and a match callout. Outcomes are unclear. | vision shot 35 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=rH0vuqHx_RE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m302.mp4"
     }
   ]
 }
