@@ -1,250 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "55xXQCrzCjk_m302",
-      "title": "\"He's got so many wind direction tellers on him\"",
-      "description": "\"He's got so many wind direction tellers on him\"\n\nGrant Horvat's hilarious reaction to John Daly's advice on how to chip the ball\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golfcomedy #granthorvat",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 48,
-      "grade": 85,
-      "note": "DeepMine v3 funny: Phil and Grant stand around golf carts talking about wind while John Daly puffs a cigarette as a wind gauge; banter only, no shot is shown. | vision shot 22 funny 52",
-      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m302.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m302.mp4"
-    },
-    {
-      "clip_id": "9SleTbyQ0N8_m301",
-      "title": "\"It disappeared. Where did it go?\"",
-      "description": "\"It disappeared. Where did it go?\"\n\nGrant Horvat's hilarious reaction to his ball disappearing into the bunker\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfrant #golfreaction",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 60,
-      "grade": 92,
-      "note": "DeepMine v3 funny: Golfers in a cart, a chip near a bunker, then a player crawling at the bunker edge searching for a plugged ball; the ball is never seen. Commentary: 'it disappeared, nether realm'. | vision shot 42 funny 66",
-      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m301.mp4"
-    },
-    {
-      "clip_id": "9SleTbyQ0N8_m302",
-      "title": "\"I'm not that far off\"",
-      "description": "\"I'm not that far off\"\n\nGrant Horvat's hilarious reaction to Joe's terrible shot on the course\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfcomedy #golftv",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 59,
-      "grade": 83,
-      "note": "DeepMine v3 funny: Two golfers ride in a cart talking about Joe hitting an eight iron from thick rough, then Joey says his game isn't far off despite bad chipping. No shots are shown. | vision shot 12 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m302.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m302.mp4"
-    },
-    {
-      "clip_id": "9SleTbyQ0N8_m304",
-      "title": "\"That is a picture worth $1,000\"",
-      "description": "\"That is a picture worth $1,000\"\n\nGrant Horvat's hilarious reaction to a wild golf shot that somehow landed on the green.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #granthorvat",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 57,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Golfers scramble in windy conditions on a desert course. A wide shot shows a bunker shot and a ball near the pin, with waterfall talk and a $9.99 photo pitch at the end. | vision shot 45 funny 30",
-      "source_url": "https://www.youtube.com/watch?v=9SleTbyQ0N8",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m304.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9SleTbyQ0N8_m304.mp4"
-    },
-    {
       "clip_id": "9SleTbyQ0N8_m303",
       "title": "\"No way a guy who shoots 110 takes money off me\"",
       "description": "\"No way a guy who shoots 110 takes money off me\"\n\nGrant Horvat calls out his playing partner for a bad shot and makes a bold bet.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfbetting #golffail #golfmajor",
@@ -1585,6 +1341,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4"
+    },
+    {
+      "clip_id": "_HCfr0SJhQU_m301",
+      "title": "Can't Even Be Mad After That Island Shot",
+      "description": "Can't Even Be Mad After That Island Shot\n\nCharcut's incredible 2-shot comeback from 2.5 hours behind\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfclips #golfcomedy #golffail",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 41,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Golfer hits from trees toward green; a second player hits through trees, group cheers 'that was sick, can't even be mad about that'; a woman then hits a hybrid. | vision shot 45 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=_HCfr0SJhQU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_HCfr0SJhQU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_HCfr0SJhQU_m301.mp4"
+    },
+    {
+      "clip_id": "a6q-1pV-cXk_m302",
+      "title": "Bryson's Michael Phelps handshake story",
+      "description": "Bryson's Michael Phelps handshake story\n\nBryan Bros react to Bryson Dechambeau's awkward handshake with Michael Phelps\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golfcomedy #golffail #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 35,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfers exchange fist bumps/handshakes on course while one recounts an awkward Michael Phelps handshake story | vision shot 0 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=a6q-1pV-cXk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/a6q-1pV-cXk_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/a6q-1pV-cXk_m302.mp4"
     }
   ]
 }
