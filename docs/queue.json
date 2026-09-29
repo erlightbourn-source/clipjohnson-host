@@ -1,128 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "55xXQCrzCjk_m301",
-      "title": "\"Water? I think that's the #1 cause of cancer\"",
-      "description": "\"Water? I think that's the #1 cause of cancer\"\n\nGrant Horvat's hilarious conversation with John Daly about the importance of water\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffail #golfclips",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 45,
-      "grade": 82,
-      "note": "DeepMine v3 funny: John Daly and his son talk in a cart, then joke about water causing cancer and banter with Phil Mickelson; no golf shot is shown. | vision shot 25 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m301.mp4"
-    },
-    {
-      "clip_id": "55xXQCrzCjk_m303",
-      "title": "\"I'm just the saddle, you're the horse\"",
-      "description": "\"I'm just the saddle, you're the horse\"\n\nGrant Horvat's hilarious golf commentary after hitting a shot that's 'one line that I'm getting tired of'.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #golffail #golftips #golfcomedy",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 41,
-      "grade": 83,
-      "note": "DeepMine v3 funny: John Daly and his son hit approach shots over water. Daly jokes 'I'm the saddle, you're the horse, son'; the son says he's tired of the line, which he hears 75 times a day. | vision shot 35 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=55xXQCrzCjk",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m303.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/55xXQCrzCjk_m303.mp4"
-    },
-    {
       "clip_id": "55xXQCrzCjk_m302",
       "title": "\"He's got so many wind direction tellers on him\"",
       "description": "\"He's got so many wind direction tellers on him\"\n\nGrant Horvat's hilarious reaction to John Daly's advice on how to chip the ball\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golfcomedy #granthorvat",
@@ -1585,6 +1463,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m301.mp4"
+    },
+    {
+      "clip_id": "ZdENmBDTAiA_m302",
+      "title": "Bring The Cart, Water Ball",
+      "description": "Bring The Cart, Water Ball\n\nWesley Bryan's hilarious reaction to his golf ball going into the water\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfhumor #golfreaction",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 53,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Player thins a hybrid into water; buddies joke, call for the cart, and banter about a possible plugged ball. Ball and splash are never shown on screen. | vision shot 30 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=ZdENmBDTAiA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m302.mp4"
+    },
+    {
+      "clip_id": "ZdENmBDTAiA_m303",
+      "title": "What A Shot! That Was Electric",
+      "description": "What A Shot! That Was Electric\n\nBryan Bros Golf's nervous kid hits an incredible 1-yard shot to lock up par.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfchampionship #golftips #golffail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 54,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer hits a hybrid tee shot over water in wind; the ball is shown by a tracer line landing near the pin, and the group reacts with commentary. | vision shot 72 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=ZdENmBDTAiA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdENmBDTAiA_m303.mp4"
     }
   ]
 }
