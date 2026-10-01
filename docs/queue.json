@@ -123,6 +123,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CXTjPaninbQ_m301.mp4"
     },
     {
+      "clip_id": "JrpMLJA0UXg_m301",
+      "title": "\"I can teach you the thin slice\"",
+      "description": "\"I can teach you the thin slice\"\n\nSend this to the guy in your foursome who thinks they can outdraw Bob.\nGeorge's six iron shot that somehow avoids water is a mystery to Bob.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golffail #bobdoesports #bryangolf",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a hooking tee shot; buddies banter about thin draw vs 'thin slice'; ball flight shown with red curve, no outcome shown | vision shot 45 funny 60",
+      "source_url": "https://www.youtube.com/watch?v=JrpMLJA0UXg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/JrpMLJA0UXg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/JrpMLJA0UXg_m301.mp4"
+    },
+    {
       "clip_id": "Y7aV3HNdJkM_m301",
       "title": "The Ball Started Moving On Its Own",
       "description": "The Ball Started Moving On Its Own\n\nGrant Horvat's caddie is trying to get the ball in play, but the wind is being stubborn. Should they try to muscle it in or play it safe?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffail #usopen",
@@ -243,6 +304,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Y7aV3HNdJkM_m302.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Y7aV3HNdJkM_m302.mp4"
+    },
+    {
+      "clip_id": "ZBao-gLHSLg_m301",
+      "title": "\"This is MY hole\" \u2014 nearly holes out",
+      "description": "\"This is MY hole\" \u2014 nearly holes out\n\nSend this to the guy in your foursome who thinks they can sink a 20 footer from 50 yards out.\nGrant thinks he's got the perfect shot, but it's short and oh my gosh one\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffails #granthorvat #tpcsawgrass",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 54,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Near hole-out on par 3; ball stops short, reaction/banter about it not going in, cart ride jokes follow | vision shot 68 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=ZBao-gLHSLg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZBao-gLHSLg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZBao-gLHSLg_m301.mp4"
     },
     {
       "clip_id": "a6q-1pV-cXk_m301",
