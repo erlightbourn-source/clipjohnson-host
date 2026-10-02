@@ -1282,22 +1282,22 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m303.mp4"
     },
     {
-      "clip_id": "pga_20261001_01",
-      "title": "BANK OF UTAH CHAMPIONSHIP \u2014 FINAL ROUND",
-      "description": "Bank of Utah Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
+      "clip_id": "pgafinal_20261001_bank_of_utah_championshi",
+      "title": "Bank of Utah Championship \u2014 final leaderboard",
+      "description": "Zach Bauchou wins the Bank of Utah Championship by 1 shot at -9. Final leaderboard. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
       "duration": 0,
       "grade": 0,
       "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
+      "source_url": "",
+      "provenance": "original",
+      "content_type": "pga_liv_card",
+      "type": "pga_liv_card",
+      "media_type": "image",
       "check_manifest": {
-        "content_type": "pga_motion_card",
+        "content_type": "pga_liv_card",
         "order": [
           "provenance",
           "db_truth",
@@ -1309,9 +1309,9 @@
         "checks": [
           {
             "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_liv_card"
           },
           {
             "check": "db_truth",
@@ -1333,75 +1333,14 @@
           },
           {
             "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
+            "applicable": true,
+            "passed": true,
+            "reason": "1080x1350 ~ 4:5 (crop-safe)"
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261001_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261001_01.mp4"
-    },
-    {
-      "clip_id": "pga_20261001_02",
-      "title": "STEVEN FISK",
-      "description": "Steven Fisk leads the final round of the Bank of Utah Championship. #golf #PGATour",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261001_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261001_02.mp4"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20261001_bank_of_utah_championshi.png",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20261001_bank_of_utah_championshi.png"
     },
     {
       "clip_id": "rH0vuqHx_RE_m301",
