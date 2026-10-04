@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "9zMTJPTfjFs_m301",
+      "title": "\"Shouldn't have said that, huh\"",
+      "description": "\"Shouldn't have said that, huh\"\n\nSend this to the guy in your foursome who thinks he's a pro.\nBob's bunker shot at Shinnecock was so bad, he's questioning his own hands\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #shinnecock #usopen",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 42,
+      "grade": 92,
+      "note": "DeepMine v3 funny: A golfer is told he's been good out of bunkers, then pulls his bunker shot. He jokes 'shouldn't have said that', argues pull vs pooping, then chips toward the green. | vision shot 28 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=9zMTJPTfjFs",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9zMTJPTfjFs_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9zMTJPTfjFs_m301.mp4"
+    },
+    {
       "clip_id": "CXTjPaninbQ_m302",
       "title": "Bryan Bros Debate Teeing It Up vs Ian Poulter",
       "description": "Bryan Bros Debate Teeing It Up vs Ian Poulter\n\nIan Poulter's unorthodox tee approach sparks debate with the Bryan Bros.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golfshorts #golftournament #golfing",
@@ -1343,6 +1404,128 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nfwh2upHEDQ_m303.mp4"
     },
     {
+      "clip_id": "pKTSQCcx2HU_m301",
+      "title": "That's the best wedge shot I've ever seen you hit",
+      "description": "That's the best wedge shot I've ever seen you hit\n\nSend this to the guy in your foursome who thinks he can do that too.\nGrant's incredible 97-yard wedge shot leaves Sky speechless, and Bryan Bros are both stoked and intimidated by the result.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golfcomedy",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 93,
+      "note": "DeepMine v3 shot: Grant studies yardage at Oakmont, hits a 56\u00b0 wedge, the ball spins back near the pin, and George calls it the best wedge shot he's ever seen him hit. | vision shot 66 funny 22",
+      "source_url": "https://www.youtube.com/watch?v=pKTSQCcx2HU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pKTSQCcx2HU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pKTSQCcx2HU_m301.mp4"
+    },
+    {
+      "clip_id": "pKTSQCcx2HU_m302",
+      "title": "You just hit two wrong golf balls",
+      "description": "You just hit two wrong golf balls\n\nSend this to the guy in your foursome who thinks he's a pro but can't even spot a wrong ball.\nThey thought they made it, but now they're stuck with a penalty and a mystery ball\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 47,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Wes climbs a steep Oakmont bank and hits the wrong ball. Playmates debate a two-stroke penalty and joke about keeping two scores. | vision shot 25 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=pKTSQCcx2HU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pKTSQCcx2HU_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pKTSQCcx2HU_m302.mp4"
+    },
+    {
       "clip_id": "pga_20261003_01",
       "title": "BANK OF UTAH CHAMPIONSHIP \u2014 FINAL ROUND",
       "description": "Bank of Utah Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
@@ -1646,189 +1829,6 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sCFBA6PIn0c_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sCFBA6PIn0c_m301.mp4"
-    },
-    {
-      "clip_id": "sn0AwisEBcc_m301",
-      "title": "Blake starts talking to his wallet",
-      "description": "Blake starts talking to his wallet\n\nThe Good Good's hilarious attempt at a 60-foot birdie, complete with a questionable pre-shot routine.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golffailure",
-      "creator": "Good Good",
-      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
-      "signal": "deep_mine",
-      "duration": 47,
-      "grade": 87,
-      "note": "DeepMine v3 shot: Golfers putt on greens with a broadcast scorecard overlay; the kid's birdie putt finishes, a hug follows, Blake putts and talks, and the players banter and joke. | vision shot 50 funny 40",
-      "source_url": "https://www.youtube.com/watch?v=sn0AwisEBcc",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sn0AwisEBcc_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/sn0AwisEBcc_m301.mp4"
-    },
-    {
-      "clip_id": "stoW_8NXdFw_m302",
-      "title": "This Is A Blast",
-      "description": "This Is A Blast\n\nGrant takes a monumental swing off the deck and somehow nails it, but can he repeat the magic?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #bobdoesports #granthorvat",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 45,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Golfer hits driver off the deck to 40yds past group; reactions, laughing, celebrating in cart after | vision shot 62 funny 45",
-      "source_url": "https://www.youtube.com/watch?v=stoW_8NXdFw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/stoW_8NXdFw_m302.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/stoW_8NXdFw_m302.mp4"
-    },
-    {
-      "clip_id": "stoW_8NXdFw_m301",
-      "title": "He Was So Nice To Me",
-      "description": "He Was So Nice To Me\n\nGrant tries to get Joe to agree to a higher bet, but Joe is having none of it.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #betting #golfbetting #granthorvat",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 56,
-      "grade": 87,
-      "note": "DeepMine v3 funny: Grant preps a prank call, teases Joe about a fake 40-shot deal, then calls; Joe reacts, both laugh hysterically after | vision shot 0 funny 62",
-      "source_url": "https://www.youtube.com/watch?v=stoW_8NXdFw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/stoW_8NXdFw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/stoW_8NXdFw_m301.mp4"
     }
   ]
 }
