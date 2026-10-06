@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "9zMTJPTfjFs_m301",
-      "title": "\"Shouldn't have said that, huh\"",
-      "description": "\"Shouldn't have said that, huh\"\n\nSend this to the guy in your foursome who thinks he's a pro.\nBob's bunker shot at Shinnecock was so bad, he's questioning his own hands\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #shinnecock #usopen",
-      "creator": "Bob Does Sports",
-      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
-      "signal": "deep_mine",
-      "duration": 42,
-      "grade": 92,
-      "note": "DeepMine v3 funny: A golfer is told he's been good out of bunkers, then pulls his bunker shot. He jokes 'shouldn't have said that', argues pull vs pooping, then chips toward the green. | vision shot 28 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=9zMTJPTfjFs",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9zMTJPTfjFs_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9zMTJPTfjFs_m301.mp4"
-    },
-    {
       "clip_id": "CXTjPaninbQ_m302",
       "title": "Bryan Bros Debate Teeing It Up vs Ian Poulter",
       "description": "Bryan Bros Debate Teeing It Up vs Ian Poulter\n\nIan Poulter's unorthodox tee approach sparks debate with the Bryan Bros.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golfshorts #golftournament #golfing",
@@ -1829,6 +1768,67 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m301.mp4"
+    },
+    {
+      "clip_id": "rH0vuqHx_RE_m302",
+      "title": "\"That came out so hot\"",
+      "description": "\"That came out so hot\"\n\nJoe's bunker shot is a disaster, but the reaction is priceless.\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #golfsports #bunkerfail #golfclips #golffails",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfer chips/putts and the ball runs past the hole; group banters about Joe getting benefit of the doubt, then more putts and a match callout. Outcomes are unclear. | vision shot 35 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=rH0vuqHx_RE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rH0vuqHx_RE_m302.mp4"
     }
   ]
 }
