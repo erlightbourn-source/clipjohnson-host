@@ -326,7 +326,7 @@
         const v = document.createElement("video");
         v.className = "cardmedia";
         v.src = mediaUrl && mediaUrl.indexOf("#") < 0 ? mediaUrl + "#t=0.1" : mediaUrl;
-        v.muted = true; v.controls = true; v.playsInline = true; v.preload = "metadata";
+        v.muted = false; v.controls = true; v.playsInline = true; v.preload = "metadata"; // sound on (Cole 2026-10-05): tap-to-play only, never autoplays
         mslot.appendChild(v);
         posterizeVideo(v);
       }

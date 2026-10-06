@@ -224,6 +224,7 @@
         <img src="clipjohnson_icon.png" alt="" onerror="this.style.display='none'"/>
         <h1>Review v2</h1>
         <span class="count" id="count"></span>
+        <a class="refreshbtn" id="soundBtn" role="button" aria-label="Sound">🔇</a>
         <a class="refreshbtn" id="refresh">↻</a>
         <a class="modebtn" id="modeToggle">Select</a>
       </header>
@@ -316,6 +317,24 @@
   window.addEventListener("orientationchange", syncChromeHeight);
 
   let toastT;
+  // ---- sound toggle (Cole 2026-10-05) ----
+  let SOUND_ON = false;
+  try { SOUND_ON = localStorage.getItem("cj_sound") === "1"; } catch(e){}
+  function setSound(on, refused){
+    SOUND_ON = !!on;
+    try { localStorage.setItem("cj_sound", SOUND_ON ? "1" : "0"); } catch(e){}
+    const b = document.getElementById("soundBtn");
+    if (b) b.textContent = SOUND_ON ? "🔊" : "🔇";
+    document.querySelectorAll("#deck video").forEach(v => { v.muted = !SOUND_ON; });
+    if (refused) toast("Tap 🔇 in the header to turn sound on", true);
+  }
+  function toggleSound(){
+    setSound(!SOUND_ON);
+    // a tap is a user gesture, so playing with sound is allowed right here
+    const top = document.querySelector("#deck video");
+    if (top && top.paused) top.play().catch(()=>{});
+  }
+
   function toast(msg, bad){
     const t = $("toast"); t.textContent = msg;
     t.className = "toast show" + (bad?" bad":"");
@@ -450,11 +469,16 @@
       mslot.appendChild(img);
     } else {
       const v = document.createElement("video");
-      v.src = url; v.muted = true; v.loop = true; v.playsInline = true;
+      v.src = url; v.muted = !SOUND_ON; v.loop = true; v.playsInline = true;
       v.preload = depth === 0 ? "auto" : "metadata"; v.controls = false;
       mslot.appendChild(v);
       posterizeVideo(v);
-      if (depth === 0) v.play().catch(()=>{});
+      // Sound (Cole 2026-10-05): the deck used to hard-mute with no controls, so
+      // Evan could never hear a clip. If the browser refuses unmuted play, fall
+      // back to muted and flip the button so a tap re-enables sound.
+      if (depth === 0) v.play().catch(()=>{
+        if (!v.muted){ v.muted = true; v.play().catch(()=>{}); setSound(false, true); }
+      });
     }
 
     // Top scrim: ALWAYS rendered (keeps the header legible over any media, even a
@@ -696,6 +720,8 @@
     renderAll();
   };
   $("refresh").onclick = loadQueue;
+  $("soundBtn").onclick = toggleSound;
+  setSound(SOUND_ON);
 
   // ==================== decision write (unchanged API from v1) ====================
   async function commitDecision(c, action, reason, note){
