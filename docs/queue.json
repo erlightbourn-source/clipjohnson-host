@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "Y7aV3HNdJkM_m302",
-      "title": "\"Big Sauce Guy\"",
-      "description": "\"Big Sauce Guy\"\n\nGrant Horvat's hilarious reaction to George's eagle chip at Shinnecock, where he claims to be 'going to be up here grinding for all these cars' after missing his own putt.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golfcomedy #golftv #golffail",
-      "creator": "Grant Horvat Golf",
-      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
-      "signal": "deep_mine",
-      "duration": 58,
-      "grade": 92,
-      "note": "DeepMine v3 shot: George's approach shot lands stiff ('sauce'); teammates react hyped, tease him as 'big sauce guy' repeatedly | vision shot 62 funny 58",
-      "source_url": "https://www.youtube.com/watch?v=Y7aV3HNdJkM",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Y7aV3HNdJkM_m302.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Y7aV3HNdJkM_m302.mp4"
-    },
-    {
       "clip_id": "Yq9Y-VQIrXo_m301",
       "title": "\"It's hard to make pars. Say what you want\"",
       "description": "\"It's hard to make pars. Say what you want\"\n\nSend this to the guy in your foursome who thinks they can make pars.\nBob's terrible hole from start to finish derailed his chances, but can he recover?\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #golflife #strokeplay",
