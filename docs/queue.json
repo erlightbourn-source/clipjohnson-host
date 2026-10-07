@@ -60,6 +60,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_m301.mp4"
+    },
+    {
+      "clip_id": "SgtvH2chtS0_m301",
+      "title": "\"For the kids... what's their names?\"",
+      "description": "\"For the kids... what's their names?\"\n\nSend this to the guy in your foursome who thinks he's got game.\nThe Bryan Bros just won a $100,000 golf match with a ridiculously lucky shot - did he really just 'hit the number'?\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfmatch #luckypunch #bryangolf",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bob hits an iron toward a tucked pin, partners shout 'what a sicko', then he jokes he's pin-hunting for his kids, asks their names, and riffs on the college fund. | vision shot 52 funny 63",
+      "source_url": "https://www.youtube.com/watch?v=SgtvH2chtS0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_m301.mp4"
+    },
+    {
+      "clip_id": "SgtvH2chtS0_m302",
+      "title": "\"You can't make this up\" \u2014 lava bounce",
+      "description": "\"You can't make this up\" \u2014 lava bounce\n\nSend this to the guy in your foursome who thinks he can find a ball in lava.\nBobby's 90% chance of finding the grass is actually a guarantee, but is he really that lucky?\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golfmatch",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 60,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bob hits a tee shot toward lava rock. A tracer shows the ball heading to the lava. Commentary says it kicked off the lava to in front of the green, and the group banters in disbelief. | vision shot 52 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=SgtvH2chtS0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_m302.mp4"
     }
   ]
 }
