@@ -184,6 +184,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SgtvH2chtS0_m302.mp4"
     },
     {
+      "clip_id": "lm5NOlbcDzA_m301",
+      "title": "\"Did you just make a hole in one?\"",
+      "description": "\"Did you just make a hole in one?\"\n\nSend this to the guy in your foursome who thinks he can hit it straight.\nGeorge uses a full cut driver with a little crafty fade to start off the video, but comes up just short of the hole.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golffail #golffailshorts #golffailvideo",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Wesley drives the 270-yard opening par four. Commentary calls it a hole-in-one, then says 'just short'. George follows with a crafty fade, and the group reacts. | vision shot 58 funny 42",
+      "source_url": "https://www.youtube.com/watch?v=lm5NOlbcDzA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lm5NOlbcDzA_m301.mp4"
+    },
+    {
       "clip_id": "pgafinal_20261008_baycurrent_classic",
       "title": "Baycurrent Classic \u2014 final leaderboard",
       "description": "Jacob Bridgeman wins the Baycurrent Classic by 1 shot at -8. Final leaderboard. #golf #PGATour #clipjohnson",
