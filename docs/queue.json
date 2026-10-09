@@ -62,67 +62,6 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/5zPB4-SgNz8_m301.mp4"
     },
     {
-      "clip_id": "A6SOILwZ1DY_m301",
-      "title": "\"Shot 69 on a 6,900 yard golf course\"",
-      "description": "\"Shot 69 on a 6,900 yard golf course\"\n\nSend this to the guy in your foursome who thinks he can beat the course without a 9 iron.\nBryson DeChambeau talks through his aggressive shot, which ends up going in and helping him shoot a 69 on a notoriously tough course.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #golffail #brysondechambeau #mastersprep",
-      "creator": "Bryson DeChambeau",
-      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
-      "signal": "deep_mine",
-      "duration": 56,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Bryson DeChambeau hits an approach from 167 yards to about 16 feet, then drains the birdie putt to close out a 69, with a birdie graphic and scorecard confirming. | vision shot 62 funny 12",
-      "source_url": "https://www.youtube.com/watch?v=A6SOILwZ1DY",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/A6SOILwZ1DY_m301.mp4"
-    },
-    {
       "clip_id": "SgtvH2chtS0_m301",
       "title": "\"For the kids... what's their names?\"",
       "description": "\"For the kids... what's their names?\"\n\nSend this to the guy in your foursome who thinks he's got game.\nThe Bryan Bros just won a $100,000 golf match with a ridiculously lucky shot - did he really just 'hit the number'?\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfmatch #luckypunch #bryangolf",
