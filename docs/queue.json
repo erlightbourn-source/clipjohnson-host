@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "oXsv6eZA3jw_m301",
+      "title": "Grant whistles, a blue jay lands on his hand",
+      "description": "Grant whistles, a blue jay lands on his hand\n\nSend this to the guy in your foursome who thinks he's got game.\nGrant Horvat's eagle call is a masterclass in trash talk and good luck charm\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftalk #eaglecall #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 15,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Grant whistles beside a cart and a blue jay lands on his hand. Others react, saying it's a good sign and one of the coolest things they've seen. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=oXsv6eZA3jw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oXsv6eZA3jw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oXsv6eZA3jw_m301.mp4"
+    },
+    {
       "clip_id": "pga_20261009_01",
       "title": "BAYCURRENT CLASSIC \u2014 AFTER ROUND 2",
       "description": "Baycurrent Classic \u2014 leaderboard. #golf #PGATour #clipjohnson",
