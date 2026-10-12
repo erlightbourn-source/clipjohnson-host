@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "DevMG3DFYmE_m301",
+      "title": "Bronny sticks a hole 2 chip, Grant can't believe it",
+      "description": "Bronny sticks a hole 2 chip, Grant can't believe it\n\nSend this to the guy in your foursome who thinks they're good enough to take on Bronny James.\nGrant Horvat tries to give Bronny James a golf lesson, but Bronny's swing is a mess - can he break 60?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #golftips #golffail #bronnyjames #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 18,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Bronny hits a chip or pitch near the pin; Grant and Sky cheer ('no way you just did that'), then joke about his swing being real. | vision shot 55 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=DevMG3DFYmE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DevMG3DFYmE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DevMG3DFYmE_m301.mp4"
+    },
+    {
       "clip_id": "oXsv6eZA3jw_m301",
       "title": "Grant whistles, a blue jay lands on his hand",
       "description": "Grant Horvat whistled a wild jay onto his hand.\n\nSend this to whoever needs a few birdies.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.",

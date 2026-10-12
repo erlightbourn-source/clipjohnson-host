@@ -525,7 +525,12 @@
       prov.appendChild(a);
       full.appendChild(prov);
     }
-    meta.appendChild(title); meta.appendChild(creator); meta.appendChild(tagRow);
+    if (c.tiktok_sound){
+      const snd = document.createElement("div"); snd.className = "creator"; snd.textContent = c.tiktok_sound;
+      meta.appendChild(title); meta.appendChild(creator); meta.appendChild(snd); meta.appendChild(tagRow);
+    } else {
+      meta.appendChild(title); meta.appendChild(creator); meta.appendChild(tagRow);
+    }
     meta.appendChild(hint); meta.appendChild(full);
     el.appendChild(meta);
 

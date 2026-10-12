@@ -284,6 +284,7 @@
         <div class="prov" style="font-size:12px;margin:0 0 8px"></div>
         <div class="gate" style="font-size:11px;margin:0 0 8px"></div>
         <div class="tags">${tags.map(t=>`<span class="pill"></span>`).join("")}</div>
+        <div class="snd" style="font-size:12px;color:var(--accent);margin:0 0 8px" hidden></div>
         <div class="note" style="font-size:12px;color:var(--muted);margin:0 0 8px"></div>
         <p class="desc"></p>
       </div>
@@ -416,6 +417,7 @@
     }
     el.querySelectorAll(".pill").forEach((p,i)=>p.textContent = tags[i]);
     el.querySelector(".note").textContent = c.note || "";
+    if (c.tiktok_sound){ const sn = el.querySelector(".snd"); sn.textContent = c.tiktok_sound; sn.hidden = false; }
     el.querySelector(".desc").textContent = c.description || "";
     const actionsRow = el.querySelector(".actions");
     const reasonsRow = el.querySelector(".reasons");
