@@ -525,6 +525,13 @@
       prov.appendChild(a);
       full.appendChild(prov);
     }
+    // Quinn advisory legal flags (2026-10-12): FYI for the tap, never a block.
+    if (Array.isArray(c.legal_flags) && c.legal_flags.length){
+      const lg = document.createElement("div"); lg.className = "legal";
+      lg.style.cssText = "font-size:12px;color:#e0a93b;margin:6px 0;white-space:pre-line";
+      lg.textContent = c.legal_flags.map(x => "⚖️ " + String(x)).join("\n");
+      full.appendChild(lg);
+    }
     if (c.tiktok_sound){
       const snd = document.createElement("div"); snd.className = "creator"; snd.textContent = c.tiktok_sound;
       meta.appendChild(title); meta.appendChild(creator); meta.appendChild(snd); meta.appendChild(tagRow);
