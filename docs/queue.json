@@ -1,67 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "-GBgmnNbxmk_m301",
-      "title": "Driver on a drivable par 4 stops near the pin",
-      "description": "Driver on a drivable par 4 stops near the pin\n\nSend this to the guy in your foursome who thinks he can beat the pros on a $4500 match.\nMicah's incredible par on the $200 bet, but will his perfect drive be enough to win the match?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #golftips #golffail #golfmatch #golflife",
-      "creator": "Micah Morris",
-      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
-      "signal": "deep_mine",
-      "duration": 18,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Driver off a drivable par 4. Ball is tracked rolling toward the pin and stops near it. Commentators react, then talk about eagle payouts ($200). | vision shot 66 funny 30",
-      "source_url": "https://www.youtube.com/watch?v=-GBgmnNbxmk",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-GBgmnNbxmk_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-GBgmnNbxmk_m301.mp4"
-    },
-    {
       "clip_id": "DevMG3DFYmE_m301",
       "title": "Bronny sticks a hole 2 chip, Grant can't believe it",
       "description": "Bronny sticks a hole 2 chip, Grant can't believe it\n\nSend this to the guy in your foursome who thinks they're good enough to take on Bronny James.\nGrant Horvat tries to give Bronny James a golf lesson, but Bronny's swing is a mess - can he break 60?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #golftips #golffail #bronnyjames #granthorvat",
