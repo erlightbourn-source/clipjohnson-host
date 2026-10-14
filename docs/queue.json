@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "-GBgmnNbxmk_m301",
+      "title": "Driver on a drivable par 4 stops near the pin",
+      "description": "Driver on a drivable par 4 stops near the pin\n\nSend this to the guy in your foursome who thinks he can beat the pros on a $4500 match.\nMicah's incredible par on the $200 bet, but will his perfect drive be enough to win the match?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #golftips #golffail #golfmatch #golflife",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 18,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Driver off a drivable par 4. Ball is tracked rolling toward the pin and stops near it. Commentators react, then talk about eagle payouts ($200). | vision shot 66 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=-GBgmnNbxmk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-GBgmnNbxmk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/-GBgmnNbxmk_m301.mp4"
+    },
+    {
       "clip_id": "DevMG3DFYmE_m301",
       "title": "Bronny sticks a hole 2 chip, Grant can't believe it",
       "description": "Bronny sticks a hole 2 chip, Grant can't believe it\n\nSend this to the guy in your foursome who thinks they're good enough to take on Bronny James.\nGrant Horvat tries to give Bronny James a golf lesson, but Bronny's swing is a mess - can he break 60?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #golftips #golffail #bronnyjames #granthorvat",
@@ -62,6 +123,128 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DevMG3DFYmE_m301.mp4"
     },
     {
+      "clip_id": "ESSXlSWeYkw_m301",
+      "title": "Fat Perez's playoff approach nearly drops, crew erupts",
+      "description": "Fat Perez's playoff approach nearly drops, crew erupts\n\nSend this to the guy in your foursome who needs a confidence boost after watching this.\nBryson DeChambeau makes an incredible 20-foot putt to win the tie and secure a spot in the $250,000 tournament.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #golftournament #brysondechambeau #golffail #golfsports",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 14,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A playoff approach rolls toward the hole and nearly drops, then stops just short. Players react, high-five, and Bryson hits another approach. Commentary says 'could you imagine if that had dropped'. | vision shot 62 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=ESSXlSWeYkw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ESSXlSWeYkw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ESSXlSWeYkw_m301.mp4"
+    },
+    {
+      "clip_id": "Mpgak0MzcsU_m301",
+      "title": "Club slips out of his hands on the 18th tee, then apologies",
+      "description": "Club slips out of his hands on the 18th tee, then apologies\n\nSend this to the guy in your foursome who thinks he can hit 400 yards straight.\nThey're playing a top-ranked women's golf team and Bryan Bros just dropped a 400-yard shot from the fairway.\n\nBryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golffail #golffailshorts #golffailvideo",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf \u2014 brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 15,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Cart chat with college golfers, then a tee shot on 18. The club slips out of his hands and flies off. Apologies and banter follow. | vision shot 40 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=Mpgak0MzcsU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Mpgak0MzcsU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Mpgak0MzcsU_m301.mp4"
+    },
+    {
       "clip_id": "oXsv6eZA3jw_m301",
       "title": "Grant whistles, a blue jay lands on his hand",
       "description": "Grant Horvat whistled a wild jay onto his hand.\n\nSend this to whoever needs a few birdies.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.",
@@ -121,128 +304,6 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oXsv6eZA3jw_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oXsv6eZA3jw_m301.mp4"
-    },
-    {
-      "clip_id": "pga_20261011_01",
-      "title": "BAYCURRENT CLASSIC \u2014 FINAL",
-      "description": "Baycurrent Classic \u2014 leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261011_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261011_01.mp4"
-    },
-    {
-      "clip_id": "pga_20261011_02",
-      "title": "MICHAEL BRENNAN",
-      "description": "Michael Brennan wins the Baycurrent Classic. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261011_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261011_02.mp4"
     }
   ]
 }
