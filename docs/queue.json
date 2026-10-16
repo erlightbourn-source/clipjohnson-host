@@ -1,3 +1,65 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "Mp-M8xkxsWQ_m301",
+      "title": "Grant's final-hole flop over water, then the crew erupts",
+      "description": "Grant's final-hole flop over water, then the crew erupts\n\nSend this to the guy in your foursome who thinks he can beat a 19 on a par 4.\nGrant Horvat and Collin Morikawa just made a birdie finish on a crazy 7th hole - but what's the real score?\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golftips #golffails #birdiefinish",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 11,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Grant hits a flop shot over water toward the final-hole flag. Players cheer ('we did it', 'birdie finish'). The ball's landing is never clearly shown. | vision shot 62 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=Mp-M8xkxsWQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Mp-M8xkxsWQ_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Mp-M8xkxsWQ_m301.mp4"
+    }
+  ]
 }
