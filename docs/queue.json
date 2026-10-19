@@ -62,6 +62,250 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3gMsg-rg-nk_m301.mp4"
     },
     {
+      "clip_id": "3pGLmnlStR0_m302",
+      "title": "Chase's wedge won't spin, Bryson saves birdie on the par 3",
+      "description": "Chase's wedge won't spin, Bryson saves birdie on the par 3\n\nSend this to the guy in your foursome who thinks he's a straight shooter.\nThis golf pro's wedges are a little too honest\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golftips #golffail",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 30,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson putts a breaking birdie on a par 3 after Chase's wedge fails to spin. The BIRDIE graphic shows, and the group celebrates, fist-bumps and cheers. | vision shot 68 funny 28",
+      "source_url": "https://www.youtube.com/watch?v=3pGLmnlStR0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3pGLmnlStR0_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3pGLmnlStR0_m302.mp4"
+    },
+    {
+      "clip_id": "3pGLmnlStR0_m301",
+      "title": "Miles flops it close from beside the bunker",
+      "description": "Miles flops it close from beside the bunker\n\nSend this to the guy in your foursome who thinks they can hit it over the bunker.\nBryson DeChambeau's body didn't let him make a tricky up and down, but he's still got some hands\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golftips #golffail #brysondechambeau",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson and Miles discuss a greenside bunker miss and how the ball bounces through. Miles then chips; the ball finishes near the pin. Bryson says 'What a shot', 'I was sick'. | vision shot 66 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=3pGLmnlStR0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3pGLmnlStR0_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3pGLmnlStR0_m301.mp4"
+    },
+    {
+      "clip_id": "7qnlw6gSr0Q_m301",
+      "title": "Bryson pures it, then it duck hooks 50 yards",
+      "description": "Bryson pures it, then it duck hooks 50 yards\n\nSend this to the guy in your foursome who thinks they can beat a scratch golfer.\nBryson DeChambeau's 50-yard duck hook is a masterclass in golfing embarrassment\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #golftips #golffail #brysondechambeau #golfsilence",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 25,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Bryson tees off with a five iron and the ball hooks hard (tracer shows a big curve). He then jokes in the cart that he pured it and it duck hooked 50 yards. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=7qnlw6gSr0Q",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_m301.mp4"
+    },
+    {
+      "clip_id": "7qnlw6gSr0Q_m302",
+      "title": "Bryson hits a lefty flop over a severe slope, nails it",
+      "description": "Bryson hits a lefty flop over a severe slope, nails it\n\nSend this to the guy in your foursome who thinks they can hit a flop shot too.\nBryson DeChambeau tries to hit a flop shot on one of Texas's toughest courses, but will it pay off?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #brysondechambeau #golfchallenge",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson tries a lefty flop shot over a severe slope, celebrates with arms raised as the crowd cheers, then his partner putts a read that breaks right. | vision shot 68 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=7qnlw6gSr0Q",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7qnlw6gSr0Q_m302.mp4"
+    },
+    {
       "clip_id": "ApTHJz4nRd4_m301",
       "title": "Bryson pitches 31 yards from a tough spot to tap-in range",
       "description": "Bryson pitches 31 yards from a tough spot to tap-in range\n\nSend this to the guy in your foursome who thinks he's a better golfer than his dad.\nBryson DeChambeau's dad set the course record, but Bryson tied it with just 4 holes to play - would you have done the same?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golfrecord #golftournament #golfbet",
@@ -245,6 +489,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Mp-M8xkxsWQ_m301.mp4"
     },
     {
+      "clip_id": "TW5YKmblwxk_m301",
+      "title": "Bryson threads a tight OB-left par 5, calls trees 99% air",
+      "description": "Bryson threads a tight OB-left par 5, calls trees 99% air\n\nSend this to the guy in your foursome who thinks trees are 99% air.\nBryson DeChambeau hits a satisfying drive on a tight hole, but will the ball get stuck in a tree?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golfdiscussion #golffail #golfvideo",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 51,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson tees off on a tight OB-left par 5 in redwoods; the drive threads the trees and finds the fairway, then he jokes trees are 99% air. | vision shot 52 funny 38",
+      "source_url": "https://www.youtube.com/watch?v=TW5YKmblwxk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/TW5YKmblwxk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/TW5YKmblwxk_m301.mp4"
+    },
+    {
       "clip_id": "V42s-Y9eOvo_m301",
       "title": "Bryson's 4-iron lands 10 feet, then the high five fumbles",
       "description": "Bryson's 4-iron lands 10 feet, then the high five fumbles\n\nSend this to the guy in your foursome who thinks he's a better golfer than Bryson.\nBryson and Dude Perfect's high-fiving celebration after a questionable shot goes awry.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golftips #golffail #golfclips",
@@ -304,6 +609,311 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/V42s-Y9eOvo_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/V42s-Y9eOvo_m301.mp4"
+    },
+    {
+      "clip_id": "WB7rnCQ2DVA_m302",
+      "title": "Bryson stuffs a 99-yard wedge, Kevin Hart calls a meeting",
+      "description": "Bryson stuffs a 99-yard wedge, Kevin Hart calls a meeting\n\nSend this to the guy in your foursome who thinks he can hit a 15-foot shot with a car for a club.\nBryson DeChambeau's new caddie is trying to teach him to slow down, but it's not going well.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golfclips #golfcomedy",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Bryson hits a 60\u00b0 wedge from 99 yards on a course. Ball ends 15 feet from the pin. He flops on the ground, and Kevin Hart calls a meeting. | vision shot 42 funny 68",
+      "source_url": "https://www.youtube.com/watch?v=WB7rnCQ2DVA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WB7rnCQ2DVA_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WB7rnCQ2DVA_m302.mp4"
+    },
+    {
+      "clip_id": "WB7rnCQ2DVA_m301",
+      "title": "Kevin Hart calls for a draw, Bryson finds the water",
+      "description": "Kevin Hart calls for a draw, Bryson finds the water\n\nSend this to the guy in your foursome who thinks 9 iron is 215.\nBryson DeChambeau's caddie gives terrible advice, and he takes it to the water\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golfadvice",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Bryson and Kevin Hart discuss yardage and club choice on a par 3. Bryson hits into the water, then Kevin scolds him and Bryson admits he's an idiot. | vision shot 40 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=WB7rnCQ2DVA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WB7rnCQ2DVA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WB7rnCQ2DVA_m301.mp4"
+    },
+    {
+      "clip_id": "aNxAh6yYK7I_m301",
+      "title": "Bryson's 30-yard flop barely stops, then he blames a jinx",
+      "description": "Bryson's 30-yard flop barely stops, then he blames a jinx\n\nSend this to the guy in your foursome who thinks they can hit a 30-yard flop shot.\nBryson DeChambeau tries a 30-yard flop shot and it's a total disaster - did he really jinx himself?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #golftips #golffail #brysondechambeau #golfrecord",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Bryson hits a 30-yard flop that creeps toward the hole while Chase says it won't stop. Later he misses a putt, groans, and blames a jinx. | vision shot 42 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=aNxAh6yYK7I",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aNxAh6yYK7I_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aNxAh6yYK7I_m301.mp4"
+    },
+    {
+      "clip_id": "awKJ19YrxWI_m301",
+      "title": "Bryson drives the first green, 340 yards to the pin",
+      "description": "Bryson drives the first green, 340 yards to the pin\n\nSend this to the guy in your foursome who thinks they can beat Bryson's record.\nCan Bryson DeChambeau's incredible drive on the famous hole really translate to a great putting game?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #golftips #golffail #brysondechambeau #golfrecord",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 39,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson drives the par-4 first green, 340 yards. Ball is seen near the pin (347 yds shown) and he reacts. He then jokes about a high five. | vision shot 80 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=awKJ19YrxWI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/awKJ19YrxWI_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/awKJ19YrxWI_m301.mp4"
+    },
+    {
+      "clip_id": "fRCCJ9K-EFs_m301",
+      "title": "Bryson's wedge spins back five seconds late",
+      "description": "Bryson's wedge spins back five seconds late\n\nSend this to the guy in your foursome who thinks 80 yards is a good distance.\nGrant Horvat's 80-yard drive is delayed, and he's not convinced it was actually 80 yards\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #golfclips #golftips",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 26,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Bryson hits a wedge on a course while the group jokes about delayed spin and the ball creeping back. They later admit the shot wasn't 80 yards. | vision shot 42 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=fRCCJ9K-EFs",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fRCCJ9K-EFs_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fRCCJ9K-EFs_m301.mp4"
     },
     {
       "clip_id": "mluOWlA6GGo_m301",
@@ -367,6 +977,67 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mluOWlA6GGo_m301.mp4"
     },
     {
+      "clip_id": "nbSXn5q425U_m301",
+      "title": "Bryson escapes the wire grass to win the US Open",
+      "description": "Bryson escapes the wire grass to win the US Open\n\nSend this to the guy in your foursome who thinks he can escape the wire grass too.\nBryson DeChambeau's incredible escape from the wire grass at Pinehurst, does he finally put it all together?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golfing #brysondechambeau #usopen #golfescapes",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson plays a bunker shot from wire grass, then putts to win the US Open. He celebrates, the crowd erupts and he hugs his caddie. Commentary is heard. | vision shot 93 funny 8",
+      "source_url": "https://www.youtube.com/watch?v=nbSXn5q425U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nbSXn5q425U_m301.mp4"
+    },
+    {
       "clip_id": "t8y99euqzdo_m301",
       "title": "Bryson hits a junior set driver 263 yards over water",
       "description": "Bryson hits a junior set driver 263 yards over water\n\nSend this to the guy in your foursome who thinks they can beat 263 yards.\nBryson DeChambeau hits 263 yards off the tee on a 230-yard hole, and we're left wondering if he's crazy or genius.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golfsurgery #golfclips #golfingfail",
@@ -426,6 +1097,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t8y99euqzdo_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t8y99euqzdo_m301.mp4"
+    },
+    {
+      "clip_id": "wUtPwhbZra8_m301",
+      "title": "Bryson's 27-footer lips out, then Daly misses too",
+      "description": "Bryson's 27-footer lips out, then Daly misses too\n\nSend this to the guy in your foursome who thinks he can sink a 27-footer from 50 yards out.\nBryce and John Daly disagree on the line of his incredible 27-foot putt that could break 50 from the red tees.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #johndaly #brycedechambeau",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 31,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Bryson's 27-foot putt lips out ('best putt in 20 years'), Daly putts and misses, both read the break, and they settle for par. | vision shot 48 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=wUtPwhbZra8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wUtPwhbZra8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wUtPwhbZra8_m301.mp4"
+    },
+    {
+      "clip_id": "yrQELBcTBaQ_m301",
+      "title": "Bryson punches out of the trees toward a green over water",
+      "description": "Bryson punches out of the trees toward a green over water\n\nSend this to the guy in your foursome who thinks they can do better than a 2-putt from 100 yards.\nBryson DeChambeau's pro caddie freaked out when he hit a shot that went into the water, but did he actually make it?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golffail #brysondechambeau #golftips",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 52,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson hits a recovery from the trees toward a green over water. Banter follows, then they talk it over in the cart. The ball's landing is never shown. | vision shot 55 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=yrQELBcTBaQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yrQELBcTBaQ_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yrQELBcTBaQ_m301.mp4"
     }
   ]
 }
