@@ -1,3 +1,187 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "7k-GPF1qUgM_m301",
+      "title": "Bryson sinks 11 feet for a 9-under course record",
+      "description": "Bryson sinks 11 feet for a 9-under course record\n\nCan he really do it? He's got the confidence, but can he back it up?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golfrecord #golftips #golffail",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson putts 11 feet to break the course record, makes it, celebrates with fist pumps and shouts 'finally', then montages past course-record attempts. | vision shot 80 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=7k-GPF1qUgM",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4"
+    },
+    {
+      "clip_id": "BPzpRK0dYGQ_m301",
+      "title": "Bryson's eight iron falls out of the sky, kids get to him",
+      "description": "Bryson's eight iron falls out of the sky, kids get to him\n\nSend this to the guy in your foursome who thinks they can out-sand-trap a pro.\nPro golfer gets his 8-iron stuck in the sand and can't get it out, blaming his kids for intimidating him.\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #sandtrap #golftips",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 36,
+      "grade": 82,
+      "note": "DeepMine v3 funny: Bryson hits an eight iron on a par 3 and the shot is pulled or shanked into the rough. He then admits the kids are getting to him. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=BPzpRK0dYGQ",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4"
+    },
+    {
+      "clip_id": "x24h-ioP2mE_m301",
+      "title": "Drains a 61-foot putt on 16, partners lose it",
+      "description": "Drains a 61-foot putt on 16, partners lose it\n\nSend this to the guy in your foursome who thinks 4 feet is a challenge.\nHe goes from missing a 4 footer to sinking a 60 footer, but can he hold the lead?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #courserecord #golftips",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer putts a 61-foot bomb on 16 and celebrates with a raised fist. Playing partners hug him and the scoreboard moves to 8 under. Commentary says 'unbelievable'. | vision shot 82 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=x24h-ioP2mE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x24h-ioP2mE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x24h-ioP2mE_m301.mp4"
+    }
+  ]
 }
