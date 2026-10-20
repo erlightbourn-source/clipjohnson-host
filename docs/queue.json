@@ -123,6 +123,164 @@
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4"
     },
     {
+      "clip_id": "cc_20261020_baycurrent",
+      "title": "The Baycurrent Classic in 7 numbers",
+      "description": "Three players went into Sunday at the Baycurrent Classic tied for the lead. One won, one finished T2, one fell to T9. Here's the week in 7 numbers, straight from the final leaderboard. Which one surprised you? Save it for Bermuda week.",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard/_/tournamentId/401850916",
+      "provenance": "original",
+      "content_type": "golf_stat",
+      "type": "golf_stat",
+      "media_type": "carousel",
+      "check_manifest": {
+        "content_type": "golf_stat",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "is_carousel": true,
+        "frame_count": 9,
+        "passed": true,
+        "frames": [
+          {
+            "order": 1,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f1.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 2,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f2.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 3,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f3.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 4,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f4.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 5,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f5.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 6,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f6.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 7,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f7.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 8,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f8.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 9,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_baycurrent_f9.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          }
+        ],
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=golf_stat"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "all 9 frame files present"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "9/9 frames crop-safe"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f1.jpg",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f1.jpg",
+      "frames": [
+        {
+          "order": 1,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f1.jpg"
+        },
+        {
+          "order": 2,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f2.jpg"
+        },
+        {
+          "order": 3,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f3.jpg"
+        },
+        {
+          "order": 4,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f4.jpg"
+        },
+        {
+          "order": 5,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f5.jpg"
+        },
+        {
+          "order": 6,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f6.jpg"
+        },
+        {
+          "order": 7,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f7.jpg"
+        },
+        {
+          "order": 8,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f8.jpg"
+        },
+        {
+          "order": 9,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_baycurrent_f9.jpg"
+        }
+      ],
+      "frame_count": 9
+    },
+    {
       "clip_id": "x24h-ioP2mE_m301",
       "title": "Drains a 61-foot putt on 16, partners lose it",
       "description": "Drains a 61-foot putt on 16, partners lose it\n\nSend this to the guy in your foursome who thinks 4 feet is a challenge.\nHe goes from missing a 4 footer to sinking a 60 footer, but can he hold the lead?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #courserecord #golftips",
