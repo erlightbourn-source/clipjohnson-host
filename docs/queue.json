@@ -1,6 +1,67 @@
 {
   "clips": [
     {
+      "clip_id": "18fBcKakilw_m301",
+      "title": "A bug sits in the cup, then the putt pins it dead",
+      "description": "A bug sits in the cup, then the putt pins it dead\n\nSend this to the guy in your foursome who thinks he's a pro but can't even deal with a bug in the hole.\nRick Shiels discovers a weird bug in the hole after a hole-in-one, and his reaction is priceless.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #golfing #golfingdisasters",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 26,
+      "grade": 87,
+      "note": "DeepMine v3 funny: A putt leaves a bug stuck against the ball in the cup. The crew debates what it is and whether it's dead, then it flies off. The joke is 'Dad squashed by a Pro-V1'. | vision shot 35 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=18fBcKakilw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4"
+    },
+    {
       "clip_id": "7k-GPF1qUgM_m301",
       "title": "Bryson sinks 11 feet for a 9-under course record",
       "description": "Bryson sinks 11 feet for a 9-under course record\n\nCan he really do it? He's got the confidence, but can he back it up?\n\nBryson DeChambeau \u2014 major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golfrecord #golftips #golffail",
@@ -121,6 +182,128 @@
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4"
+    },
+    {
+      "clip_id": "IsStOUIJoRc_m301",
+      "title": "Rick aces the par-3 right after calling it vanilla",
+      "description": "Rick aces the par-3 right after calling it vanilla\n\nSend this to the guy in your foursome who thinks they're better than you.\nRick Shiels just pulled off an incredible shot and is now officially in the last place, but he's still trying to convince us he was going for the yellow flag.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golfhumor",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 30,
+      "grade": 93,
+      "note": "DeepMine v3 shot: Rick's group jokes the first par-3 shots were vanilla. Rick then holes out on the small hole, celebrates wildly, and a replay follows with banter. | vision shot 92 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=IsStOUIJoRc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IsStOUIJoRc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IsStOUIJoRc_m301.mp4"
+    },
+    {
+      "clip_id": "cZEsYY3eokw_m301",
+      "title": "Trent lights a cigar in the cart, then the coughing starts",
+      "description": "Trent lights a cigar in the cart, then the coughing starts\n\nSend this to the guy in your foursome who thinks they can handle a 7-iron.\nGolfer Tommy C. just hit a ball that sounds like it's been put through a blender.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #tpcsawgrass #golfmeltdown",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, mixing pro and celebrity guest matches with amateur banter.",
+      "signal": "deep_mine",
+      "duration": 30,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Two friends in a golf cart; one lights a cigar, coughs violently, and the other jokes about the hospital and puking. Brief tee shot and course frames at the start. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=cZEsYY3eokw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_m301.mp4"
     },
     {
       "clip_id": "cc_20261020_baycurrent",
@@ -279,6 +462,286 @@
         }
       ],
       "frame_count": 9
+    },
+    {
+      "clip_id": "cc_20261020_ii_s2",
+      "title": "Internet Invitational Season 2 in 7 numbers",
+      "description": "Internet Invitational Season 2 starts October 26. 64 players, 6 episodes, new ones every Monday and Thursday at 1 PM ET. Here's the season in 7 numbers. Who are you taking to win it? Save this so you know when each one drops.",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "/Users/evanlightbourn/Movies/clip-channel/data/count_carousels/ii_s2_sources/facts.json",
+      "provenance": "original",
+      "content_type": "golf_stat",
+      "type": "golf_stat",
+      "media_type": "carousel",
+      "check_manifest": {
+        "content_type": "golf_stat",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "is_carousel": true,
+        "frame_count": 9,
+        "passed": true,
+        "frames": [
+          {
+            "order": 1,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f1.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 2,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f2.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 3,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f3.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 4,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f4.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 5,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f5.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 6,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f6.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 7,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f7.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 8,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f8.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          },
+          {
+            "order": 9,
+            "path": "/Users/evanlightbourn/Movies/clip-channel/data/clips/cc_20261020_ii_s2_f9.jpg",
+            "passed": true,
+            "reason": "2160x2700 ~ 4:5 (crop-safe)"
+          }
+        ],
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=golf_stat"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "all 9 frame files present"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": true,
+            "passed": true,
+            "reason": "9/9 frames crop-safe"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f1.jpg",
+      "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f1.jpg",
+      "frames": [
+        {
+          "order": 1,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f1.jpg"
+        },
+        {
+          "order": 2,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f2.jpg"
+        },
+        {
+          "order": 3,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f3.jpg"
+        },
+        {
+          "order": 4,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f4.jpg"
+        },
+        {
+          "order": 5,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f5.jpg"
+        },
+        {
+          "order": 6,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f6.jpg"
+        },
+        {
+          "order": 7,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f7.jpg"
+        },
+        {
+          "order": 8,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f8.jpg"
+        },
+        {
+          "order": 9,
+          "image_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cc_20261020_ii_s2_f9.jpg"
+        }
+      ],
+      "frame_count": 9
+    },
+    {
+      "clip_id": "wSRwPWSum1c_m301",
+      "title": "Rick's putt dies on the lip, then Garrett's ball blocks his line",
+      "description": "Rick's putt dies on the lip, then Garrett's ball blocks his line\n\nSend this to the guy in your foursome who thinks he's a better putter than Rick Shiels.\nRick Shiels struggles with a crucial putt, leaving the viewer wondering if he'll recover from his three-over score.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golftips",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Rick's putt rolls to the hole and stops on the lip. Garrett's ball then blocks his line, and they joke about 'old school stymies' before moving on. | vision shot 42 funny 48",
+      "source_url": "https://www.youtube.com/watch?v=wSRwPWSum1c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m301.mp4"
+    },
+    {
+      "clip_id": "wSRwPWSum1c_m302",
+      "title": "Perfect lie chip checks inches from the hole",
+      "description": "Perfect lie chip checks inches from the hole\n\nSend this to the guy in your foursome who thinks they can chip like a pro.\nRick Shiels hits an unbelievable chip, but it somehow doesn't go in - what's going on here?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #garrtock",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Rick talks up a great lie, chips; ball checks inches from the hole (shown at 19.8s). Both react in disbelief, then joke about a 'Garrett Clark' chip-in. | vision shot 66 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=wSRwPWSum1c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m302.mp4"
     },
     {
       "clip_id": "x24h-ioP2mE_m301",
