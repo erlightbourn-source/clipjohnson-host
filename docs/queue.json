@@ -59,7 +59,132 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Tailgate Riff - Johnny Pipes at -20 dB"
+    },
+    {
+      "clip_id": "6IOMaSP_ABs_m301",
+      "title": "Rick Shiels trusts gravity on an eagle putt, leaves it short",
+      "description": "Rick Shiels trusts gravity on an eagle putt, leaves it short\n\nSend this to the guy in your foursome who thinks they're a better golfer than Rick Shiels.\nRick Shiels thinks he's a golf genius, but can he actually make it happen?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golftips",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 52,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Rick Shiels lines up a long eagle putt. He says gravity will do the rest, the putt dies short on the hill, and he says he didn't think it was possible to leave it short. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=6IOMaSP_ABs",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6IOMaSP_ABs_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6IOMaSP_ABs_m301.mp4",
+      "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed at -20 dB"
+    },
+    {
+      "clip_id": "6MeBprDbSZo_m301",
+      "title": "Plugged in a Shinnecock bunker bank, thins it onto the green",
+      "description": "Plugged in a Shinnecock bunker bank, thins it onto the green\n\nSend this to the guy in your foursome who thinks they can play from the rough.\nRick Shiels is in a terrible position at Shinnecock Hills and is trying to play a shot from the rough downwind of the green.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #shinnecockhills #golfclips",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Rick Shiels is plugged in a Shinnecock bunker bank, thins the shot up onto the green, then putts out. He jokes it was the greatest four ever. | vision shot 52 funny 45",
+      "source_url": "https://www.youtube.com/watch?v=6MeBprDbSZo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6MeBprDbSZo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6MeBprDbSZo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Black Alley Drift - Hina Noguchi at -20 dB"
     },
     {
       "clip_id": "7k-GPF1qUgM_m301",
@@ -120,7 +245,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4",
+      "tiktok_sound": "TikTok sound: Inside Algorithm - Cool Ember Sync at -20 dB"
     },
     {
       "clip_id": "BPzpRK0dYGQ_m301",
@@ -181,7 +307,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BPzpRK0dYGQ_m301.mp4",
+      "tiktok_sound": "TikTok sound: Adamant Pulse - Max the Musician at -20 dB"
     },
     {
       "clip_id": "IsStOUIJoRc_m301",
@@ -242,7 +369,70 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IsStOUIJoRc_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IsStOUIJoRc_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IsStOUIJoRc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Glitch Riot Engine - Leo the Lumberjack at -20 dB"
+    },
+    {
+      "clip_id": "_34aHreATjA_m301",
+      "title": "Searching for his ball at night, he steps on it",
+      "description": "Searching for his ball at night, he steps on it\n\nSend this to the guy in your foursome who thinks they can handle a plugged ball.\nRick Shiels just stepped on a plugged ball in the hazard, and it's out of the way - but would he have done that?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #golfhumor #rickshiels",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 83,
+      "note": "DeepMine v3 funny: At night by a water hazard, a golfer searches the bank, finds his ball plugged where he stepped on it, and the players react with repeated 'literally stepped on it'. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=_34aHreATjA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_34aHreATjA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_34aHreATjA_m301.mp4",
+      "tiktok_sound": "TikTok sound: Pixel Parade - Kenji Matsumoto at -20 dB"
     },
     {
       "clip_id": "cZEsYY3eokw_m301",
@@ -303,7 +493,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/cZEsYY3eokw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast at -20 dB"
     },
     {
       "clip_id": "cc_20261020_baycurrent",
@@ -680,7 +871,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m301.mp4",
+      "tiktok_sound": "TikTok sound: Future - Official Sound Studio at -20 dB"
     },
     {
       "clip_id": "wSRwPWSum1c_m302",
@@ -741,7 +933,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m302.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m302.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/wSRwPWSum1c_m302.mp4",
+      "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
     },
     {
       "clip_id": "x24h-ioP2mE_m301",
@@ -802,7 +995,8 @@
         ]
       },
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x24h-ioP2mE_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x24h-ioP2mE_m301.mp4"
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x24h-ioP2mE_m301.mp4",
+      "tiktok_sound": "TikTok sound: Fading Key Stains - Peculiar Party at -20 dB"
     }
   ]
 }
