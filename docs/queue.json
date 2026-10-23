@@ -373,6 +373,68 @@
       "tiktok_sound": "TikTok sound: Glitch Riot Engine - Leo the Lumberjack at -20 dB"
     },
     {
+      "clip_id": "YOps2E-Rcpo_m301",
+      "title": "Grant bets he can hit it, takes a divot, ball drops",
+      "description": "Grant bets he can hit it, takes a divot, ball drops\n\nSend this to the guy in your foursome who thinks they can out-chip Grant Horvat.\nGrant Horvat tries to play a chip shot at Pebble Beach, but takes a divot out of the ground and behind the ball instead.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #pebblebeach #majorcut",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Grant argues he can get the club on the ball from a bunker lip, takes a divot behind it, and the ball apparently goes in; the others are baffled. | vision shot 62 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=YOps2E-Rcpo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/YOps2E-Rcpo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/YOps2E-Rcpo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Paper Boat Parade - Joe the Juggler at -20 dB"
+    },
+    {
       "clip_id": "_34aHreATjA_m301",
       "title": "Searching for his ball at night, he steps on it",
       "description": "Searching for his ball at night, he steps on it\n\nSend this to the guy in your foursome who thinks they can handle a plugged ball.\nRick Shiels just stepped on a plugged ball in the hazard, and it's out of the way - but would he have done that?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #golfhumor #rickshiels",
