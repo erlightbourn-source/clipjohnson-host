@@ -373,6 +373,331 @@
       "tiktok_sound": "TikTok sound: Glitch Riot Engine - Leo the Lumberjack at -20 dB"
     },
     {
+      "clip_id": "KQb_GJiNRoI_m301",
+      "title": "Aims 30 feet left on an eagle putt, then misses badly",
+      "description": "Aims 30 feet left on an eagle putt, then misses badly\n\nSend this to the guy in your foursome who thinks they can make a 30-foot putt with a 6-iron.\nThe host is about to attempt the biggest breaking putt he's ever seen, and it's going to be a doozy.\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golftips #puttfail #golfcomedy",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 39,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfers banter in a cart and on the green. A player says he's aiming 30 feet left on an eagle putt, then reacts to the result with 'That's terrible.' | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=KQb_GJiNRoI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KQb_GJiNRoI_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/KQb_GJiNRoI_m301.mp4",
+      "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "LjWQz5V5VII_m301",
+      "title": "Two straight tap-in misses, then two silly bogeys",
+      "description": "Two straight tap-in misses, then two silly bogeys\n\nSend this to the guy in your foursome who thinks they can hit a perfect shot from 20 yards off the front edge.\nAfter a silly bogey, they're giving chance too many gifts and need to make this to avoid another one.\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #golftips #bogey",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfers on the green miss two short par putts in a row. They say 'silly bogey', 'two of the dumbest bogeys of all time', and joke about giving Chance gifts. | vision shot 35 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=LjWQz5V5VII",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/LjWQz5V5VII_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/LjWQz5V5VII_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sunrise - Official Sound Studio at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "M0cZ6kEvDnk_m301",
+      "title": "Chris's par-5 second shot almost drops for eagle",
+      "description": "Chris's par-5 second shot almost drops for eagle\n\nSend this to the guy in your foursome who thinks he can beat you with a 3-iron into a bunker.\nHe just hit a 3-iron into a 14-foot bunker and somehow still managed to make it, but will it be enough to beat his friends' bets?\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #golfbet #golfshot",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Par-5 second shot almost drops for eagle; friend drops to his knees, players banter about the near miss, then other players hit and chat about bunkers. | vision shot 55 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=M0cZ6kEvDnk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/M0cZ6kEvDnk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/M0cZ6kEvDnk_m301.mp4",
+      "tiktok_sound": "TikTok sound: Tailgate Riff - Johnny Pipes at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "P5tfYbB0M-E_m301",
+      "title": "Hooks a 6-iron 210 yards over a knob onto the green",
+      "description": "Hooks a 6-iron 210 yards over a knob onto the green\n\nSend this to the guy in your foursome who thinks he can sink a 210-yard shot.\nWatch as Geddy's 6-iron shot somehow lands on the green from 210 yards out, and he's left speechless.\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #golffailoftheweek #golffailvideo",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 93,
+      "note": "DeepMine v3 shot: Couples talk in carts, then a golfer hits a 6-iron hook on a 210-yard par 3. The ball is seen landing on the green, and a partner cheers in the cart. | vision shot 66 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=P5tfYbB0M-E",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/P5tfYbB0M-E_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/P5tfYbB0M-E_m301.mp4",
+      "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "SzdiwDdNie4_m301",
+      "title": "Caddie Ghetti calls the break, then the eagle putt drops",
+      "description": "Caddie Ghetti calls the break, then the eagle putt drops\n\nSend this to the guy in your foursome who thinks he can beat 65 with a little help from his buddies.\nGhetti caddies predict a decent amount of leak, but can they actually help him make a field goal?\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golftips #golffail",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 28,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Green-reading talk about putt break, then a long putt is hit; the ball is barely visible. The caddie says 'told ya' and the golfer celebrates and praises him. | vision shot 55 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=SzdiwDdNie4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SzdiwDdNie4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/SzdiwDdNie4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Black Alley Drift - Hina Noguchi at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
       "clip_id": "YOps2E-Rcpo_m301",
       "title": "Grant bets he can hit it, takes a divot, ball drops",
       "description": "Grant bets he can hit it, takes a divot, ball drops\n\nSend this to the guy in your foursome who thinks they can out-chip Grant Horvat.\nGrant Horvat tries to play a chip shot at Pebble Beach, but takes a divot out of the ground and behind the ball instead.\n\nGrant Horvat Golf \u2014 pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #pebblebeach #majorcut",
@@ -433,6 +758,71 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/YOps2E-Rcpo_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/YOps2E-Rcpo_m301.mp4",
       "tiktok_sound": "TikTok sound: Paper Boat Parade - Joe the Juggler at -20 dB"
+    },
+    {
+      "clip_id": "ZCOCd2hpZcw_m301",
+      "title": "Driver off a par 5 with a 20-yard gap, then it lands",
+      "description": "Driver off a par 5 with a 20-yard gap, then it lands\n\nSend this to the guy in your foursome who thinks he can beat you with a perfect drive.\nBlake hits a perfect tee shot, but his opponent's reaction is priceless.\n\nGM Golf (Garrett Clark) \u2014 challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golfchallenges #golffail #golftips",
+      "creator": "gm__golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 51,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer lines up a tight par 5 tee shot with a 20-yard landing gap. Drone view shows the ball landing in the fairway. They say 'That's perfect' and talk it over. | vision shot 62 funny 22",
+      "source_url": "https://www.youtube.com/watch?v=ZCOCd2hpZcw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZCOCd2hpZcw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZCOCd2hpZcw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Inside Algorithm - Cool Ember Sync at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'gm__golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
     },
     {
       "clip_id": "_34aHreATjA_m301",
