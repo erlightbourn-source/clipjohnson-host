@@ -1327,6 +1327,68 @@
       "frame_count": 9
     },
     {
+      "clip_id": "iE88M4EOZY4_m301",
+      "title": "Pete lips out two short putts after a pep talk",
+      "description": "Pete lips out two short putts after a pep talk\n\nSend this to the guy in your foursome who thinks liping out a shot is a good idea.\nPeter Finch is furious after a pep talk ruins his game, but would he try to lip out the shot to make up for it?\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #lipout #golfhumor",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 56,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Pete misses two short putts (lip-outs) after a pep talk, then chips poorly to a double bogey while the group roasts him as an embarrassment. | vision shot 35 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=iE88M4EOZY4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iE88M4EOZY4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iE88M4EOZY4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Frozen Pulse - Dance Trance Kid at -20 dB"
+    },
+    {
       "clip_id": "wSRwPWSum1c_m301",
       "title": "Rick's putt dies on the lip, then Garrett's ball blocks his line",
       "description": "Rick's putt dies on the lip, then Garrett's ball blocks his line\n\nSend this to the guy in your foursome who thinks he's a better putter than Rick Shiels.\nRick Shiels struggles with a crucial putt, leaving the viewer wondering if he'll recover from his three-over score.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golftips",
