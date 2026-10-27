@@ -931,6 +931,68 @@
       "tiktok_sound": "TikTok sound: Pixel Parade - Kenji Matsumoto at -20 dB"
     },
     {
+      "clip_id": "_gBgAphkTaE_m301",
+      "title": "A fox shows up on the green where it stole Pete's head cover",
+      "description": "A fox shows up on the green where it stole Pete's head cover\n\nSend this to the guy in your foursome who needs to see a fox steal his headcover.\nRick Shiels gets a mischievous fox to pinch his headcover, but Peter Finch just laughs it off.\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #foxgolf #golftips",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 46,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Night golf. Two men in a cart talk about a fox that stole Pete's head cover. A fox wanders the green and runs off near the cart, and Pete shouts at it. | vision shot 25 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=_gBgAphkTaE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_gBgAphkTaE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_gBgAphkTaE_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sneaky Steps - Cedar Knight at -20 dB"
+    },
+    {
       "clip_id": "cZEsYY3eokw_m301",
       "title": "Trent lights a cigar in the cart, then the coughing starts",
       "description": "Trent lights a cigar in the cart, then the coughing starts\n\nSend this to the guy in your foursome who thinks they can handle a 7-iron.\nGolfer Tommy C. just hit a ball that sounds like it's been put through a blender.\n\nFore Play Golf (Barstool Sports) \u2014 Riggs, Trent, Frankie & crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #tpcsawgrass #golfmeltdown",
