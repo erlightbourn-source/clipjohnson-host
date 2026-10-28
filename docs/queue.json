@@ -63,6 +63,68 @@
       "tiktok_sound": "TikTok sound: Tailgate Riff - Johnny Pipes at -20 dB"
     },
     {
+      "clip_id": "3vuTjZEJHmg_m301",
+      "title": "7-iron from 202 yards to 3-4 feet, then the zoom",
+      "description": "7-iron from 202 yards to 3-4 feet, then the zoom\n\nSend this to the guy in your foursome who thinks they can make a 10-foot putt with ease.\nRick Shiels just hit a solid shot that's going towards the hole, but will he actually make the putt?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golftips #golffails #rickshiels",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 43,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Harald Barna hits a 7-iron from 202 yards on a course. Companions applaud, and a replay shows the ball landing near the flag. He says he has a 3-4 foot putt. | vision shot 66 funny 12",
+      "source_url": "https://www.youtube.com/watch?v=3vuTjZEJHmg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3vuTjZEJHmg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/3vuTjZEJHmg_m301.mp4",
+      "tiktok_sound": "TikTok sound: Well-off Flag - DJ BAI at -20 dB"
+    },
+    {
       "clip_id": "6IOMaSP_ABs_m301",
       "title": "Rick Shiels trusts gravity on an eagle putt, leaves it short",
       "description": "Rick Shiels trusts gravity on an eagle putt, leaves it short\n\nSend this to the guy in your foursome who thinks they're a better golfer than Rick Shiels.\nRick Shiels thinks he's a golf genius, but can he actually make it happen?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golftips",
@@ -247,6 +309,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/7k-GPF1qUgM_m301.mp4",
       "tiktok_sound": "TikTok sound: Inside Algorithm - Cool Ember Sync at -20 dB"
+    },
+    {
+      "clip_id": "Av8gR_bxMy8_m301",
+      "title": "Holes the last putt to finish on 73, group erupts",
+      "description": "Holes the last putt to finish on 73, group erupts\n\nSend this to the guy in your foursome who thinks he's a pro but can't even line up a putt.\nRick Shiels just shot a 73 on a par 74 hole, but what's the real challenge he faced?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golftips #golfchallenges #golffail",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 55,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Rick Shiels' group finishes a 73 challenge. A player holes the final putt, the group celebrates, and a yellow ball is shown in the cup. Putt itself isn't clearly shown. | vision shot 66 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=Av8gR_bxMy8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Av8gR_bxMy8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Av8gR_bxMy8_m301.mp4",
+      "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
     },
     {
       "clip_id": "BPzpRK0dYGQ_m301",
@@ -991,6 +1115,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_gBgAphkTaE_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_gBgAphkTaE_m301.mp4",
       "tiktok_sound": "TikTok sound: Sneaky Steps - Cedar Knight at -20 dB"
+    },
+    {
+      "clip_id": "aimxhwqsao4_m301",
+      "title": "Drives the green on his first swing in Vietnam, then birdies",
+      "description": "Drives the green on his first swing in Vietnam, then birdies\n\nSend this to the guy in your foursome who thinks he can hit an eagle on his first shot.\nRick Shiels finds a hidden gem in Vietnam, but does he really know what he's doing?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #vietnam #golfcourse #rickshiels",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 25,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Rick Shiels tees off in Vietnam, narrates driving the green, then putts for birdie. Ball landing is never shown and the putt drop is only implied by the 'BIRDIE' graphic. | vision shot 55 funny 20",
+      "source_url": "https://www.youtube.com/watch?v=aimxhwqsao4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aimxhwqsao4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aimxhwqsao4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Whole Crew - Dark Wind at -20 dB"
     },
     {
       "clip_id": "cZEsYY3eokw_m301",
