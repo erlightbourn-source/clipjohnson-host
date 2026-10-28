@@ -1,68 +1,6 @@
 {
   "clips": [
     {
-      "clip_id": "18fBcKakilw_m301",
-      "title": "A bug sits in the cup, then the putt pins it dead",
-      "description": "A bug sits in the cup, then the putt pins it dead\n\nSend this to the guy in your foursome who thinks he's a pro but can't even deal with a bug in the hole.\nRick Shiels discovers a weird bug in the hole after a hole-in-one, and his reaction is priceless.\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #golfing #golfingdisasters",
-      "creator": "Rick Shiels Golf",
-      "blurb": "Rick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
-      "signal": "deep_mine",
-      "duration": 26,
-      "grade": 87,
-      "note": "DeepMine v3 funny: A putt leaves a bug stuck against the ball in the cup. The crew debates what it is and whether it's dead, then it flies off. The joke is 'Dad squashed by a Pro-V1'. | vision shot 35 funny 58",
-      "source_url": "https://www.youtube.com/watch?v=18fBcKakilw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/18fBcKakilw_m301.mp4",
-      "tiktok_sound": "TikTok sound: Tailgate Riff - Johnny Pipes at -20 dB"
-    },
-    {
       "clip_id": "3vuTjZEJHmg_m301",
       "title": "7-iron from 202 yards to 3-4 feet, then the zoom",
       "description": "7-iron from 202 yards to 3-4 feet, then the zoom\n\nSend this to the guy in your foursome who thinks they can make a 10-foot putt with ease.\nRick Shiels just hit a solid shot that's going towards the hole, but will he actually make the putt?\n\nRick Shiels Golf \u2014 UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golftips #golffails #rickshiels",
