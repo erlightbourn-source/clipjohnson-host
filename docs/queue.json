@@ -1,3 +1,190 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "PmbN-QcpbR4_m301",
+      "title": "Drops his ball marker in the cup, fishes it out with a magnet",
+      "description": "Drops his ball marker in the cup, fishes it out with a magnet\n\nSend this to the guy in your foursome who thinks he can outsmart a magnet.\nThe golfer's solution to a dropped ball marker is surprisingly effective, but will it pay off?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 47,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Players putt on a Kiawah green, one drops his ball marker in the cup, they fish it out with a magnet and joke 'big brain'. | vision shot 40 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=PmbN-QcpbR4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PmbN-QcpbR4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PmbN-QcpbR4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Whispers of a Distant Horizon - Sam the Scribe at -20 dB"
+    },
+    {
+      "clip_id": "lXBJ8LEpP4c_m301",
+      "title": "Micah's pitching wedge lands right next to JT's",
+      "description": "Micah's pitching wedge lands right next to JT's\n\nSend this to the guy in your foursome who thinks he's a birdie-making machine.\nJustin's perfect drive is ruined when he tries to follow up with a birdie putt\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golfclips #golftips",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 47,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Micah hits a pitching wedge into a par 3; the ball flight and landing aren't shown. Frames show the green with the flag, then he and JT note both balls landed close together. | vision shot 55 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=lXBJ8LEpP4c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lXBJ8LEpP4c_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lXBJ8LEpP4c_m301.mp4",
+      "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
+      "clip_id": "z8sTZGyWHIU_m301",
+      "title": "A short par putt slips away and the match is all square",
+      "description": "A short par putt slips away and the match is all square\n\nSend this to the guy in your foursome who thinks they can beat you at golf.\nGeorge Bryan just missed a ridiculously easy putt and is now back to square one, wondering why he even bothered competing.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #golftips #golffail #golftournament",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 25,
+      "grade": 93,
+      "note": "DeepMine v3 funny: George putts and makes a short par putt while commentating. Micah then misses a short putt (the transcript calls it a 'brain fart'), and the match goes back to all square. They bang clubs and joke aft | vision shot 42 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=z8sTZGyWHIU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z8sTZGyWHIU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/z8sTZGyWHIU_m301.mp4",
+      "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast at -20 dB"
+    }
+  ]
 }
