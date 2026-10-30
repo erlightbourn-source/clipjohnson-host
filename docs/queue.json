@@ -1,6 +1,68 @@
 {
   "clips": [
     {
+      "clip_id": "9toEjulQRPo_m301",
+      "title": "Micah's drive pings the tree and plops straight down",
+      "description": "Micah's drive pings the tree and plops straight down\n\nSend this to the guy in your foursome who thinks he's a pro golfer after watching this.\nGolf pro challenges junior golfer to a match, but the pro's tree-hitting skills are a joke.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golfpro #juniorgolfer",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Micah's tee shot hits a tree and drops straight down; the opponent reacts, says he's in his head, then hits a good drive. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=9toEjulQRPo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9toEjulQRPo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/9toEjulQRPo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Lullaby of the Stars - Margo Tender at -20 dB"
+    },
+    {
       "clip_id": "PmbN-QcpbR4_m301",
       "title": "Drops his ball marker in the cup, fishes it out with a magnet",
       "description": "Drops his ball marker in the cup, fishes it out with a magnet\n\nSend this to the guy in your foursome who thinks he can outsmart a magnet.\nThe golfer's solution to a dropped ball marker is surprisingly effective, but will it pay off?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips",
@@ -61,6 +123,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PmbN-QcpbR4_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/PmbN-QcpbR4_m301.mp4",
       "tiktok_sound": "TikTok sound: Whispers of a Distant Horizon - Sam the Scribe at -20 dB"
+    },
+    {
+      "clip_id": "fQXUZMsmrKg_m301",
+      "title": "Drains a downhill eagle putt to keep the record bid alive",
+      "description": "Drains a downhill eagle putt to keep the record bid alive\n\nSend this to the guy in your foursome who thinks they can beat you on the 17th hole.\nMicah Morris just made an incredible eagle on the 17th hole at Michigan's best golf course, but will it be enough to keep him in the lead?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golftournament #michigan #golfeagle",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 50,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer reads a downhill putt, drains an eagle on a par five, and the group celebrates and talks about the course record bid staying alive. | vision shot 74 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=fQXUZMsmrKg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fQXUZMsmrKg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fQXUZMsmrKg_m301.mp4",
+      "tiktok_sound": "TikTok sound: Deep Reflection - Morris Tapes at -20 dB"
     },
     {
       "clip_id": "lXBJ8LEpP4c_m301",
