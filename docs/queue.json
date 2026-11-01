@@ -373,6 +373,68 @@
       "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed"
     },
     {
+      "clip_id": "vcGRh4LKHPo_m301",
+      "title": "Randy's $20k putt lips the cup, then the group erupts",
+      "description": "Randy's $20k putt lips the cup, then the group erupts\n\nSend this to the guy in your foursome who thinks he's a pro and can't believe it went in.\nThe golfer aims for a small white spot on the cup, but does he actually hit it?\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#golf #golfmatch #bigwedgegolf #golffail #golfhumor",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 60,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Randy putts on a green for a $20k-stakes match. The ball stops at the hole, lipping the cup per the group's reaction. The group hold their mouths in disbelief and say it would have gone in with the fl | vision shot 62 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=vcGRh4LKHPo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/vcGRh4LKHPo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/vcGRh4LKHPo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Frozen Pulse - Dance Trance Kid at -20 dB"
+    },
+    {
       "clip_id": "z8sTZGyWHIU_m301",
       "title": "A short par putt slips away and the match is all square",
       "description": "A short par putt slips away and the match is all square\n\nSend this to the guy in your foursome who thinks they can beat you at golf.\nGeorge Bryan just missed a ridiculously easy putt and is now back to square one, wondering why he even bothered competing.\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #golftips #golffail #golftournament",
