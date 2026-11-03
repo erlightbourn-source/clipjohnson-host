@@ -125,6 +125,68 @@
       "tiktok_sound": "TikTok sound: Lullaby of the Stars - Margo Tender at -20 dB"
     },
     {
+      "clip_id": "GfTxq2k9gAE_m301",
+      "title": "Flop shot over the bunker has the crowd begging",
+      "description": "Flop shot over the bunker has the crowd begging\n\nSend this to the guy in your foursome who thinks he can hit a 100-yard shot from the fairway.\nThe Big Wedge Golf guys are struggling to hit a simple shot, and their reactions are priceless.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #bunkershots #golftips",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 25,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Golfers banter for about 30s about channel rankings, then one hits a flop shot over a bunker. The crowd shouts 'go in' and 'what a shot', but the ball's final result isn't shown. | vision shot 52 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=GfTxq2k9gAE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/GfTxq2k9gAE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/GfTxq2k9gAE_m301.mp4",
+      "tiktok_sound": "TikTok sound: Saltbone Riff - Gizmo Gadget Guy at -20 dB"
+    },
+    {
       "clip_id": "PmbN-QcpbR4_m301",
       "title": "Drops his ball marker in the cup, fishes it out with a magnet",
       "description": "Drops his ball marker in the cup, fishes it out with a magnet\n\nSend this to the guy in your foursome who thinks he can outsmart a magnet.\nThe golfer's solution to a dropped ball marker is surprisingly effective, but will it pay off?\n\nMicah Morris \u2014 long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips",
@@ -681,6 +743,130 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lXBJ8LEpP4c_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lXBJ8LEpP4c_m301.mp4",
       "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
+      "clip_id": "mmUg6nPSnY8_m301",
+      "title": "Lux's seven iron takes a huge divot, then he needs a new one",
+      "description": "Lux's seven iron takes a huge divot, then he needs a new one\n\nSend this to the guy in your foursome who thinks they can fix your swing with a magic 7 iron.\nThe golfer's hilarious reaction to hitting the ball so far behind the ball that his playing partner had to play from the next hole.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #golfingdisasters #golfhumor",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 17,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Golfers on a course; a bad tee shot, then Lux's seven iron takes a big divot well behind the ball. Banter about the audience, then in a cart he says he needs a new seven iron. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=mmUg6nPSnY8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mmUg6nPSnY8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mmUg6nPSnY8_m301.mp4",
+      "tiktok_sound": "TikTok sound: Quick Slice - Muspace Lofi at -20 dB"
+    },
+    {
+      "clip_id": "myOa8ZxUgQA_m301",
+      "title": "Punched 5-iron out of the trees, then the group reacts",
+      "description": "Punched 5-iron out of the trees, then the group reacts\n\nSend this to the guy in your foursome who thinks he can hit a wedge tee flip with ease.\nThe guys are having trouble with a wedge tee flip, but one of them pulls off an unbelievable shot.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #wedgeteeflip #golftips",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 24,
+      "grade": 84,
+      "note": "DeepMine v3 shot: Teams hit recovery shots from the trees on a course. Banter follows, then a low punched shot gets on the green and the group praises it and talks about the back-of-stance technique. | vision shot 58 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=myOa8ZxUgQA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/myOa8ZxUgQA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/myOa8ZxUgQA_m301.mp4",
+      "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
     },
     {
       "clip_id": "pEKwGS0o4VA_m301",
