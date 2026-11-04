@@ -1,6 +1,68 @@
 {
   "clips": [
     {
+      "clip_id": "2WagJ3Q81eY_m301",
+      "title": "Birdie putt dies on the lip, then he drops flat on the green",
+      "description": "Birdie putt dies on the lip, then he drops flat on the green\n\nSend this to the guy in your foursome who thinks he's a pro golfer but can't even hit a decent wedge.\nMatt's hilarious reaction to a course record-breaking big wedge shot\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #bigwedge #courserecord",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 87,
+      "note": "DeepMine v3 funny: A golfer putts for birdie and the ball stops at the lip. A player lies on the green holding his head. The group laughs and talks about 'silence so silent'. | vision shot 42 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=2WagJ3Q81eY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2WagJ3Q81eY_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/2WagJ3Q81eY_m301.mp4",
+      "tiktok_sound": "TikTok sound: Volcanic Thrust - Tugboat Annie at -20 dB"
+    },
+    {
       "clip_id": "7seYrO0KyW0_m301",
       "title": "Josh's bunker shot hits the pin, then the group erupts",
       "description": "Josh's bunker shot hits the pin, then the group erupts\n\nSend this to the guy in your foursome who thinks he can beat Josh in a wedge challenge.\nJosh hits a shot that goes into the sand, but somehow still makes it in, and the commentators are left speechless.\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #wedgechallenge #golftv",
@@ -185,6 +247,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/GfTxq2k9gAE_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/GfTxq2k9gAE_m301.mp4",
       "tiktok_sound": "TikTok sound: Saltbone Riff - Gizmo Gadget Guy at -20 dB"
+    },
+    {
+      "clip_id": "OXYxMuR6VqU_m301",
+      "title": "Sure they're on the green, then both balls sit just off",
+      "description": "Sure they're on the green, then both balls sit just off\n\nSend this to the guy in your foursome who thinks he's a pro after watching me struggle on the course.\nThe boys are back in town, but can they recover from this brutal game?\n\nBig Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #golftips #golfstruggles",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf \u2014 UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 31,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfers in a cart think they're on the green, find the ball just off, then a second shot also misses. They groan and argue that it should count. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=OXYxMuR6VqU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/OXYxMuR6VqU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/OXYxMuR6VqU_m301.mp4",
+      "tiktok_sound": "TikTok sound: Late Night Loops - Chuckles the Band at -20 dB"
     },
     {
       "clip_id": "PmbN-QcpbR4_m301",
