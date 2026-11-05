@@ -1,3 +1,66 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "BfoEmBESu_M_m301",
+      "title": "Back-foot 8-iron through the trees nearly holes out",
+      "description": "Back-foot 8-iron through the trees nearly holes out\n\nSend this to the guy in your foursome who needs to see this 8-iron trick.\nPeter Finch Golf takes on the US Open Qualifying Course and tries to back foot an 8-iron through a tiny gap to get up and down, but will he pull it off?\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #usopenqualifying #golfclips",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 17,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a back-foot 8-iron through a gap in the trees, curving it toward the pin. He and a partner call it the greatest shot ever, then say it almost went in. | vision shot 74 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=BfoEmBESu_M",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BfoEmBESu_M_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BfoEmBESu_M_m301.mp4",
+      "tiktok_sound": "TikTok sound: Ashes of the Throne - Echo of Verses at -20 dB"
+    }
+  ]
 }
