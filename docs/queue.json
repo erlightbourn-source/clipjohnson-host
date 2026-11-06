@@ -63,6 +63,68 @@
       "tiktok_sound": "TikTok sound: Ashes of the Throne - Echo of Verses at -20 dB"
     },
     {
+      "clip_id": "mNTRHD3hy0A_m301",
+      "title": "Pete's approach tracks at the pin, tap-in birdie look",
+      "description": "Pete's approach tracks at the pin, tap-in birdie look\n\nSend this to the guy in your foursome who thinks he's got a shot at beating you.\nThe Head Pro thought he was getting away with a 10-yard bounce, but this shot is a masterclass in manipulation.\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golfbetting #golffail #golflie",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 16,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Pete hits an approach shot that tracks toward the green. Overhead shows the ball landing near the hole. Spectators and the pro say 'Get in' and 'Oh, shot', and later praise the flight. | vision shot 62 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=mNTRHD3hy0A",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mNTRHD3hy0A_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/mNTRHD3hy0A_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sunrise - Official Sound Studio at -20 dB"
+    },
+    {
       "clip_id": "pga_20261105_01",
       "title": "WORLD WIDE TECHNOLOGY CHAMPIONSHIP \u2014 ROUND 1",
       "description": "World Wide Technology Championship \u2014 leaderboard. #golf #PGATour #clipjohnson",
