@@ -63,6 +63,68 @@
       "tiktok_sound": "TikTok sound: Ashes of the Throne - Echo of Verses at -20 dB"
     },
     {
+      "clip_id": "VLCvmZMqhZE_m301",
+      "title": "Alexis's heavy rough chip trickles for birdie",
+      "description": "Alexis's heavy rough chip trickles for birdie\n\nSend this to the guy in your foursome who thinks he's a chip master.\nAlexis just trickled a chip into the rough and it's still going in.\n\nGood Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golfchips #golffail #golftour",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew \u2014 pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 15,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Alexis chips from heavy rough on a floodlit green. The commentator says it trickles and drips in. Aerial views and replays follow, but the ball dropping is never clearly shown. | vision shot 66 funny 8",
+      "source_url": "https://www.youtube.com/watch?v=VLCvmZMqhZE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/VLCvmZMqhZE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/VLCvmZMqhZE_m301.mp4",
+      "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
+    },
+    {
       "clip_id": "mNTRHD3hy0A_m301",
       "title": "Pete's approach tracks at the pin, tap-in birdie look",
       "description": "Pete's approach tracks at the pin, tap-in birdie look\n\nSend this to the guy in your foursome who thinks he's got a shot at beating you.\nThe Head Pro thought he was getting away with a 10-yard bounce, but this shot is a masterclass in manipulation.\n\nPeter Finch Golf \u2014 UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golfbetting #golffail #golflie",
