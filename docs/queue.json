@@ -1,3 +1,128 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "aiNaStcQ-FI_m301",
+      "title": "Half wedge to a two-foot circle at Blue Mound",
+      "description": "Half wedge to a two-foot circle at Blue Mound\n\nSend this to the guy in your foursome who thinks he can chip like Victor Hovland.\nJoe Mayo just hit a ridiculous chip in and made a birdie on a treacherous left-side pin, leaving the host speechless.\n\nNo Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golftips",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "signal": "deep_mine",
+      "duration": 53,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A player chips toward a pin and the ball stops near the hole. The group celebrates and talks about it, a player bends over the hole, and there is a later putt. | vision shot 68 funny 38",
+      "source_url": "https://www.youtube.com/watch?v=aiNaStcQ-FI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aiNaStcQ-FI_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/aiNaStcQ-FI_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sands of Eternity - Juniper Wells at -20 dB"
+    },
+    {
+      "clip_id": "chof94Sg_GA_m301",
+      "title": "Putt dies short of the hole, teammates blame each other",
+      "description": "Putt dies short of the hole, teammates blame each other\n\nThis one's for the guy who thinks he's a pro and needs to see his 86 with a wedge.\nDJ's team chemistry just imploded after a disastrous shot, but is it all his fault?\n\nNo Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #teamchemistry #golfdrama",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Team-format golf: a chip from a rough bank, a putt that stops short of the hole, and teammates bickering about blame. The last frame is a beach interview. | vision shot 40 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=chof94Sg_GA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/chof94Sg_GA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/chof94Sg_GA_m301.mp4",
+      "tiktok_sound": "TikTok sound: The Curious Caper - Jules Rivers at -20 dB"
+    }
+  ]
 }
