@@ -3,9 +3,9 @@
     {
       "clip_id": "aiNaStcQ-FI_m301",
       "title": "Half wedge to a two-foot circle at Blue Mound",
-      "description": "Half wedge to a two-foot circle at Blue Mound\n\nSend this to the guy in your foursome who thinks he can chip like Victor Hovland.\nJoe Mayo just hit a ridiculous chip in and made a birdie on a treacherous left-side pin, leaving the host speechless.\n\nNo Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golftips",
+      "description": "Half wedge to a two-foot circle at Blue Mound\n\nSend this to the guy in your foursome who thinks he can chip like Victor Hovland.\nJoe Mayo just hit a ridiculous chip in and made a birdie on a treacherous left-side pin, leaving the host speechless.\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golftips",
       "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "blurb": "No Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
       "signal": "deep_mine",
       "duration": 53,
       "grade": 92,
@@ -65,9 +65,9 @@
     {
       "clip_id": "chof94Sg_GA_m301",
       "title": "Putt dies short of the hole, teammates blame each other",
-      "description": "Putt dies short of the hole, teammates blame each other\n\nThis one's for the guy who thinks he's a pro and needs to see his 86 with a wedge.\nDJ's team chemistry just imploded after a disastrous shot, but is it all his fault?\n\nNo Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #teamchemistry #golfdrama",
+      "description": "Putt dies short of the hole, teammates blame each other\n\nThis one's for the guy who thinks he's a pro and needs to see his 86 with a wedge.\nDJ's team chemistry just imploded after a disastrous shot, but is it all his fault?\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #teamchemistry #golfdrama",
       "creator": "No Laying Up",
-      "blurb": "No Laying Up \u2014 the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "blurb": "No Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
       "signal": "deep_mine",
       "duration": 59,
       "grade": 85,
@@ -123,6 +123,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/chof94Sg_GA_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/chof94Sg_GA_m301.mp4",
       "tiktok_sound": "TikTok sound: The Curious Caper - Jules Rivers at -20 dB"
+    },
+    {
+      "clip_id": "v1PcZbxl6mU_m301",
+      "title": "Scramble team drains the birdie putt, then erupts",
+      "description": "Scramble team drains the birdie putt, then erupts\n\nYour buddy who thinks he's got game needs to see this.\nThe golfer just sunk a birdie putt and is celebrating with a hilarious rant about haters and believers.\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golftips #golffail #golfhumor",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "signal": "deep_mine",
+      "duration": 49,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfers banter on a coastal course, a player putts at about 37\u201340s, and the group celebrates a team scramble birdie. Audio has trash talk and 'Great birdie boys'. | vision shot 52 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=v1PcZbxl6mU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/v1PcZbxl6mU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/v1PcZbxl6mU_m301.mp4",
+      "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed at -20 dB"
     }
   ]
 }
