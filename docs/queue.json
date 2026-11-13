@@ -125,6 +125,130 @@
       "tiktok_sound": "TikTok sound: The Curious Caper - Jules Rivers at -20 dB"
     },
     {
+      "clip_id": "pga_20261112_01",
+      "title": "AUSTIN CHAMPIONSHIP PRES. BY COMPLIANCE SOLUTIONS \u2014 ROUND 1",
+      "description": "Austin Championship pres. by Compliance Solutions leaderboard. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261112_01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261112_01.mp4",
+      "tiktok_sound": "TikTok sound: Static Eclipse - Treadlighter"
+    },
+    {
+      "clip_id": "pga_20261112_02",
+      "title": "TRACE CROWE",
+      "description": "Trace Crowe leads the Austin Championship pres. by Compliance Solutions round 1 in progress. #golf #PGATour",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261112_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261112_02.mp4",
+      "tiktok_sound": "TikTok sound: Eternal Rise - Gutter Tulips"
+    },
+    {
       "clip_id": "v1PcZbxl6mU_m301",
       "title": "Scramble team drains the birdie putt, then erupts",
       "description": "Scramble team drains the birdie putt, then erupts\n\nYour buddy who thinks he's got game needs to see this.\nThe golfer just sunk a birdie putt and is celebrating with a hilarious rant about haters and believers.\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golftips #golffail #golfhumor",
