@@ -1,6 +1,68 @@
 {
   "clips": [
     {
+      "clip_id": "IeljGByKMDc_m301",
+      "title": "Kisner's ball dies an inch short of a tap-in, club toss",
+      "description": "Kisner's ball dies an inch short of a tap-in, club toss\n\nSend this to the guy in your foursome who thinks he can spin bunker shots like a pro.\nKevin Kisner just witnessed the worst bunker shot of his life - can you believe he left it sitting there?\n\nFore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #bunkerfail #golftips #kevinkisner #golfshorts",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.",
+      "signal": "deep_mine",
+      "duration": 36,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Kisner talks bunker spin in a cart, then reacts to a bounce that left his ball an inch short of a tap-in; he complains and tosses a club. | vision shot 35 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=IeljGByKMDc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/IeljGByKMDc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Whispers of a Distant Horizon - Sam the Scribe at -20 dB"
+    },
+    {
       "clip_id": "aiNaStcQ-FI_m301",
       "title": "Half wedge to a two-foot circle at Blue Mound",
       "description": "Half wedge to a two-foot circle at Blue Mound\n\nSend this to the guy in your foursome who thinks he can chip like Victor Hovland.\nJoe Mayo just hit a ridiculous chip in and made a birdie on a treacherous left-side pin, leaving the host speechless.\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golffail #golftips",
