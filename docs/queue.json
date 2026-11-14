@@ -1,6 +1,192 @@
 {
   "clips": [
     {
+      "clip_id": "RiH-Qdfg7V4_m301",
+      "title": "Bryson sinks a par 5 eagle, then mocks his own fist pump",
+      "description": "Bryson sinks a par 5 eagle, then mocks his own fist pump\n\nSend this to the guy in your foursome who thinks they can beat Bryson's record.\nBryson DeChambeau just made a course record eagle putt, but his celebration is a mess - what's the worst celebration in golf history?\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golfrecord #brysondechambeau #celebrationfail",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Bryson hits a 9-iron approach, then putts for eagle on a par 5. He pumps his fist, walks off, and jokes that it was the worst celebration. | vision shot 72 funny 38",
+      "source_url": "https://www.youtube.com/watch?v=RiH-Qdfg7V4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/RiH-Qdfg7V4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/RiH-Qdfg7V4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
+    },
+    {
+      "clip_id": "ZdrX1NXQ4zI_m301",
+      "title": "Joey's last-hole eagle after a rough day, then dry banter",
+      "description": "Joey's last-hole eagle after a rough day, then dry banter\n\nSend this to the guy in your foursome who thinks he can beat Bob.\nBob Does Sports is on a hot streak, but can he break 50? Joe's got a bet on it.\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golfsports #golfjokes",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 51,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Golfer putts on the green, an 'EAGLE' graphic appears, and players celebrate and hug with a scoreboard. Commentary praises the eagle and the group trades dry banter. | vision shot 80 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=ZdrX1NXQ4zI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdrX1NXQ4zI_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdrX1NXQ4zI_m301.mp4",
+      "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
+    },
+    {
+      "clip_id": "pTfcCM8rcgY_m301",
+      "title": "Bryson begs his 9-iron to go in, then it spins into the water",
+      "description": "Bryson begs his 9-iron to go in, then it spins into the water\n\nShow this to the friend who thinks 170 is a great distance to the pin.\nGrant Horvat hits a beautiful strike right at the pin, but doesn't realize the hole is 170 yards away and the pin is 170 yards away from the hole, and it spins back into the water.\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #shorts #golffail #penalty #golftips",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 43,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Bryson hits a 9-iron at a pin over water, begs it to go in, it comes up short and lands in the water. He and Chase react with disbelief. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=pTfcCM8rcgY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pTfcCM8rcgY_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pTfcCM8rcgY_m301.mp4",
+      "tiktok_sound": "TikTok sound: G.O.A.T. MODE - Jett Summers at -20 dB"
+    },
+    {
       "clip_id": "pga_20261113_01",
       "title": "AUSTIN CHAMPIONSHIP PRES. BY COMPLIANCE SOLUTIONS \u2014 ROUND 2",
       "description": "Austin Championship pres. by Compliance Solutions leaderboard. #golf #PGATour #clipjohnson",
