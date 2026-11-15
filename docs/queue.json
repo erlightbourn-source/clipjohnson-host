@@ -1,6 +1,130 @@
 {
   "clips": [
     {
+      "clip_id": "02Hs1mk34Cs_m301",
+      "title": "Told not to be a hero, Brad's lob wedge splashes into the water",
+      "description": "Told not to be a hero, Brad's lob wedge splashes into the water\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #golftips #golffail #golflol #golfingfail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Brad ignores 'don't be a hero' advice and plays a lob wedge from a gully. The ball splashes into the water, and his friends react: 'This is a collapse.' | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=02Hs1mk34Cs",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/02Hs1mk34Cs_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/02Hs1mk34Cs_m301.mp4",
+      "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
+    },
+    {
+      "clip_id": "0bNfc9oMcco_m301",
+      "title": "Randy's smooth 8-iron has them yelling 'in the hole'",
+      "description": "Randy's smooth 8-iron has them yelling 'in the hole'\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golfchallenges #golffail #tflipdisaster",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 27,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Randy hits a smooth 8 iron to a par 3. The ball lands on the green and the group praises it. Harry says it puts pressure on him and plans his own shot. | vision shot 62 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=0bNfc9oMcco",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0bNfc9oMcco_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/0bNfc9oMcco_m301.mp4",
+      "tiktok_sound": "TikTok sound: Future - Official Sound Studio at -20 dB"
+    },
+    {
       "clip_id": "RiH-Qdfg7V4_m301",
       "title": "Bryson sinks a par 5 eagle, then mocks his own fist pump",
       "description": "Bryson sinks a par 5 eagle, then mocks his own fist pump\n\nSend this to the guy in your foursome who thinks they can beat Bryson's record.\nBryson DeChambeau just made a course record eagle putt, but his celebration is a mess - what's the worst celebration in golf history?\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#golf #shorts #golfrecord #brysondechambeau #celebrationfail",
@@ -123,6 +247,192 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdrX1NXQ4zI_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZdrX1NXQ4zI_m301.mp4",
       "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
+    },
+    {
+      "clip_id": "bn785yHK9mg_m301",
+      "title": "His trousers drop mid-hole, no belt, the group loses it",
+      "description": "His trousers drop mid-hole, no belt, the group loses it\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #pantsdown #beltless",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 29,
+      "grade": 85,
+      "note": "DeepMine v3 funny: A golfer on a course has his trousers fall down mid-hole, saying he has no belt. The others joke about 'two singles at your bum'. It ends with a golden-ball aside. | vision shot 25 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=bn785yHK9mg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bn785yHK9mg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/bn785yHK9mg_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sunrise - Official Sound Studio at -20 dB"
+    },
+    {
+      "clip_id": "dqNY8OqFV-8_m301",
+      "title": "He promised the short putt was going in. It wasn't",
+      "description": "He promised the short putt was going in. It wasn't\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #putting #golfmatch",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 34,
+      "grade": 83,
+      "note": "DeepMine v3 funny: A golfer promises a confident tap-in, then the putt lipped out and rolled long. The group waits, argues the hole, then jokes about how bad they putt. | vision shot 35 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=dqNY8OqFV-8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/dqNY8OqFV-8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/dqNY8OqFV-8_m301.mp4",
+      "tiktok_sound": "TikTok sound: Lullaby of the Stars - Margo Tender at -20 dB"
+    },
+    {
+      "clip_id": "oq201b6eM7k_m301",
+      "title": "A low stinger finds the green, then Wesley's chunk hook finds a tree",
+      "description": "A low stinger finds the green, then Wesley's chunk hook finds a tree\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golfcourse #golftips",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 51,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Grant hits a low stinger that lands near the pin. Wesley then hits and the ball chunk-hooks into a tree. Grant laughs and talks about the next shot. | vision shot 50 funny 42",
+      "source_url": "https://www.youtube.com/watch?v=oq201b6eM7k",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oq201b6eM7k_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oq201b6eM7k_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sands of Eternity - Juniper Wells at -20 dB"
     },
     {
       "clip_id": "pTfcCM8rcgY_m301",
@@ -309,6 +619,130 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261114_02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261114_02.mp4",
       "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast"
+    },
+    {
+      "clip_id": "t6Eb_Sy6V2U_m302",
+      "title": "Blindfolded Grant's wedge almost drops",
+      "description": "Blindfolded Grant's wedge almost drops\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #blindfolded #golfhumor",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 61,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Blindfolded Grant's approach on a par 3 nearly drops. Pink-shirted golfer and friends react, saying it looked like it was going in. Final result is never shown. | vision shot 45 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=t6Eb_Sy6V2U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t6Eb_Sy6V2U_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t6Eb_Sy6V2U_m302.mp4",
+      "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
+      "clip_id": "t6Eb_Sy6V2U_m301",
+      "title": "Ball above his feet, into the pond, now Robby's putting for seven",
+      "description": "Ball above his feet, into the pond, now Robby's putting for seven\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #blindfolded #golffail #bobdoesports #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 56,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Blindfolded Bob keeps hitting from a bad lie beside a pond and puts several balls in the water. The cart commentary counts strokes: 'putting for seven'. | vision shot 38 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=t6Eb_Sy6V2U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t6Eb_Sy6V2U_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t6Eb_Sy6V2U_m301.mp4",
+      "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed at -20 dB"
     }
   ]
 }
