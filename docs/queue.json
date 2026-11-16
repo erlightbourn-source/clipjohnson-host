@@ -1,3 +1,376 @@
 {
-  "clips": []
+  "clips": [
+    {
+      "clip_id": "5_iN0VUUeLY_m301",
+      "title": "Justin Rose sinks a putt for 29, then they want to quit",
+      "description": "Justin Rose sinks a putt for 29, then they want to quit\n\nSend this to the guy in your foursome who thinks they can beat Justin Rose.\nGrant just shot a 30, but Justin Rose just shot a 29 - is this the end of his chances?\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #golftips #golfingfail",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Grant putts, Rose reads and hits a putt for 29 on the front nine; the ball is never shown going in. Both celebrate and joke about stopping. | vision shot 55 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=5_iN0VUUeLY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/5_iN0VUUeLY_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/5_iN0VUUeLY_m301.mp4",
+      "tiktok_sound": "TikTok sound: Glow Halo Highway - Tread Lightly at -20 dB"
+    },
+    {
+      "clip_id": "5_iN0VUUeLY_m302",
+      "title": "Justin Rose's bunker shot jumps out 15 yards long into the water",
+      "description": "Justin Rose's bunker shot jumps out 15 yards long into the water\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #golffail #sandshot #granthorvat",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 52,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Grant's bunker shot flies long into the water; Justin Rose and Grant then laugh in the cart, explaining it jumped out of the sand 15 yards long. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=5_iN0VUUeLY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/5_iN0VUUeLY_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/5_iN0VUUeLY_m302.mp4",
+      "tiktok_sound": "TikTok sound: seven deadly sins - DJ BAI at -20 dB"
+    },
+    {
+      "clip_id": "BH3X-llq1M4_m301",
+      "title": "Grant's hand slips off the club, ball still lands near a tucked pin",
+      "description": "Grant's hand slips off the club, ball still lands near a tucked pin\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #strokeplay #golffail #golfclips",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 43,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Grant hits a tee shot toward a tucked pin. The ball's landing and final position are never shown, only players walking. Banter follows about slipping hands and 'a Scotty'. | vision shot 48 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=BH3X-llq1M4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BH3X-llq1M4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/BH3X-llq1M4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
+    },
+    {
+      "clip_id": "J63ChxBN4ac_m301",
+      "title": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole",
+      "description": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #wedged #joke",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Jack is heckled while lining up a pressure putt to win the hole. He misses, the opposing team erupts, and Jack looks stunned while players argue. | vision shot 40 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=J63ChxBN4ac",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/J63ChxBN4ac_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/J63ChxBN4ac_m301.mp4",
+      "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
+    },
+    {
+      "clip_id": "NuO0qfgBCjk_m301",
+      "title": "Bryson's 6-iron clips a leaf, then he blames the leaves",
+      "description": "Bryson's 6-iron clips a leaf, then he blames the leaves\n\nShow this to the friend who thinks they can beat him at golf.\nBryson DeChambeau claims a hole-in-one, but his excuse for missing the ball is laughable.\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golffailstory #golffailvideo",
+      "creator": "Bryson DeChambeau",
+      "blurb": "Bryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.",
+      "signal": "deep_mine",
+      "duration": 48,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Bryson hits a 6-iron at a par 3 and the camera tracks the shot. Commentary says it hit a leaf, then a joking 'hole in one' story and blaming the leaves. | vision shot 45 funny 52",
+      "source_url": "https://www.youtube.com/watch?v=NuO0qfgBCjk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/NuO0qfgBCjk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/NuO0qfgBCjk_m301.mp4",
+      "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
+    },
+    {
+      "clip_id": "iZVlO7cE0nk_m301",
+      "title": "George stuffs a pitching wedge when birdie would be massive",
+      "description": "George stuffs a pitching wedge when birdie would be massive\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #altshot #pitchwedge #golffail",
+      "creator": "Grant Horvat Golf",
+      "blurb": "Grant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.",
+      "signal": "deep_mine",
+      "duration": 34,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfers in a cart banter, George hits a pitching wedge and teammates praise it ('What a shot'), then a different team discusses a bunker shot and lines up a putt. | vision shot 52 funny 30",
+      "source_url": "https://www.youtube.com/watch?v=iZVlO7cE0nk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iZVlO7cE0nk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iZVlO7cE0nk_m301.mp4",
+      "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast at -20 dB"
+    }
+  ]
 }
