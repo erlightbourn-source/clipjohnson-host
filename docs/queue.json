@@ -187,6 +187,68 @@
       "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
     },
     {
+      "clip_id": "CQY3iZ6R6AA_m301",
+      "title": "Cart runs over his rival's muddy ball, then the drop argument",
+      "description": "Cart runs over his rival's muddy ball, then the drop argument\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 46,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Wesley admits his cart ran over George's muddy ball in the rough. George complains while dropping it, and they argue about the drop rules. | vision shot 25 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=CQY3iZ6R6AA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CQY3iZ6R6AA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/CQY3iZ6R6AA_m301.mp4",
+      "tiktok_sound": "TikTok sound: Melting Steel Serenade - Soda Soiree at -20 dB"
+    },
+    {
       "clip_id": "J63ChxBN4ac_m301",
       "title": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole",
       "description": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #wedged #joke",
@@ -247,6 +309,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/J63ChxBN4ac_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/J63ChxBN4ac_m301.mp4",
       "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
+    },
+    {
+      "clip_id": "Juawb7pie0Q_m301",
+      "title": "Putt from off the green stops touching his ball marker at St Andrews",
+      "description": "Putt from off the green stops touching his ball marker at St Andrews\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfcomedy #golffail #bryangolf",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 45,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfers at St Andrews; an approach ball finishes touching a ball marker on the green, commentators marvel and recall a similar poker-chip case, then banter. | vision shot 50 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=Juawb7pie0Q",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Juawb7pie0Q_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Juawb7pie0Q_m301.mp4",
+      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
     },
     {
       "clip_id": "NuO0qfgBCjk_m301",
@@ -311,6 +435,192 @@
       "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
     },
     {
+      "clip_id": "_AZ_uI1qnII_m301",
+      "title": "Josh drains a long uphill putt, then his mates erupt",
+      "description": "Josh drains a long uphill putt, then his mates erupt\n\nYour buddy who thinks they're a pro but can't even with a wedge needs to see this.\nJosh levered his wedge shot, and the golfer is furious about it.\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #golfchallenge #golfhumor",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 56,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Players banter about a gimme, then Josh's long uphill putt drops. The trailing team celebrates, then a player puts his hands on his head and covers his face. | vision shot 72 funny 58",
+      "source_url": "https://www.youtube.com/watch?v=_AZ_uI1qnII",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m301.mp4",
+      "tiktok_sound": "TikTok sound: Sands of Eternity - Juniper Wells at -20 dB"
+    },
+    {
+      "clip_id": "_AZ_uI1qnII_m302",
+      "title": "A slow-rolling chip on hole 4 stops close, crew erupts",
+      "description": "A slow-rolling chip on hole 4 stops close, crew erupts\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #bunkershot #golfchallenge",
+      "creator": "Big Wedge Golf",
+      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
+      "signal": "deep_mine",
+      "duration": 38,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer chips on a par 4; ball rolls slowly toward the hole and stops close, and partners cheer 'unbelievable'. Then banter about needing a bunker shot. | vision shot 55 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=_AZ_uI1qnII",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m302.mp4",
+      "tiktok_sound": "TikTok sound: Storm's Crest - Rhythm Pants at -20 dB"
+    },
+    {
+      "clip_id": "c-M43I-ctNI_m301",
+      "title": "George blames a loose driver, then his drive pops in and out of a bunker",
+      "description": "George blames a loose driver, then his drive pops in and out of a bunker\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bunkershot #torreypines",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 42,
+      "grade": 92,
+      "note": "DeepMine v3 funny: George blames a loose driver, hits a wayward drive that clatters off cart path and pops in and out of a bunker; banter follows, then Grant hits a drive. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=c-M43I-ctNI",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
+      "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
       "clip_id": "iZVlO7cE0nk_m301",
       "title": "George stuffs a pitching wedge when birdie would be massive",
       "description": "George stuffs a pitching wedge when birdie would be massive\n\nGrant Horvat Golf, pro-level matches and challenges against tour players and creators from one of YouTube golf's biggest names.\n\nClip from \u201cGrant Horvat Golf\u201d \u25b6 Full video on their channel.\n\n#granthorvatgolf #golf #shorts #altshot #pitchwedge #golffail",
@@ -371,6 +681,130 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iZVlO7cE0nk_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iZVlO7cE0nk_m301.mp4",
       "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast at -20 dB"
+    },
+    {
+      "clip_id": "j2h3HVFWzmM_m301",
+      "title": "Six iron from 195 yards clips a limb and still finds the green",
+      "description": "Six iron from 195 yards clips a limb and still finds the green\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #bryanbros #golfingfail",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 46,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a six iron from 195 yards through tree limbs. The ball is seen in the air, then the green is shown, and the commentary calls it a great shot. Landing and result aren't clearly shown. | vision shot 62 funny 28",
+      "source_url": "https://www.youtube.com/watch?v=j2h3HVFWzmM",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/j2h3HVFWzmM_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/j2h3HVFWzmM_m301.mp4",
+      "tiktok_sound": "TikTok sound: Comedy Corridor - Finley Reed at -20 dB"
+    },
+    {
+      "clip_id": "j2h3HVFWzmM_m302",
+      "title": "Full flop for the win stops inches short, rival plans a silent drive home",
+      "description": "Full flop for the win stops inches short, rival plans a silent drive home\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfhumor #golfcomedy",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 56,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer chips a full flop toward the pin. The ball stops near the hole without dropping. The players then joke about sulking and driving home with the AC off. | vision shot 50 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=j2h3HVFWzmM",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/j2h3HVFWzmM_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/j2h3HVFWzmM_m302.mp4",
+      "tiktok_sound": "TikTok sound: Glow Halo Highway - Tread Lightly at -20 dB"
     },
     {
       "clip_id": "pga_20261116_01",
@@ -495,6 +929,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "tiktok_sound": "TikTok sound: Future - Official Sound Studio"
+    },
+    {
+      "clip_id": "uza2KtmxZ9g_m301",
+      "title": "After a 330-yard drive, Mason splashes out of a short-sided bunker",
+      "description": "After a 330-yard drive, Mason splashes out of a short-sided bunker\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfcomedy #golffail #golftips",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 49,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Players talk while walking the fairway, then Mason hits a bunker shot onto the green. The ball lands near the hole, and the others call it unbelievable. | vision shot 58 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=uza2KtmxZ9g",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
+      "tiktok_sound": "TikTok sound: seven deadly sins - DJ BAI at -20 dB"
     }
   ]
 }
