@@ -373,6 +373,130 @@
       "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
     },
     {
+      "clip_id": "LTK2_T67CNU_m301",
+      "title": "Whiffs a putt so badly he takes a divot with his putter",
+      "description": "Whiffs a putt so badly he takes a divot with his putter\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #strokeplay #golffail #majormeltdown #golfcomedy",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 46,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Golfer whiffs a putt, takes a divot with his putter, then spirals toward a snowman on the green; he collapses on the ground and the group reacts. | vision shot 35 funny 66",
+      "source_url": "https://www.youtube.com/watch?v=LTK2_T67CNU",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/LTK2_T67CNU_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/LTK2_T67CNU_m301.mp4",
+      "tiktok_sound": "TikTok sound: Ashes of the Throne - Echo of Verses at -20 dB"
+    },
+    {
+      "clip_id": "Lk9qJdT0hS4_m301",
+      "title": "Micah's eagle putt on 18 stops inches short",
+      "description": "Micah's eagle putt on 18 stops inches short\n\nThis one's for the guy who thinks they can take down a pro.\nDane's incredible 18-hole match against Mississippi State's top golfer ends with a crushing stop short, leaving Micah stunned.\n\nMicah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golfchallenge #golfpro",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 56,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Micah's long eagle putt on 18 for the win creeps up and stops inches short; he's stunned and says 'That can't stop short'. Dane then taps in for the finish. | vision shot 62 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=Lk9qJdT0hS4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Lk9qJdT0hS4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Lk9qJdT0hS4_m301.mp4",
+      "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
+    },
+    {
       "clip_id": "NuO0qfgBCjk_m301",
       "title": "Bryson's 6-iron clips a leaf, then he blames the leaves",
       "description": "Bryson's 6-iron clips a leaf, then he blames the leaves\n\nShow this to the friend who thinks they can beat him at golf.\nBryson DeChambeau claims a hole-in-one, but his excuse for missing the ball is laughable.\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golffailstory #golffailvideo",
@@ -619,6 +743,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
       "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
+      "clip_id": "glmdnN0WNz0_m301",
+      "title": "Reads the putt with his feet, drains it, pot hits $8,000",
+      "description": "Reads the putt with his feet, drains it, pot hits $8,000\n\nRick Shiels just made a ridiculous 2K putt and is high-fiving his partner.\n\nRick Shiels Golf, UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golfhumor",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf, UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 87,
+      "note": "DeepMine v3 shot: Two golfers read a putt on the green, then one rolls it in. Commentators shout 'He's done it!', players celebrate, and the prize pot goes up to $8,000. | vision shot 62 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=glmdnN0WNz0",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/glmdnN0WNz0_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/glmdnN0WNz0_m301.mp4",
+      "tiktok_sound": "TikTok sound: Melting Steel Serenade - Soda Soiree at -20 dB"
     },
     {
       "clip_id": "iZVlO7cE0nk_m301",
@@ -929,6 +1115,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "tiktok_sound": "TikTok sound: Future - Official Sound Studio"
+    },
+    {
+      "clip_id": "t7glkbUGdTw_m301",
+      "title": "Fringe putt hangs on the cup edge, then lips out",
+      "description": "Fringe putt hangs on the cup edge, then lips out\n\nMicah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips #golfswing",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a long wedge, then a chip from the fringe. The ball hangs on the cup edge and lips out. Both react with 'How did that miss?' | vision shot 55 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=t7glkbUGdTw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
     },
     {
       "clip_id": "uza2KtmxZ9g_m301",
