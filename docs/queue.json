@@ -745,6 +745,68 @@
       "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
     },
     {
+      "clip_id": "fqZug25fa1U_m301",
+      "title": "\"I'm a great bunker player,\" then it takes him two swings to get out",
+      "description": "\"I'm a great bunker player,\" then it takes him two swings to get out\n\nPeter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #bunkerfail #golfhumor #usopen",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfer in a bunker says he's a great bunker player, then fails to get out twice, with sand flying and ball left in. He apologizes to his caddie for the mess. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=fqZug25fa1U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fqZug25fa1U_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/fqZug25fa1U_m301.mp4",
+      "tiktok_sound": "TikTok sound: Frozen Pulse - Dance Trance Kid at -20 dB"
+    },
+    {
       "clip_id": "glmdnN0WNz0_m301",
       "title": "Reads the putt with his feet, drains it, pot hits $8,000",
       "description": "Reads the putt with his feet, drains it, pot hits $8,000\n\nRick Shiels just made a ridiculous 2K putt and is high-fiving his partner.\n\nRick Shiels Golf, UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golffail #rickshiels #golfhumor",
