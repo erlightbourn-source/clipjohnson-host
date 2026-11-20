@@ -559,68 +559,6 @@
       "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
     },
     {
-      "clip_id": "_AZ_uI1qnII_m301",
-      "title": "Josh drains a long uphill putt, then his mates erupt",
-      "description": "Josh drains a long uphill putt, then his mates erupt\n\nYour buddy who thinks they're a pro but can't even with a wedge needs to see this.\nJosh levered his wedge shot, and the golfer is furious about it.\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #golfchallenge #golfhumor",
-      "creator": "Big Wedge Golf",
-      "blurb": "Big Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.",
-      "signal": "deep_mine",
-      "duration": 56,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Players banter about a gimme, then Josh's long uphill putt drops. The trailing team celebrates, then a player puts his hands on his head and covers his face. | vision shot 72 funny 58",
-      "source_url": "https://www.youtube.com/watch?v=_AZ_uI1qnII",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/_AZ_uI1qnII_m301.mp4",
-      "tiktok_sound": "TikTok sound: Sands of Eternity - Juniper Wells at -20 dB"
-    },
-    {
       "clip_id": "_AZ_uI1qnII_m302",
       "title": "A slow-rolling chip on hole 4 stops close, crew erupts",
       "description": "A slow-rolling chip on hole 4 stops close, crew erupts\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #bunkershot #golfchallenge",
@@ -1177,6 +1115,130 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
       "tiktok_sound": "TikTok sound: Future - Official Sound Studio"
+    },
+    {
+      "clip_id": "pga_20261119_01",
+      "title": "THE RSM CLASSIC \u2014 AFTER ROUND 1",
+      "description": "The RSM Classic leaderboard. #golf #PGATour #clipjohnson",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261119_01.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261119_01.mp4",
+      "tiktok_sound": "TikTok sound: Keys to the City - Peculiar Pete"
+    },
+    {
+      "clip_id": "pga_20261119_02",
+      "title": "JESPER SVENSSON",
+      "description": "Jesper Svensson leads The RSM Classic after round 1. #golf #PGATour",
+      "creator": "",
+      "blurb": "",
+      "signal": null,
+      "duration": 0,
+      "grade": 0,
+      "note": null,
+      "source_url": "https://www.espn.com/golf/leaderboard",
+      "provenance": "unknown source",
+      "content_type": "pga_motion_card",
+      "type": "pga_motion_card",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "pga_motion_card",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 source recorded"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=pga_motion_card"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261119_02.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261119_02.mp4",
+      "tiktok_sound": "TikTok sound: Sacra Noctis - Mistake in Melody"
     },
     {
       "clip_id": "t7glkbUGdTw_m301",
