@@ -497,6 +497,68 @@
       "tiktok_sound": "TikTok sound: No Contact Before I Break - Owen Mercer at -20 dB"
     },
     {
+      "clip_id": "MkgtIPjQZRk_m301",
+      "title": "220-yard two-iron kicks off the rocks onto the green",
+      "description": "220-yard two-iron kicks off the rocks onto the green\n\nThis one's for the guy who thinks he's got game.\nPeter Finch Golf just made the impossible birdie on a rock in Ireland and I need to know: has anyone else ever done this?\n\nPeter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #rockgolf #birdiefromrock",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a two-iron over water at a coastal par 3. The ball is only seen as a distant marker on the green. Commentary says it kicked off the rocks and is on the green. | vision shot 62 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=MkgtIPjQZRk",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/MkgtIPjQZRk_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/MkgtIPjQZRk_m301.mp4",
+      "tiktok_sound": "TikTok sound: Di Di Di Drop - Leo the Lumberjack at -20 dB"
+    },
+    {
       "clip_id": "NuO0qfgBCjk_m301",
       "title": "Bryson's 6-iron clips a leaf, then he blames the leaves",
       "description": "Bryson's 6-iron clips a leaf, then he blames the leaves\n\nShow this to the friend who thinks they can beat him at golf.\nBryson DeChambeau claims a hole-in-one, but his excuse for missing the ball is laughable.\n\nBryson DeChambeau, major champion bringing his viral 'Break 50' challenges and big-swing experiments to YouTube.\n\nClip from \u201cBryson DeChambeau\u201d \u25b6 Full video on their channel.\n\n#brysondechambeau #golf #golftips #golffail #golffailstory #golffailvideo",
@@ -681,6 +743,130 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/c-M43I-ctNI_m301.mp4",
       "tiktok_sound": "TikTok sound: The Curious Caper - Heath Walker at -20 dB"
+    },
+    {
+      "clip_id": "eIKzL84l99U_m301",
+      "title": "Mason's junior driver breaks on the first swing",
+      "description": "Mason's junior driver breaks on the first swing\n\nThe host's friend swings hard and the ball breaks, prompting a series of hilarious excuses and reactions.\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golftips #golffail #golfing",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 60,
+      "grade": 93,
+      "note": "DeepMine v3 funny: Mason's junior-set driver tee shot goes into the trees. The group argues whether the club is broken, inspects the head up close, jokes, then hits more shots. | vision shot 30 funny 68",
+      "source_url": "https://www.youtube.com/watch?v=eIKzL84l99U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/eIKzL84l99U_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/eIKzL84l99U_m301.mp4",
+      "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
+    },
+    {
+      "clip_id": "eIKzL84l99U_m302",
+      "title": "Driver face caves in with a hole, then he swings anyway",
+      "description": "Driver face caves in with a hole, then he swings anyway\n\nYour buddy who thinks they can hit a concave face and get away with it needs to see this.\nHe just tried to hit a concave-faced driver and it's literally about to pop out - is he crazy?\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #concavemishap #driverdisaster",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 31,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Golfers inspect a caved-in driver face with a hole and cracks, laugh, then he hits a tee shot that slices right into trees. | vision shot 35 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=eIKzL84l99U",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/eIKzL84l99U_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/eIKzL84l99U_m302.mp4",
+      "tiktok_sound": "TikTok sound: Velvet Smoke Alley - Leo the Lumberjack at -20 dB"
     },
     {
       "clip_id": "fqZug25fa1U_m301",
