@@ -249,6 +249,68 @@
       "tiktok_sound": "TikTok sound: Melting Steel Serenade - Soda Soiree at -20 dB"
     },
     {
+      "clip_id": "DBLl4WqhKzg_m301",
+      "title": "Windy putt from off the green drops for birdie six",
+      "description": "Windy putt from off the green drops for birdie six\n\nThis one's for the guy who thinks they can do it better.\nPeter Finch Golf just sunk a tricky birdie putt from off the green with a lot of slope and wind, but was it really that impressive?\n\nPeter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #golftips #golfclips #golfsports #golffail",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 53,
+      "grade": 85,
+      "note": "DeepMine v3 shot: Golfer putts/chips from off the green in wind; ball never visibly seen dropping. He later celebrates, says 'birdie number six' and 'don't know how that went in'. | vision shot 62 funny 38",
+      "source_url": "https://www.youtube.com/watch?v=DBLl4WqhKzg",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DBLl4WqhKzg_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/DBLl4WqhKzg_m301.mp4",
+      "tiktok_sound": "TikTok sound: Cold Vein Push - Boneslinger at -20 dB"
+    },
+    {
       "clip_id": "J63ChxBN4ac_m301",
       "title": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole",
       "description": "Jack gets heckled over a pressure putt, misses, and the other team wins the hole\n\nBig Wedge Golf, UK comedy-golf channel known for challenge formats and on-course banter.\n\nClip from \u201cBig Wedge Golf\u201d \u25b6 Full video on their channel.\n\n#bigwedgegolf #golf #shorts #golffail #wedged #joke",
@@ -619,6 +681,136 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/NuO0qfgBCjk_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/NuO0qfgBCjk_m301.mp4",
       "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
+    },
+    {
+      "clip_id": "ZrxYPJaaTZA_m301",
+      "title": "South Africa dirt glove, then the drive finds the green",
+      "description": "South Africa dirt glove, then the drive finds the green\n\nBryson and his teammate just hit a shot that landed on the green, but the real question is, how did they even get that residue from South Africa on their glove?\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #bunkershot #golfchallenge",
+      "creator": "Garrett Clark Golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 93,
+      "note": "DeepMine v3 shot: Golfers tee off on a par 4 and joke about South African dirt on a glove. An opponent hits a drive, and the group celebrates when it's on the green. | vision shot 60 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=ZrxYPJaaTZA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZrxYPJaaTZA_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZrxYPJaaTZA_m301.mp4",
+      "tiktok_sound": "TikTok sound: seven deadly sins - DJ BAI at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'Garrett Clark Golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "ZrxYPJaaTZA_m302",
+      "title": "Bryson's partner chips in on the last hole, his second of the day",
+      "description": "Bryson's partner chips in on the last hole, his second of the day\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golfroast #golftips #golffail",
+      "creator": "Garrett Clark Golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 47,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Bryson and partner play a match hole. Another golfer chips, then Bryson celebrates with an arm raised and hugs his partner. Commentary says it's his second chip-in of the day. | vision shot 72 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=ZrxYPJaaTZA",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZrxYPJaaTZA_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ZrxYPJaaTZA_m302.mp4",
+      "tiktok_sound": "TikTok sound: Moss on Cedar - Lily Jane Doe at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'Garrett Clark Golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
     },
     {
       "clip_id": "_AZ_uI1qnII_m302",
@@ -1179,6 +1371,260 @@
       "tiktok_sound": "TikTok sound: Glow Halo Highway - Tread Lightly at -20 dB"
     },
     {
+      "clip_id": "lwff728Yh6c_m301",
+      "title": "9-iron from 178 flies the green, clubhouse in danger",
+      "description": "9-iron from 178 flies the green, clubhouse in danger\n\nYour buddy who thinks they can hit 180 yards with a wedge needs to see this.\nHe hits a 178-yard nine iron and thinks it's a flyer, but it actually breaks the hole\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #golftips #golfclips",
+      "creator": "Garrett Clark Golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 44,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Golfer hits a 9-iron from 178 and it flies the green toward the clubhouse. He and his partners joke about it and say he should have hit a wedge. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=lwff728Yh6c",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lwff728Yh6c_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/lwff728Yh6c_m301.mp4",
+      "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'Garrett Clark Golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
+      "clip_id": "m3V7yjRHSlc_m301",
+      "title": "Flubs two bunker shots, then gets roasted for it",
+      "description": "Flubs two bunker shots, then gets roasted for it\n\nBob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.\n\nClip from \u201cBob Does Sports\u201d \u25b6 Full video on their channel.\n\n#bobdoessports #golf #shorts #golffail #golftips #caddiefail",
+      "creator": "Bob Does Sports",
+      "blurb": "Bob Does Sports is the comedy-golf crew (Bobby, Fat Perez & co.) known for big-personality scrambles, trick shots and on-course antics.",
+      "signal": "deep_mine",
+      "duration": 42,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Golfers chat in a cart, then one flubs a bunker shot twice. Others mock him ('this guy stinks', 'it's his only job'). He ends with advice on how to hit it. | vision shot 25 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=m3V7yjRHSlc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/m3V7yjRHSlc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/m3V7yjRHSlc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Ashes of the Throne - Echo of Verses at -20 dB"
+    },
+    {
+      "clip_id": "oNGTYxlNCFc_m301",
+      "title": "Ryan Ruffles flushes an approach right at the flag",
+      "description": "Ryan Ruffles flushes an approach right at the flag\n\nPeter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #eagleputt #golftips",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 39,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer hits an approach with a shot tracer. Commentary calls it unbelievable and says 'ironclad eagle', but the ball's landing and the eagle are never shown. Ends in a cart. | vision shot 55 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=oNGTYxlNCFc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oNGTYxlNCFc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/oNGTYxlNCFc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Green Glass Walls - Soda Soda at -20 dB"
+    },
+    {
+      "clip_id": "pETnejixLOo_m301",
+      "title": "Two playoff approaches from the trees finish six feet combined",
+      "description": "Two playoff approaches from the trees finish six feet combined\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #highschoolgolf #birdie",
+      "creator": "Garrett Clark Golf",
+      "blurb": "",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Two players hit playoff approaches from the trees. Ball lands near the pin, shots within six feet, and the players react with 'Oh my god' and 'greatest golf shot'. | vision shot 72 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=pETnejixLOo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pETnejixLOo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pETnejixLOo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB",
+      "legal_flags": [
+        "creator roster: repost from 'Garrett Clark Golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
+      ]
+    },
+    {
       "clip_id": "pga_20261116_01",
       "title": "AUSTIN CHAMPIONSHIP PRES. BY COMPLIANCE SOLUTIONS \u2014 FINAL",
       "description": "Austin Championship pres. by Compliance Solutions leaderboard. #golf #PGATour #clipjohnson",
@@ -1425,130 +1871,6 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_02.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_02.mp4",
       "tiktok_sound": "TikTok sound: A Beautiful Day - Meredith Jaye"
-    },
-    {
-      "clip_id": "t7glkbUGdTw_m301",
-      "title": "Fringe putt hangs on the cup edge, then lips out",
-      "description": "Fringe putt hangs on the cup edge, then lips out\n\nMicah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips #golfswing",
-      "creator": "Micah Morris",
-      "blurb": "Micah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
-      "signal": "deep_mine",
-      "duration": 59,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Golfer hits a long wedge, then a chip from the fringe. The ball hangs on the cup edge and lips out. Both react with 'How did that miss?' | vision shot 55 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=t7glkbUGdTw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
-      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
-    },
-    {
-      "clip_id": "uza2KtmxZ9g_m301",
-      "title": "After a 330-yard drive, Mason splashes out of a short-sided bunker",
-      "description": "After a 330-yard drive, Mason splashes out of a short-sided bunker\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golfcomedy #golffail #golftips",
-      "creator": "Bryan Bros Golf",
-      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
-      "signal": "deep_mine",
-      "duration": 49,
-      "grade": 87,
-      "note": "DeepMine v3 shot: Players talk while walking the fairway, then Mason hits a bunker shot onto the green. The ball lands near the hole, and the others call it unbelievable. | vision shot 58 funny 25",
-      "source_url": "https://www.youtube.com/watch?v=uza2KtmxZ9g",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
-      "tiktok_sound": "TikTok sound: seven deadly sins - DJ BAI at -20 dB"
     }
   ]
 }
