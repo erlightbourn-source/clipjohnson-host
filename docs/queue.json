@@ -1749,9 +1749,9 @@
       "tiktok_sound": "TikTok sound: Future - Official Sound Studio"
     },
     {
-      "clip_id": "pga_20261122_01",
-      "title": "THE RSM CLASSIC \u2014 AFTER ROUND 3",
-      "description": "The RSM Classic leaderboard. #golf #PGATour #clipjohnson",
+      "clip_id": "pgafinal_20261123_the_rsm_classic",
+      "title": "The RSM Classic \u2014 final leaderboard",
+      "description": "Marco Penge wins The RSM Classic in a playoff at -16. Final leaderboard. #golf #PGATour #clipjohnson",
       "creator": "",
       "blurb": "",
       "signal": null,
@@ -1806,27 +1806,27 @@
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_01.mp4",
-      "tiktok_sound": "TikTok sound: soothing - DJ BAI"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20261123_the_rsm_classic.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pgafinal_20261123_the_rsm_classic.mp4",
+      "tiktok_sound": "TikTok sound: Late Spring - Official Sound Studio"
     },
     {
-      "clip_id": "pga_20261122_02",
-      "title": "RASMUS H\u00d8JGAARD",
-      "description": "Rasmus H\u00f8jgaard leads The RSM Classic after round 3. #golf #PGATour",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
+      "clip_id": "t7glkbUGdTw_m301",
+      "title": "Fringe putt hangs on the cup edge, then lips out",
+      "description": "Fringe putt hangs on the cup edge, then lips out\n\nMicah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips #golfswing",
+      "creator": "Micah Morris",
+      "blurb": "Micah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Golfer hits a long wedge, then a chip from the fringe. The ball hangs on the cup edge and lips out. Both react with 'How did that miss?' | vision shot 55 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=t7glkbUGdTw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
       "media_type": "video",
       "check_manifest": {
-        "content_type": "pga_motion_card",
+        "content_type": "comedy",
         "order": [
           "provenance",
           "db_truth",
@@ -1840,7 +1840,7 @@
             "check": "provenance",
             "applicable": true,
             "passed": true,
-            "reason": "known origin \u2014 source recorded"
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
           },
           {
             "check": "db_truth",
@@ -1864,13 +1864,13 @@
             "check": "pixel_format",
             "applicable": false,
             "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
+            "reason": "not applicable for content_type=comedy"
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261122_02.mp4",
-      "tiktok_sound": "TikTok sound: A Beautiful Day - Meredith Jaye"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
     }
   ]
 }
