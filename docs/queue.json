@@ -683,6 +683,130 @@
       "tiktok_sound": "TikTok sound: Echoes of What Could've Been - Gritty Grind at -20 dB"
     },
     {
+      "clip_id": "WSB3zhyacE8_m301",
+      "title": "Claims high 120s club speed, then carries it 323",
+      "description": "Claims high 120s club speed, then carries it 323\n\nRick Shiels Golf, UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.\n\nClip from \u201cRick Shiels Golf\u201d \u25b6 Full video on their channel.\n\n#rickshielsgolf #golf #shorts #golfclubheadspeed #rickshiels #golfdriver",
+      "creator": "Rick Shiels Golf",
+      "blurb": "Rick Shiels Golf, UK PGA pro behind one of the biggest golf channels on YouTube, with course challenges, celebrity and pro matches, and plenty of banter.",
+      "signal": "deep_mine",
+      "duration": 52,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Pro on a driving range talks about his clubhead speed while judges sit on a couch. He hits a drive, and the screen shows 323 carry and 184 ball speed. | vision shot 70 funny 22",
+      "source_url": "https://www.youtube.com/watch?v=WSB3zhyacE8",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WSB3zhyacE8_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/WSB3zhyacE8_m301.mp4",
+      "tiktok_sound": "TikTok sound: Give - DJ BAI at -20 dB"
+    },
+    {
+      "clip_id": "Wn-efEcgYZc_m301",
+      "title": "Steve slips mid-swing in Air Forces, drive goes 60 yards",
+      "description": "Steve slips mid-swing in Air Forces, drive goes 60 yards\n\nThis one's for the guy who thinks they can handle New Mexico's rough courses.\nAfter slipping and falling, the 'pipeline' golfer is surprised when his ball goes 60 yards down the fairway.\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #golfingfail #golftips #golfsports #golfingadventures",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 41,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Steve slips mid-swing in Air Force sneakers and the group laughs; later in a cart they joke about a breakfast burrito, a ball, and a 60-yard drive. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=Wn-efEcgYZc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Wn-efEcgYZc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/Wn-efEcgYZc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Velvety Captor - DJ BAI at -20 dB"
+    },
+    {
       "clip_id": "ZrxYPJaaTZA_m301",
       "title": "South Africa dirt glove, then the drive finds the green",
       "description": "South Africa dirt glove, then the drive finds the green\n\nBryson and his teammate just hit a shot that landed on the green, but the real question is, how did they even get that residue from South Africa on their glove?\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #bunkershot #golfchallenge",
@@ -1371,6 +1495,130 @@
       "tiktok_sound": "TikTok sound: Glow Halo Highway - Tread Lightly at -20 dB"
     },
     {
+      "clip_id": "ja9E3R7Zx1Y_m301",
+      "title": "Sand hits his eyeball on a chunk, then his partner stripes it",
+      "description": "Sand hits his eyeball on a chunk, then his partner stripes it\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #golfing #golftips",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 40,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A golfer chunks an iron shot, gets sand or grit in his eye, and admits he hit it six inches behind the ball. His partner then hits a good shot. | vision shot 45 funny 40",
+      "source_url": "https://www.youtube.com/watch?v=ja9E3R7Zx1Y",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ja9E3R7Zx1Y_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/ja9E3R7Zx1Y_m301.mp4",
+      "tiktok_sound": "TikTok sound: Digital Horizon - Blinking Frog Blast at -20 dB"
+    },
+    {
+      "clip_id": "kdn43ILizmw_m301",
+      "title": "Wes calls a lifestyle tap-in, misses, and fails his team",
+      "description": "Wes calls a lifestyle tap-in, misses, and fails his team\n\nSend this to the guy in your foursome who thinks he can tap out of trouble.\nThe Bryan Bros tap out of a crucial shot, and their own confidence takes a hit.\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #shorts #golffail #bryanbros #golfing",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 47,
+      "grade": 83,
+      "note": "DeepMine v3 funny: Wes announces a 'lifestyle' tap-in, steps up to a short putt in front of a crowd and misses, then says 'I have failed my team' while others joke. | vision shot 35 funny 70",
+      "source_url": "https://www.youtube.com/watch?v=kdn43ILizmw",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/kdn43ILizmw_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/kdn43ILizmw_m301.mp4",
+      "tiktok_sound": "TikTok sound: Glow Halo Highway - Tread Lightly at -20 dB"
+    },
+    {
       "clip_id": "lwff728Yh6c_m301",
       "title": "9-iron from 178 flies the green, clubhouse in danger",
       "description": "9-iron from 178 flies the green, clubhouse in danger\n\nYour buddy who thinks they can hit 180 yards with a wedge needs to see this.\nHe hits a 178-yard nine iron and thinks it's a flyer, but it actually breaks the hole\n\nGM Golf (Garrett Clark), challenge and match-format golf with a big following.\n\nClip from \u201cGM Golf\u201d \u25b6 Full video on their channel.\n\n#gmgolf #golf #shorts #golffail #golftips #golfclips",
@@ -1623,254 +1871,6 @@
       "legal_flags": [
         "creator roster: repost from 'Garrett Clark Golf', who is not on the CJ creator roster (config content.creators). The repost exposure Evan accepted covers the roster; add this creator on purpose or skip the clip."
       ]
-    },
-    {
-      "clip_id": "pga_20261116_01",
-      "title": "AUSTIN CHAMPIONSHIP PRES. BY COMPLIANCE SOLUTIONS \u2014 FINAL",
-      "description": "Austin Championship pres. by Compliance Solutions leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_01.mp4",
-      "tiktok_sound": "TikTok sound: Quick Slice - Muspace Lofi"
-    },
-    {
-      "clip_id": "pga_20261116_02",
-      "title": "CHAD RAMEY",
-      "description": "Chad Ramey wins the Austin Championship pres. by Compliance Solutions. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_02.mp4",
-      "tiktok_sound": "TikTok sound: Future - Official Sound Studio"
-    },
-    {
-      "clip_id": "pga_20261123_01",
-      "title": "THE RSM CLASSIC \u2014 FINAL",
-      "description": "The RSM Classic leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "pga_motion_card",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 source recorded"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261123_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261123_01.mp4",
-      "tiktok_sound": "TikTok sound: Far-flung Gossip - DJ BAI"
-    },
-    {
-      "clip_id": "t7glkbUGdTw_m301",
-      "title": "Fringe putt hangs on the cup edge, then lips out",
-      "description": "Fringe putt hangs on the cup edge, then lips out\n\nMicah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.\n\nClip from \u201cMicah Morris\u201d \u25b6 Full video on their channel.\n\n#micahmorris #golf #shorts #golffail #golftips #golfswing",
-      "creator": "Micah Morris",
-      "blurb": "Micah Morris, long-hitting creator (formerly Good Good) with course vlogs, challenges and shot-making golf.",
-      "signal": "deep_mine",
-      "duration": 59,
-      "grade": 92,
-      "note": "DeepMine v3 shot: Golfer hits a long wedge, then a chip from the fringe. The ball hangs on the cup edge and lips out. Both react with 'How did that miss?' | vision shot 55 funny 55",
-      "source_url": "https://www.youtube.com/watch?v=t7glkbUGdTw",
-      "provenance": "repost: youtube.com",
-      "content_type": "comedy",
-      "type": "comedy",
-      "media_type": "video",
-      "check_manifest": {
-        "content_type": "comedy",
-        "order": [
-          "provenance",
-          "db_truth",
-          "asset_exists",
-          "brand_safety",
-          "pixel_format"
-        ],
-        "passed": true,
-        "checks": [
-          {
-            "check": "provenance",
-            "applicable": true,
-            "passed": true,
-            "reason": "known origin \u2014 repost: youtube.com (allowed)"
-          },
-          {
-            "check": "db_truth",
-            "applicable": true,
-            "passed": true,
-            "reason": "DB status='pending' confirmed live"
-          },
-          {
-            "check": "asset_exists",
-            "applicable": true,
-            "passed": true,
-            "reason": "asset present on disk"
-          },
-          {
-            "check": "brand_safety",
-            "applicable": true,
-            "passed": true,
-            "reason": "no brand-safety exclusion"
-          },
-          {
-            "check": "pixel_format",
-            "applicable": false,
-            "passed": null,
-            "reason": "not applicable for content_type=comedy"
-          }
-        ]
-      },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/t7glkbUGdTw_m301.mp4",
-      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
     }
   ]
 }
