@@ -1,22 +1,22 @@
 {
   "clips": [
     {
-      "clip_id": "pga_20261116_01",
-      "title": "AUSTIN CHAMPIONSHIP PRES. BY COMPLIANCE SOLUTIONS \u2014 FINAL",
-      "description": "Austin Championship pres. by Compliance Solutions leaderboard. #golf #PGATour #clipjohnson",
-      "creator": "",
-      "blurb": "",
-      "signal": null,
-      "duration": 0,
-      "grade": 0,
-      "note": null,
-      "source_url": "https://www.espn.com/golf/leaderboard",
-      "provenance": "unknown source",
-      "content_type": "pga_motion_card",
-      "type": "pga_motion_card",
+      "clip_id": "1X4AbY5-g5o_m301",
+      "title": "Bob shanks one at Cam, then shanks another over the car",
+      "description": "Bob shanks one at Cam, then shanks another over the car\n\nSend this to the guy in your foursome who thinks they can play 27 holes with a shank factory.\nGrant Horvat's 1-Star Major meltdown ends with a hilarious rant about his trust issues with his caddie Cam.\n\nBryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.\n\nClip from \u201cBryan Bros Golf\u201d \u25b6 Full video on their channel.\n\n#bryanbrosgolf #golf #shorts #golffail #golfmeltdown #golfhumor",
+      "creator": "Bryan Bros Golf",
+      "blurb": "Bryan Bros Golf, brothers Wesley & George Bryan bringing trick-shot roots, course vlogs and golf challenges.",
+      "signal": "deep_mine",
+      "duration": 59,
+      "grade": 85,
+      "note": "DeepMine v3 funny: Bob shanks a tee shot toward Cam standing near the tee. Commentators joke he's close, then Bob shanks again, hits over the car, and the group laments the shanks. | vision shot 25 funny 62",
+      "source_url": "https://www.youtube.com/watch?v=1X4AbY5-g5o",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
       "media_type": "video",
       "check_manifest": {
-        "content_type": "pga_motion_card",
+        "content_type": "comedy",
         "order": [
           "provenance",
           "db_truth",
@@ -30,7 +30,7 @@
             "check": "provenance",
             "applicable": true,
             "passed": true,
-            "reason": "known origin \u2014 source recorded"
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
           },
           {
             "check": "db_truth",
@@ -54,13 +54,137 @@
             "check": "pixel_format",
             "applicable": false,
             "passed": null,
-            "reason": "not applicable for content_type=pga_motion_card"
+            "reason": "not applicable for content_type=comedy"
           }
         ]
       },
-      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_01.mp4",
-      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261116_01.mp4",
-      "tiktok_sound": "TikTok sound: Quick Slice - Muspace Lofi"
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1X4AbY5-g5o_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/1X4AbY5-g5o_m301.mp4",
+      "tiktok_sound": "TikTok sound: Mere Wax - DJ BAI at -20 dB"
+    },
+    {
+      "clip_id": "6rJPJfbFkyE_m301",
+      "title": "Wedge stops by the pin, then he vows to jump in the pond",
+      "description": "Wedge stops by the pin, then he vows to jump in the pond\n\nHe's talking about a hole-in-one and his life-changing dream, but what happens when he actually gets a chance?\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #golfshorts #forefooter #holeinone #golfcomedy",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 44,
+      "grade": 92,
+      "note": "DeepMine v3 shot: A wedge shot on a par 3 stops near the pin but doesn't drop. The group reacts, and a golfer says he would have jumped in the pond. | vision shot 52 funny 50",
+      "source_url": "https://www.youtube.com/watch?v=6rJPJfbFkyE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6rJPJfbFkyE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/6rJPJfbFkyE_m301.mp4",
+      "tiktok_sound": "TikTok sound: How Deep Your Heart Goes - Pogo Sticks at -20 dB"
+    },
+    {
+      "clip_id": "nxs3zV0qKms_m301",
+      "title": "Perfect putt for the match kicks off an old hole plug",
+      "description": "Perfect putt for the match kicks off an old hole plug\n\nShow this to the friend who needs to see this 20-foot putt go in.\nSteve's incredible 20-foot putt on Day 38 of their 50 States in 50 Days golf challenge\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #golftips #golfchallenge #golffail #golfshorts",
+      "creator": "Good Good",
+      "blurb": "Good Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 82,
+      "note": "DeepMine v3 shot: Players read a putt for the match. Their putt hits an old hole plug and kicks right. Commentary repeats 'it hit that hole', and a player asks for the ball back. | vision shot 55 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=nxs3zV0qKms",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nxs3zV0qKms_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/nxs3zV0qKms_m301.mp4",
+      "tiktok_sound": "TikTok sound: Countless - Official Sound Studio at -20 dB"
     },
     {
       "clip_id": "pga_20261116_02",
@@ -185,6 +309,68 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261123_01.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/pga_20261123_01.mp4",
       "tiktok_sound": "TikTok sound: Far-flung Gossip - DJ BAI"
+    },
+    {
+      "clip_id": "rQ39o75stJE_m301",
+      "title": "Blocked by a tree, he hooks it close from 150 yards",
+      "description": "Blocked by a tree, he hooks it close from 150 yards\n\nPeter Finch Golf and his caddie take on a $1000 match at the Head Pro's own course and pull off an incredible draw shot to win.\n\nPeter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.\n\nClip from \u201cPeter Finch Golf\u201d \u25b6 Full video on their channel.\n\n#peterfinchgolf #golf #shorts #golffail #caddielife #golfwin",
+      "creator": "Peter Finch Golf",
+      "blurb": "Peter Finch Golf, UK creator mixing on-course challenges, matches and game-improvement with a big personality.",
+      "signal": "deep_mine",
+      "duration": 57,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Players discuss a draw from behind a tree, then one hits a low hook. The ball lands on the green and rolls close, and they celebrate with 'we've bloody done it'. | vision shot 62 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=rQ39o75stJE",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rQ39o75stJE_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/rQ39o75stJE_m301.mp4",
+      "tiktok_sound": "TikTok sound: Leafy Teaching - DJ BAI at -20 dB"
     },
     {
       "clip_id": "t7glkbUGdTw_m301",
