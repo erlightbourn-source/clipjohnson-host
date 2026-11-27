@@ -125,6 +125,130 @@
       "tiktok_sound": "TikTok sound: How Deep Your Heart Goes - Pogo Sticks at -20 dB"
     },
     {
+      "clip_id": "G00ie3SHcxc_m301",
+      "title": "Bunker shot spins up by the pin, then a clutch putt drops",
+      "description": "Bunker shot spins up by the pin, then a clutch putt drops\n\nYour buddy who thinks he can out-golf you after watching this needs to see this.\nHe just sunk a clutch putt after a clutch bunker shot, but what really sealed the deal was his hilarious reaction to the turn of play.\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #golftips #golfsports #golfclips #golfreaction",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "signal": "deep_mine",
+      "duration": 38,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Opening interview shot of a man with a beer, then a bunker shot lands near the pin, a golfer putts and celebrates, and players high-five. | vision shot 62 funny 25",
+      "source_url": "https://www.youtube.com/watch?v=G00ie3SHcxc",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/G00ie3SHcxc_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/G00ie3SHcxc_m301.mp4",
+      "tiktok_sound": "TikTok sound: Storm's Crest - Rhythm Pants at -20 dB"
+    },
+    {
+      "clip_id": "iYgTeqpZLDY_m301",
+      "title": "Trent flushes a 5-iron to 10 feet, shot of the day",
+      "description": "Trent flushes a 5-iron to 10 feet, shot of the day\n\nFore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golftips #golffail #golfclips",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.",
+      "signal": "deep_mine",
+      "duration": 38,
+      "grade": 83,
+      "note": "DeepMine v3 shot: Golfer hits a 5-iron on a par 3 while the group reacts loudly ('shot of the day', '10 feet'). The ball landing is barely shown. Then they banter in carts. | vision shot 55 funny 35",
+      "source_url": "https://www.youtube.com/watch?v=iYgTeqpZLDY",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iYgTeqpZLDY_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/iYgTeqpZLDY_m301.mp4",
+      "tiktok_sound": "TikTok sound: Cold Vein Push - Boneslinger at -20 dB"
+    },
+    {
       "clip_id": "nxs3zV0qKms_m301",
       "title": "Perfect putt for the match kicks off an old hole plug",
       "description": "Perfect putt for the match kicks off an old hole plug\n\nShow this to the friend who needs to see this 20-foot putt go in.\nSteve's incredible 20-foot putt on Day 38 of their 50 States in 50 Days golf challenge\n\nGood Good is golf's biggest entertainment crew, known for pro-am matches, challenges and big-personality competition from a team of creators and ex-college players.\n\nClip from \u201cGood Good\u201d \u25b6 Full video on their channel.\n\n#goodgood #golf #golftips #golfchallenge #golffail #golfshorts",
@@ -495,6 +619,192 @@
       "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
       "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/uza2KtmxZ9g_m301.mp4",
       "tiktok_sound": "TikTok sound: seven deadly sins - DJ BAI at -20 dB"
+    },
+    {
+      "clip_id": "x8PqD_XgeO4_m301",
+      "title": "Royal Dornoch final hole: two putts to win the match",
+      "description": "Royal Dornoch final hole: two putts to win the match\n\nTourist's incredible recovery shot at Royal Dornoch leaves the crowd stunned\n\nNo Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.\n\nClip from \u201cNo Laying Up\u201d \u25b6 Full video on their channel.\n\n#nolayingup #golf #shorts #golfrecovery #royaldornoch #golfmishap",
+      "creator": "No Laying Up",
+      "blurb": "No Laying Up, the golf-media crew behind some of the game's best course vlogs, travel golf and banter.",
+      "signal": "deep_mine",
+      "duration": 58,
+      "grade": 92,
+      "note": "DeepMine v3 shot: Match-play finish at Royal Dornoch: approach shots, a long putt, 'two putts to win match' caption, then the winning putt and a hug. A player says 'He's done it.' | vision shot 62 funny 15",
+      "source_url": "https://www.youtube.com/watch?v=x8PqD_XgeO4",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x8PqD_XgeO4_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/x8PqD_XgeO4_m301.mp4",
+      "tiktok_sound": "TikTok sound: Hideaway - Maverick Rabbit at -20 dB"
+    },
+    {
+      "clip_id": "yB7GqZOydoo_m301",
+      "title": "One hole after a birdie, Trent tops an 8-iron and four-putts for an 8",
+      "description": "One hole after a birdie, Trent tops an 8-iron and four-putts for an 8\n\nFore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golftips #eightiron",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.",
+      "signal": "deep_mine",
+      "duration": 61,
+      "grade": 92,
+      "note": "DeepMine v3 funny: Trent putts repeatedly on a green, runs up a four-putt and the score goes from a two to an eight. Everyone groans, then the group jokes about it. | vision shot 25 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=yB7GqZOydoo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yB7GqZOydoo_m301.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yB7GqZOydoo_m301.mp4",
+      "tiktok_sound": "TikTok sound: Late Spring - Official Sound Studio at -20 dB"
+    },
+    {
+      "clip_id": "yB7GqZOydoo_m302",
+      "title": "Trent's putt hangs on the left edge, hole denies him",
+      "description": "Trent's putt hangs on the left edge, hole denies him\n\nFore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.\n\nClip from \u201cFore Play Golf\u201d \u25b6 Full video on their channel.\n\n#foreplaygolf #golf #shorts #golffail #golflessons #golfdrives",
+      "creator": "Fore Play Golf",
+      "blurb": "Fore Play Golf (Barstool Sports) is Riggs, Trent, Frankie and crew, mixing pro and celebrity guest matches with amateur banter.",
+      "signal": "deep_mine",
+      "duration": 55,
+      "grade": 87,
+      "note": "DeepMine v3 funny: Trent putts on the green, the ball hangs on the left edge and won't drop. Friends say the hole denied him. A hole flyover follows. | vision shot 35 funny 55",
+      "source_url": "https://www.youtube.com/watch?v=yB7GqZOydoo",
+      "provenance": "repost: youtube.com",
+      "content_type": "comedy",
+      "type": "comedy",
+      "media_type": "video",
+      "check_manifest": {
+        "content_type": "comedy",
+        "order": [
+          "provenance",
+          "db_truth",
+          "asset_exists",
+          "brand_safety",
+          "pixel_format"
+        ],
+        "passed": true,
+        "checks": [
+          {
+            "check": "provenance",
+            "applicable": true,
+            "passed": true,
+            "reason": "known origin \u2014 repost: youtube.com (allowed)"
+          },
+          {
+            "check": "db_truth",
+            "applicable": true,
+            "passed": true,
+            "reason": "DB status='pending' confirmed live"
+          },
+          {
+            "check": "asset_exists",
+            "applicable": true,
+            "passed": true,
+            "reason": "asset present on disk"
+          },
+          {
+            "check": "brand_safety",
+            "applicable": true,
+            "passed": true,
+            "reason": "no brand-safety exclusion"
+          },
+          {
+            "check": "pixel_format",
+            "applicable": false,
+            "passed": null,
+            "reason": "not applicable for content_type=comedy"
+          }
+        ]
+      },
+      "media_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yB7GqZOydoo_m302.mp4",
+      "video_url": "https://erlightbourn-source.github.io/clipjohnson-clips/yB7GqZOydoo_m302.mp4",
+      "tiktok_sound": "TikTok sound: Give - DJ BAI at -20 dB"
     }
   ]
 }
